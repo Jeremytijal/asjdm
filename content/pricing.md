@@ -1,7 +1,7 @@
 ---
 title: Notre Equipe
 sections:
-  - bg: gray
+  - bg: white
     pricingplans:
       - actions: []
         details: |-
