@@ -23,7 +23,7 @@ params:
     menu:
       actions:
         - label: Contactez-nous
-          url: /signup
+          url: /contact
   palette: blue
 disableKinds:
   - RSS
