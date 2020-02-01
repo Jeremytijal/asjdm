@@ -1,16 +1,6 @@
 ---
 title: Propositions
 sections:
-  - bg: gray
-    reviews:
-      - author: Découvrez notre équipe
-        content: Découvrez notre équipe
-      - author: Découvrez notre équipe
-        content: Découvrez notre équipe
-      - author: Découvrez notre équipe
-        content: Découvrez notre équipe
-    title: Nos idées
-    type: section_reviews
   - actions:
       - label: Free Trial
         url: /signup
@@ -26,6 +16,16 @@ sections:
     section_id: nospropositions
     title: Découvrez toutes nos propositions
     type: section_content
+  - bg: gray
+    reviews:
+      - author: ''
+        content: Proposition 1
+      - author: ''
+        content: Proposition 2
+      - author: ''
+        content: Proposition 3
+    title: Nos idées
+    type: section_reviews
   - actions:
       - label: Envoyer mon idée
         url: /contact
