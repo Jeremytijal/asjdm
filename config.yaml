@@ -10,7 +10,7 @@ params:
       - new_window: true
         text: Netary
         url: 'https://netary.fr'
-    logo_img: images/logo_alt.png
+    logo_img: /images/Copie de Sans titre.png
     nav_title: Menu
     social_title: Suivez-nous
     subscribe_content: Stay up to date with our latest developments.
@@ -18,7 +18,7 @@ params:
     tagline: Développé par Netary
   header:
     has_nav: true
-    logo_img: images/logo.png
+    logo_img: /images/Autrement.png
     title: Autrement Saint Jean de Monts
     menu:
       actions:
