@@ -3,6 +3,20 @@ title: Notre Équipe
 sections:
   - bg: white
     pricingplans:
+      - details: >-
+          ![Yves
+          Mathias](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg
+          "Yves Mathias")
+
+
+          Yves Mathias
+        highlight: true
+        title: Yves Mathias
+    section_id: Tête de liste
+    title: Yves Mathias
+    type: section_pricing
+  - bg: white
+    pricingplans:
       - actions: []
         details: |-
           ![cl](/images/photo profil cl.jpg "cl")
@@ -16,7 +30,7 @@ sections:
           ![ym](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg "ym")
 
           Elu
-        highlight: true
+        highlight: false
         price: ''
         title: Yves Mathias
       - actions: []
