@@ -13,9 +13,9 @@ sections:
         highlight: true
         title: Yves Mathias
     section_id: Tête de liste
-    title: Yves Mathias
+    title: Découvrez les membres de notre liste
     type: section_pricing
-  - bg: white
+  - bg: gray
     pricingplans:
       - actions: []
         details: |-
@@ -42,7 +42,7 @@ sections:
         title: Yves Mathias
     section_id: Equipe 1
     subtitle: ''
-    title: Découvrez notre équipe
+    title: ''
     type: section_pricing
   - bg: white
     pricingplans:
