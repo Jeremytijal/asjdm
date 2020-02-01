@@ -9,30 +9,30 @@ sections:
       Montois. Entre mer, marais et forêt, nous avons construit ensemble une
       ville où il fait bon vivre, attractive, solidaire et énergique toute
       l’année. C’est le résultat de nos actions.
-    image: images/hero.png
+    image: /images/Autrement.png
     section_id: hero
     title: Autrement Saint Jean de Monts
     type: section_hero
   - bg: gray
     featureslist:
       - actions:
-          - label: Learn More
+          - label: En savoir plus
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        title: The Best Feature of Your Services
+          Dans la continuité des multiples projets de démocratie participative
+          déjà réalisés (centre-ville, Quartiers Libres, sondages), la liste
+          Agir Ensemble veut continuer d’appliquer ce principe. Alors, faites
+          part de vos suggestions et participons !
+        image: /images/bobby-burch-7ghPaPLdmTY-unsplash.jpg
+        title: Nos Propositions
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Découvrez toute la liste
+            url: /pricing
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+          Des personnes expérimentées, actuellement élues, mais aussi de
+          nouveaux candidats, au service des Montois.
+        image: /images/Yves Mathias.png
+        title: Notre Equipe
       - actions:
           - label: Learn More
             url: /features
@@ -43,10 +43,8 @@ sections:
         image: images/feature3.png
         title: Cool Feature of Your Services
     section_id: features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+    subtitle: ''
+    title: Notre Vision pour l'Avenir des Montois
     type: section_features
   - bg: white
     reviews:
@@ -81,11 +79,11 @@ sections:
     type: section_cta
   - bg: gray
     section_id: recent-posts
-    title: Latest Posts
+    title: Nos Actualités
     type: section_posts
 menu:
   main:
-    name: Home
+    name: Accueil
     weight: 1
 layout: landing
 ---
