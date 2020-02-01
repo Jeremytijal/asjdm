@@ -1,6 +1,16 @@
 ---
 title: Propositions
 sections:
+  - bg: gray
+    reviews:
+      - author: Découvrez notre équipe
+        content: Découvrez notre équipe
+      - author: Découvrez notre équipe
+        content: Découvrez notre équipe
+      - author: Découvrez notre équipe
+        content: Découvrez notre équipe
+    title: Nos idées
+    type: section_reviews
   - actions:
       - label: Free Trial
         url: /signup
