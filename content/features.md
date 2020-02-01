@@ -1,21 +1,15 @@
 ---
 title: Propositions
 sections:
-  - actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
-    bg: gray
+  - bg: gray
     content: >-
       Dans la continuité des multiples projets de démocratie participative déjà
       réalisés (centre-ville, Quartiers Libres, sondages), la liste Agir
       Ensemble veut continuer d'appliquer ce principe. Alors, faites part de vos
       suggestions et participons !
-    image: ''
-    section_id: nospropositions
+    section_id: propositions
     title: Découvrez toutes nos propositions
-    type: section_content
+    type: section_contact
   - bg: gray
     reviews:
       - author: ''
@@ -33,6 +27,21 @@ sections:
     subtitle: ''
     title: 'Envoyez-nous vos idées '
     type: section_cta
+  - actions:
+      - label: Free Trial
+        url: /signup
+      - label: View Demo
+        url: '#'
+    bg: gray
+    content: >-
+      Dans la continuité des multiples projets de démocratie participative déjà
+      réalisés (centre-ville, Quartiers Libres, sondages), la liste Agir
+      Ensemble veut continuer d'appliquer ce principe. Alors, faites part de vos
+      suggestions et participons !
+    image: ''
+    section_id: nospropositions
+    title: Découvrez toutes nos propositions
+    type: section_content
 menu:
   main:
     name: Nos Propositions
