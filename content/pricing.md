@@ -3,18 +3,15 @@ title: Notre Equipe
 sections:
   - bg: gray
     pricingplans:
-      - actions:
-          - label: Order Now
-            url: /signup
+      - actions: []
         details: |-
           ![cl](/images/photo profil cl.jpg "cl")
 
           Manager Graphiste
+        highlight: false
         price: ''
         title: Christian Leplu
-      - actions:
-          - label: Order Now
-            url: /signup
+      - actions: []
         details: |-
           ![ym](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg "ym")
 
@@ -22,19 +19,19 @@ sections:
         highlight: true
         price: ''
         title: Yves Mathias
-      - actions:
-          - label: Order Now
-            url: /signup
+      - actions: []
         details: |-
           ![ym](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg "ym")
 
           Yves Mathias
-
-          Yves Mathias
-
-          Yves Mathias
         price: ''
         title: Yves Mathias
+      - details: |-
+          ![ym](/images/review2.jpg "ym")
+
+          Elu
+        highlight: false
+        title: 'Mireille '
     section_id: pricing
     subtitle: ''
     title: Découvrez notre équipe
