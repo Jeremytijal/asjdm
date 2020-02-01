@@ -1,7 +1,7 @@
 ---
-title: Customer Loyalty Programs That Stick
-subtitle: A story about customer loyalty
-date: '2019-04-23'
+title: Réunion du 30 janvier
+subtitle: Réunion du 30 janvier
+date: 2020-01-28T23:00:00.000Z
 thumb_img_path: images/3_thumb.jpg
 img_path: images/3.jpg
 excerpt: >-
