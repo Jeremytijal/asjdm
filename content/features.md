@@ -25,6 +25,7 @@ sections:
     type: section_cta
   - bg: gray
     content: '#### Développement économique'
+    image: /images/logo.png
     section_id: Développement économique
     title: Développement économique
     type: section_content
