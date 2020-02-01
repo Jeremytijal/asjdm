@@ -23,7 +23,7 @@ sections:
 menu:
   main:
     name: FAQ
-    weight: 4
+    weight: 5
 layout: landing
 ---
 
