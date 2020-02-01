@@ -8,20 +8,10 @@ sections:
         url: '#'
     bg: gray
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-
-
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Dans la continuité des multiples projets de démocratie participative déjà
+      réalisés (centre-ville, Quartiers Libres, sondages), la liste Agir
+      Ensemble veut continuer d'appliquer ce principe. Alors, faites part de vos
+      suggestions et participons !
     image: ''
     section_id: nospropositions
     title: Découvrez toutes nos propositions
@@ -33,6 +23,11 @@ sections:
     subtitle: This is an optional description for the call to action block.
     title: This Is Call to Action Block!
     type: section_cta
+  - bg: gray
+    content: '#### Développement économique'
+    section_id: Développement économique
+    title: Développement économique
+    type: section_content
 menu:
   main:
     name: Features
