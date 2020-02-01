@@ -1,8 +1,9 @@
 ---
-title: Blog
+title: Nos Actualités
 menu:
   secondary:
-    name: Blog
+    name: Actualités
     weight: 2
 layout: blog
 ---
+
