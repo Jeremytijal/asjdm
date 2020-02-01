@@ -26,15 +26,37 @@ sections:
           Yves Mathias
         price: ''
         title: Yves Mathias
-      - details: |-
-          ![ym](/images/review2.jpg "ym")
-
-          Elu
-        highlight: false
-        title: 'Mireille '
-    section_id: pricing
+    section_id: Equipe 1
     subtitle: ''
     title: Découvrez notre équipe
+    type: section_pricing
+  - bg: white
+    pricingplans:
+      - details: |-
+          ![ym](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg "ym")
+
+          Yves Mathias
+        highlight: false
+        title: Yves Mathias
+      - details: >-
+          ![Yves
+          Mathias](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg
+          "Yves Mathias")
+
+
+          Yves Mathias
+        highlight: false
+        title: Yves Mathias
+      - details: >-
+          ![Yves
+          Mathias](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg
+          "Yves Mathias")
+
+
+          Yves Mathias
+        highlight: false
+        title: Yves Mathias
+    section_id: equipe2
     type: section_pricing
   - bg: gray
     faqitems:
