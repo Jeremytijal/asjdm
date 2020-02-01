@@ -347,6 +347,7 @@ collections:
                 options:
                   - gray
                   - white
+                  - green
               - widget: list
                 name: actions
                 label: Action Buttons
