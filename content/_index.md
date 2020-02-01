@@ -15,12 +15,6 @@ sections:
     title: Autrement Saint Jean de Monts
     type: section_hero
   - bg: gray
-    content: Nous sommes la
-    image: /images/feature3.png
-    section_id: autre
-    title: Autrement Saint Jean de Monts
-    type: section_content
-  - bg: gray
     featureslist:
       - actions:
           - label: En savoir plus
@@ -38,9 +32,9 @@ sections:
         content: >-
           Des personnes expérimentées, actuellement élues, mais aussi de
           nouveaux candidats, au service des Montois.
-        image: /images/Yves Mathias.png
-        title: Notre Equipe
-    section_id: features
+        image: /images/Copie de Yves Mathias.png
+        title: Notre Équipe
+    section_id: Vision
     subtitle: ''
     title: Notre Vision pour l'Avenir des Montois
     type: section_features
@@ -48,8 +42,8 @@ sections:
       - label: J'ai des idées
         url: /contact
     section_id: call-to-action
-    subtitle: N'hésitez pas à nous les envoyer
-    title: Vous avez des idées pour Saint Jean de Monts
+    subtitle: N'hésitez pas à nous envoyer vos idées pour Saint Jean de Monts
+    title: Nous sommes à votre écoute !
     type: section_cta
   - bg: gray
     section_id: recent-posts
