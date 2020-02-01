@@ -17,21 +17,15 @@ sections:
     title: Découvrez toutes nos propositions
     type: section_content
   - actions:
-      - label: Get Started
-        url: '#'
+      - label: Envoyer mon idée
+        url: /contact
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call to Action Block!
+    subtitle: ''
+    title: 'Envoyez-nous vos idées '
     type: section_cta
-  - bg: gray
-    content: '#### Développement économique'
-    image: /images/logo.png
-    section_id: Développement économique
-    title: Développement économique
-    type: section_content
 menu:
   main:
-    name: Features
+    name: Nos Propositions
     weight: 2
 layout: landing
 ---
