@@ -72,6 +72,20 @@ sections:
         title: Yves Mathias
     section_id: equipe2
     type: section_pricing
+  - bg: gray
+    reviews:
+      - author: Yves Mathias
+        avatar: /images/320x240_yves-mathias-conseiller-municipal-5588.jpg
+        content: Yves Mathias
+      - author: Yves Mathias
+        avatar: /images/320x240_yves-mathias-conseiller-municipal-5588.jpg
+        content: Yves Mathias
+      - author: Yves Mathias
+        avatar: >-
+          /images/320x240_yves-mathias-conseiller-municipal-5588-removebg-preview.png
+        content: Yves Mathias
+    title: Notre Équipe
+    type: section_reviews
 menu:
   main:
     name: Notre Équipe
