@@ -1,15 +1,13 @@
 ---
 title: Propositions
 sections:
-  - bg: gray
-    content: >-
+  - content: >-
       Dans la continuité des multiples projets de démocratie participative déjà
       réalisés (centre-ville, Quartiers Libres, sondages), la liste Agir
       Ensemble veut continuer d'appliquer ce principe. Alors, faites part de vos
       suggestions et participons !
-    section_id: propositions
     title: Découvrez toutes nos propositions
-    type: section_contact
+    type: section_hero
   - bg: gray
     reviews:
       - author: ''
