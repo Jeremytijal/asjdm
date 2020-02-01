@@ -74,6 +74,10 @@ sections:
         title: Yves Mathias
     section_id: equipe2
     type: section_pricing
+  - bg: green
+    content: test
+    title: test
+    type: section_content
 menu:
   main:
     name: Notre Équipe
