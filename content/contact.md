@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - bg: white
+  - bg: gray
     content: Nous sommes à votre écoute.
     section_id: contact
     title: J'ai une idée
