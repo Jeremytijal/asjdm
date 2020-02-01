@@ -36,7 +36,7 @@ sections:
         title: Notre Équipe
     section_id: Vision
     subtitle: ''
-    title: Notre Vision pour l'Avenir des Montois
+    title: 'Notre vision pour votre avenir '
     type: section_features
   - actions:
       - label: J'ai des idées
