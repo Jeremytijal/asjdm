@@ -74,7 +74,7 @@ sections:
         title: Yves Mathias
     section_id: equipe2
     type: section_pricing
-  - bg: green
+  - bg: white
     content: test
     title: test
     type: section_content
