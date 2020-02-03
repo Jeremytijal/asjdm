@@ -7,6 +7,6 @@ img_path: /images/dylan-gillis-KdeqA3aTnBY-unsplash.jpg
 excerpt: 'Venez-nous rencontrer le Mercredi 11 Mars 2020. Lieu de rencontre : Odysséa'
 layout: post
 ---
-> Venez nous rencontrer le Mercredi 11 Mars 2020
+> Venez-nous rencontrer le Mercredi 11 Mars 2020
 >
 > Lieu de rencontre : Odysséa
