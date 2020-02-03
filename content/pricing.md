@@ -113,6 +113,7 @@ sections:
     type: section_pricing
   - actions:
       - label: Lire la suite
+        url: /
     bg: gray
     content: >-
       # Yves Mathias
