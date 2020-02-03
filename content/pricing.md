@@ -41,14 +41,6 @@ sections:
         highlight: false
         price: ''
         title: Liliane Bollengier
-      - details: >-
-          ![Dominique Houssais](/images/Dominique Houssais.jpg "Dominique
-          Houssais")
-
-
-          63 ans
-        highlight: false
-        title: Dominique Houssais
     section_id: Equipe 1
     subtitle: ''
     title: ''
@@ -105,6 +97,14 @@ sections:
           37 ans,
         highlight: false
         title: Amélie Rivière
+    section_id: equipe 3
+    type: section_pricing
+  - bg: white
+    content: test
+    title: test
+    type: section_content
+  - bg: gray
+    pricingplans:
       - details: >-
           ![Dominique Houssais](/images/Dominique Houssais.jpg "Dominique
           Houssais")
@@ -113,12 +113,14 @@ sections:
           63 ans
         highlight: false
         title: Dominique Houssais
-    section_id: equipe 3
+      - details: |-
+          ![Gianna Cannelle](/images/Gianna Cannelle.jpg "Gianna Cannelle")
+
+          62 ans
+        highlight: false
+        title: Gianna Cannelle
+    section_id: equipe 4
     type: section_pricing
-  - bg: white
-    content: test
-    title: test
-    type: section_content
 menu:
   main:
     name: Notre Équipe
