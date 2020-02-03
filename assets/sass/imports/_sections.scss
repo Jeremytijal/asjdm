@@ -557,11 +557,17 @@
   }
   
    &.bg-sea {
-    background: #043ba6;
-    color: #fff; 
+    background-image: _palette(sea);
+    background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
+    background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
+    color: #fff;
 
     .block-title {
       color: inherit;
+    }
+
+    .underline:after {
+      border-color: currentColor;
     }
   }
 
