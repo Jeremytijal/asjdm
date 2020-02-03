@@ -1,16 +1,29 @@
 ---
-title: Sign Up
+title: Notre Projet
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-img_path: images/11.jpg
+  La liste «AUTREMENT SAINT JEAN DE MONTS» est composée de 29 personnes, un
+  tiers de retraité et de deux tiers d’actifs.
+img_path: /images/groupe.jpg
 menu:
   secondary:
     name: Sign Up
     weight: 1
 layout: page
 ---
+Cette équipe innovante associe l’expérience municipale à l’enthousiasme de la découverte.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Cette équipe se veut être le reflet du visage de SAINT JEAN DE MONTS par sa diversité, son dynamisme, son sens de l’engagement et les strates d’âges qui composent la population.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+Les personnes qui composent la liste sont à la fois des Montoises et Montois de longue date, connus de leurs concitoyens, mais aussi des néo-Montois, parce que l’une des caractéristiques de notre belle commune est d’être une commune d’accueil où de nombreuses personnes viennent poursuivre leur activité professionnelle ou prendre leur retraite.
+
+Cette équipe est composée de personnes qui ont su montrer, dans les responsabilités qu’elles exercent ou ont exercées, leur compétence, leur envie d’agir, de construire et de proposer des solutions .
+
+Cette équipe novatrice est composée majoritairement d’acteurs connus et reconnus de la vie locale, qu’elle soit municipale, associative, caritative ou professionnelle. Tous ses membres ont en commun le sens de l’engagement au service des autres à travers leurs parcours professionnel, associatif ou caritatif.
+
+C’est une équipe qui partage en commun une vision d’avenir moderne et dynamique pour notre ville avec pour ambition de faire retrouver à SAINT JEAN DE MONTS sa place au sein du paysage vendéen en s’appuyant sur les forts potentiels qui existent au sein de notre commune mais également en s’appuyant sur les forces du département et de la région.
+
+C’est une équipe qui est engagée au service d’un projet qui aura à cœur d’accompagner ceux qui entreprennent, que ce soit dans l’économie, le secteur social ou associatif ; tout en respectant notre identité du littoral et du marais et en s’appuyant sur l’histoire qui a façonné notre belle cité. C’est une équipe qui s’engage pour ceux qui sont dans la difficulté pour leur redonner la dignité, l’autonomie et la liberté que toute personne aspire. Cette équipe veut renforcer le potentiel « santé et soins »de la commune et en faire un véritable pôle territorial de santé.
+
+C’est une équipe déterminée et consciente des responsabilités qu’elle a vis-à-vis de nos jeunes ayant à cœur de leur donner toutes les chances possibles et leur transmettre une commune actrice sur notre climat et notre qualité de vie.
+
+Nous sommes prêts à relever les défis nombreux qui s’annoncent dans les prochaines années et qui vont venir modeler notre cadre de vie. Nous sommes ambitieux pour l’avenir de SAINT JEAN DE MONTS tout en voulant pérenniser notre cadre de vie en faisant preuve de pragmatisme , de transparence et de sincérité vis-à-vis de l’ensemble des Montoises et montois.
