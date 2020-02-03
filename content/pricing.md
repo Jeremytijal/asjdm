@@ -5,13 +5,10 @@ sections:
     type: section_hero
   - bg: white
     pricingplans:
-      - details: >-
-          ![Yves
-          Mathias](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg
-          "Yves Mathias")
+      - details: |-
+          ![Yves Mathias](/images/Yves Mathias.jpg "Yves Mathias")
 
-
-          Yves Mathias
+          65 ans, Tête de liste
         highlight: true
         title: Yves Mathias
     section_id: Tête de liste
