@@ -9,6 +9,6 @@ excerpt: >-
   Odysséa
 layout: post
 ---
-> Venez nous rencontre le Mecredi 26 Février à 19h
+> Venez-nous rencontrer le Mecredi 26 Février à 19h
 >
 > Lieu de rencontre : Odysséa
