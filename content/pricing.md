@@ -41,6 +41,14 @@ sections:
         highlight: false
         price: ''
         title: Liliane Bollengier
+      - details: >-
+          ![Dominique Houssais](/images/Dominique Houssais.jpg "Dominique
+          Houssais")
+
+
+          63 ans
+        highlight: false
+        title: Dominique Houssais
     section_id: Equipe 1
     subtitle: ''
     title: ''
