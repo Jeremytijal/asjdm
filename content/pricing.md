@@ -73,6 +73,16 @@ sections:
     content: test
     title: test
     type: section_content
+  - bg: gray
+    pricingplans:
+      - details: |-
+          ![Jessica Grondin](/images/Jessica Grondin.jpg "Jessica Grondin")
+
+          38 ans,
+        highlight: false
+        title: Jessica Grondin
+    section_id: equipe 3
+    type: section_pricing
 menu:
   main:
     name: Notre Équipe
