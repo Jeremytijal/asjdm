@@ -575,11 +575,6 @@ collections:
                     name: url
                     label: Button URL
                     required: false
-              - widget: image
-                    name: bg
-                    label: Background
-                    required: false
-                    hint: The image of the background.
               - widget: hidden
                 name: type
                 label: Reference Type Name
