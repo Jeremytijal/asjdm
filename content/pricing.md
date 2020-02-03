@@ -81,6 +81,20 @@ sections:
           38 ans,
         highlight: false
         title: Jessica Grondin
+      - details: >-
+          ![Jean-Jacques Robreteau](/images/Jean Jacques Robreteau.jpg
+          "Jean-Jacques Robreteau")
+
+
+          62 ans,
+        highlight: false
+        title: Jean-Jacques Robreteau
+      - details: |-
+          ![Amélie Rivière](/images/Amélie Rivière.jpg "Amélie Rivière")
+
+          37 ans,
+        highlight: false
+        title: Amélie Rivière
     section_id: equipe 3
     type: section_pricing
 menu:
