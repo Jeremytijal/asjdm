@@ -4,7 +4,7 @@ sections:
   - actions:
       - label: Nos propositions
         url: /features
-    bg: red
+    bg: null
     content: >-
       Toute l’équipe d’Autrement Saint Jean de Monts travaille pour tous les
       Montois. Entre mer, marais et forêt, nous avons construit ensemble une
