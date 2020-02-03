@@ -561,14 +561,6 @@ collections:
                 label: Image
                 required: false
                 hint: The image of the section.
-              - widget: select
-                name: bg
-                label: Background
-                required: false
-                default: gray
-                hint: The background of the section.
-                options:
-                - red
               - widget: list
                 name: actions
                 label: Action Buttons
