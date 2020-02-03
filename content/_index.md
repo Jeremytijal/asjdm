@@ -10,7 +10,7 @@ sections:
       Montois. Entre mer, marais et forêt, nous avons construit ensemble une
       ville où il fait bon vivre, attractive, solidaire et énergique toute
       l’année. C’est le résultat de nos actions.
-    image: /images/IMG_0580.jpg
+    image: /images/christina-wocintechchat-com-faEfWCdOKIg-unsplash.jpg
     section_id: hero
     title: Autrement Saint Jean de Monts
     type: section_hero
