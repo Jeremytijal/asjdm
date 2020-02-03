@@ -55,24 +55,18 @@ sections:
           63 ans
         highlight: false
         title: Dominique Petreau
-      - details: >-
-          ![Yves
-          Mathias](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg
-          "Yves Mathias")
+      - details: |-
+          ![Valérie Gousset](/images/Valérie Gousset.jpg "Valérie Gousset")
 
-
-          Yves Mathias
+          59 ans
         highlight: false
-        title: Yves Mathias
-      - details: >-
-          ![Yves
-          Mathias](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg
-          "Yves Mathias")
+        title: Valérie Gousset
+      - details: |-
+          ![Christian Leplu](/images/Christian Leplu.jpg "Christian Leplu")
 
-
-          Yves Mathias
+          57 ans, Manager Graphiste
         highlight: false
-        title: Yves Mathias
+        title: Christian Leplu
     section_id: equipe2
     type: section_pricing
   - bg: white
