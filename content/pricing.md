@@ -47,12 +47,14 @@ sections:
     type: section_pricing
   - bg: white
     pricingplans:
-      - details: |-
-          ![ym](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg "ym")
+      - details: >-
+          ![Dominique Petreau](/images/Dominique Petreau.jpg "Dominique
+          Petreau")
 
-          Yves Mathias
+
+          63 ans
         highlight: false
-        title: Yves Mathias
+        title: Dominique Petreau
       - details: >-
           ![Yves
           Mathias](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg
