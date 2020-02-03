@@ -3,9 +3,9 @@ title: Propositions
 sections:
   - content: >-
       Dans la continuité des multiples projets de démocratie participative déjà
-      réalisés (centre-ville, Quartiers Libres, sondages), la liste Agir
-      Ensemble veut continuer d'appliquer ce principe. Alors, faites part de vos
-      suggestions et participons !
+      réalisés (centre-ville, Quartiers Libres, sondages), la liste Autrement
+      Saint-Jean-de-Monts veut continuer d'appliquer ce principe. Alors, faites
+      part de vos suggestions et participons !
     title: Découvrez toutes nos propositions
     type: section_hero
   - bg: gray
