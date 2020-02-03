@@ -21,27 +21,29 @@ sections:
     pricingplans:
       - actions: []
         details: |-
-          ![cl](/images/photo profil cl.jpg "cl")
+          ![Mireille Glorion](/images/Mireille Glorion.jpg "Mireille Glorion")
 
-          Manager Graphiste
+          68 ans, Élue
         highlight: false
         price: ''
-        title: Christian Leplu
+        title: Mireille Glorion
       - actions: []
         details: |-
-          ![ym](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg "ym")
+          ![Vincent Horeau](/images/Vincent Horeau.jpg "Vincent Horeau")
 
-          Elu
+          50 ans, "Fonction"
+        price: ''
+        title: Vincent Horeau
+      - actions: []
+        details: >-
+          ![Liliane Bollengier](/images/Liliane Bollengier.jpg "Liliane
+          Bollengier")
+
+
+          65 ans, "Fonction"
         highlight: false
         price: ''
-        title: Yves Mathias
-      - actions: []
-        details: |-
-          ![ym](/images/320x240_yves-mathias-conseiller-municipal-5588.jpg "ym")
-
-          Yves Mathias
-        price: ''
-        title: Yves Mathias
+        title: Liliane Bollengier
     section_id: Equipe 1
     subtitle: ''
     title: ''
