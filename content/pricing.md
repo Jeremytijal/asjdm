@@ -67,6 +67,12 @@ sections:
           57 ans, Manager Graphiste
         highlight: false
         title: Christian Leplu
+      - details: |-
+          ![Gianna Cannelle](/images/Gianna Cannelle.jpg "Gianna Cannelle")
+
+          62 ans
+        highlight: false
+        title: Gianna Cannelle
     section_id: equipe2
     type: section_pricing
   - bg: gray
@@ -99,12 +105,6 @@ sections:
           63 ans
         highlight: false
         title: Dominique Houssais
-      - details: |-
-          ![Gianna Cannelle](/images/Gianna Cannelle.jpg "Gianna Cannelle")
-
-          62 ans
-        highlight: false
-        title: Gianna Cannelle
     section_id: equipe 3
     type: section_pricing
   - bg: white
