@@ -1,7 +1,7 @@
 ---
 title: Réunion Publique du Jeudi 20 Février
 subtitle: ''
-date: 2020-01-28T23:00:00.000Z
+date: 2020-01-27T23:00:00.000Z
 thumb_img_path: /images/chuttersnap-cX2vElQ5aHk-unsplash.jpg
 img_path: /images/chuttersnap-cX2vElQ5aHk-unsplash.jpg
 excerpt: 'Venez nous rencontre le Jeudi 20 Février à 19h. '
