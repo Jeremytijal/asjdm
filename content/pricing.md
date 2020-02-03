@@ -56,23 +56,14 @@ sections:
         highlight: false
         title: Dominique Petreau
       - details: |-
-          ![Valérie Gousset](/images/Valérie Gousset.jpg "Valérie Gousset")
-
-          59 ans
-        highlight: false
-        title: Valérie Gousset
-      - details: |-
           ![Christian Leplu](/images/Christian Leplu.jpg "Christian Leplu")
 
           57 ans, Manager Graphiste
         highlight: false
         title: Christian Leplu
-      - details: |-
-          ![Gianna Cannelle](/images/Gianna Cannelle.jpg "Gianna Cannelle")
-
-          62 ans
+      - details: '![Valérie Gousset](/images/Valérie Gousset.jpg "Valérie Gousset")'
         highlight: false
-        title: Gianna Cannelle
+        title: Valérie Gousset
     section_id: equipe2
     type: section_pricing
   - bg: gray
@@ -99,10 +90,6 @@ sections:
         title: Amélie Rivière
     section_id: equipe 3
     type: section_pricing
-  - bg: white
-    content: test
-    title: test
-    type: section_content
   - bg: gray
     pricingplans:
       - details: >-
