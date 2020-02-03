@@ -6,6 +6,6 @@ img_path: /images/edwin-andrade-4V1dC_eoCwg-unsplash.jpg
 excerpt: 'Venez-nous rencontrer le Jeudi 19 Mars 2020 à 19h. Lieu de rencontre : Odysséa'
 layout: post
 ---
-> Venez nous rencontrer le Jeudi 19 Mars 2020 à 19h. 
+> Venez-nous rencontrer le Jeudi 19 Mars 2020 à 19h. 
 >
 > Lieu de rencontre : Odysséa
