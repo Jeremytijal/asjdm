@@ -5,12 +5,9 @@ sections:
     type: section_hero
   - actions:
       - label: Lire la suite
-        url: /
-    bg: gray
+        url: /signup
+    bg: white
     content: >-
-      # Yves Mathias
-
-
       La liste Autrement Saint-Jean de Monts est composée de 29 personnes, un
       tiers de retraité et de deux tiers d’actifs.
 
@@ -19,21 +16,10 @@ sections:
       de la découverte. Elle se veut être le reflet du visage de SAINT JEAN DE
       MONTS par sa diversité, son dynamisme, son sens de l’engage- ment et les
       strates d’âges qui composent la population.
-    image: /images/Yves Mathias.jpg
+    image: /images/Sans titre-6.png
     section_id: Yves Mathias
-    title: 'Tête de liste '
+    title: Yves Mathias
     type: section_content
-  - bg: white
-    pricingplans:
-      - details: |-
-          ![Yves Mathias](/images/Yves Mathias.jpg "Yves Mathias")
-
-          65 ans, Tête de liste
-        highlight: true
-        title: Yves Mathias
-    section_id: Tête de liste
-    title: ''
-    type: section_pricing
   - bg: gray
     pricingplans:
       - actions: []
@@ -81,12 +67,14 @@ sections:
           59 ans,
         highlight: false
         title: Valérie Gousset
-      - details: |-
-          ![Christian Leplu](/images/Christian Leplu.jpg "Christian Leplu")
+      - details: >-
+          ![Liliane Bollengier](/images/Christian Leplu.jpg "Liliane
+          Bollengier")
 
-          57 ans, Manager Graphiste
+
+          65 ans, "Fonction"
         highlight: false
-        title: Christian Leplu
+        title: Liliane Bollengier
     section_id: equipe2
     type: section_pricing
   - bg: gray
