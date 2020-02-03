@@ -69,10 +69,6 @@ sections:
         title: Christian Leplu
     section_id: equipe2
     type: section_pricing
-  - bg: white
-    content: test
-    title: test
-    type: section_content
   - bg: gray
     pricingplans:
       - details: |-
@@ -95,8 +91,26 @@ sections:
           37 ans,
         highlight: false
         title: Amélie Rivière
+      - details: >-
+          ![Dominique Houssais](/images/Dominique Houssais.jpg "Dominique
+          Houssais")
+
+
+          63 ans
+        highlight: false
+        title: Dominique Houssais
+      - details: |-
+          ![Gianna Cannelle](/images/Gianna Cannelle.jpg "Gianna Cannelle")
+
+          62 ans
+        highlight: false
+        title: Gianna Cannelle
     section_id: equipe 3
     type: section_pricing
+  - bg: white
+    content: test
+    title: test
+    type: section_content
 menu:
   main:
     name: Notre Équipe
