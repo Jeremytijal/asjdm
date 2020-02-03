@@ -557,14 +557,10 @@
   }
   
    &.bg-sea {
-    background-image: url('../static/images/IMG_0580.jpg');
+    background-image: url('static/images/groupe.jpg');
 
     .block-title {
       color: inherit;
-    }
-
-    .underline:after {
-      border-color: currentColor;
     }
   }
 
