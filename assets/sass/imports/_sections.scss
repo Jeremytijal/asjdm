@@ -557,10 +557,8 @@
   }
   
    &.bg-sea {
-    background-image: _palette(sea);
-    background: -webkit-linear-gradient(left,_palette(sea), _palette(sea));
-    background: linear-gradient(to right,_palette(sea), _palette(sea));
-    color: #fff;
+    background-image: url('https://unsplash.com/photos/KMn4VEeEPR8');
+    background-repeat: repeat-y;
 
     .block-title {
       color: inherit;
