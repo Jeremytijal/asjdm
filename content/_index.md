@@ -22,8 +22,8 @@ sections:
         content: >-
           Dans la continuité des multiples projets de démocratie participative
           déjà réalisés (centre-ville, Quartiers Libres, sondages), la liste
-          Agir Ensemble veut continuer d’appliquer ce principe. Alors, faites
-          part de vos suggestions et participons !
+          Autrement Saint-Jean-de-Monts veut continuer d’appliquer ce principe.
+          Alors, faites part de vos suggestions et participons !
         image: /images/bobby-burch-7ghPaPLdmTY-unsplash.jpg
         title: Nos Propositions
       - actions:
