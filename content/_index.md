@@ -32,7 +32,7 @@ sections:
         content: >-
           Des personnes expérimentées, actuellement élues, mais aussi de
           nouveaux candidats, au service des Montois.
-        image: /images/Copie de Yves Mathias.png
+        image: /images/Yves Mathias-4.png
         title: Notre Équipe
     section_id: Vision
     subtitle: ''
