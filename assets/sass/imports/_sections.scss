@@ -558,8 +558,8 @@
   
    &.bg-sea {
     background-image: _palette(sea);
-    background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
-    background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
+    background: -webkit-linear-gradient(left,_palette(sea), _palette(sea));
+    background: linear-gradient(to right,_palette(sea), _palette(sea));
     color: #fff;
 
     .block-title {
