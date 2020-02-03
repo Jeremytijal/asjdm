@@ -4,9 +4,9 @@ subtitle: ''
 date: 2020-01-27T23:00:00.000Z
 thumb_img_path: /images/chuttersnap-cX2vElQ5aHk-unsplash.jpg
 img_path: /images/chuttersnap-cX2vElQ5aHk-unsplash.jpg
-excerpt: 'Venez nous rencontre le Jeudi 20 Février à 19h. '
+excerpt: 'Venez-nous rencontrer le Jeudi 20 Février à 19h. Lieu de rencontre : Odysséa'
 layout: post
 ---
-> Venez nous rencontre le Jeudi 20 Février à 19h. 
+> Venez-nous rencontrer le Jeudi 20 Février à 19h. 
 >
 > Lieu de rencontre : Odysséa
