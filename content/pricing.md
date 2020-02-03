@@ -67,14 +67,12 @@ sections:
           59 ans,
         highlight: false
         title: Valérie Gousset
-      - details: >-
-          ![Liliane Bollengier](/images/Christian Leplu.jpg "Liliane
-          Bollengier")
+      - details: |-
+          ![Christian Leplu](/images/Christian Leplu.jpg "Christian Leplu")
 
-
-          65 ans, "Fonction"
+          57 ans, Manager en communication
         highlight: false
-        title: Liliane Bollengier
+        title: Christian Leplu
     section_id: equipe2
     type: section_pricing
   - bg: gray
