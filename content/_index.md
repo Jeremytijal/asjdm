@@ -2,8 +2,11 @@
 title: Accueil
 sections:
   - actions:
-      - label: Nos propositions
-        url: /features
+      - label: Notre profession de foi
+        url: /
+      - label: Notre track
+        url: >-
+          https://drive.google.com/file/d/1Mg8XWQG0tfdzP6lFMDKQpCJbYszRPStv/view?usp=sharing
     bg: null
     content: >-
       Toute l’équipe d’Autrement Saint Jean de Monts travaille pour tous les
