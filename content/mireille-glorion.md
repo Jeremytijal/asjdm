@@ -13,7 +13,7 @@ sections:
       > Cette équipe est composée de personnes qui ont su montrer, dans les
       responsabilités qu’elles exercent ou ont exercées, leur compétence, leur
       envie d’agir, de construire et de proposer des solutions .
-    image: /images/Mireille.png
+    image: /images/Mireille-2.png
     section_id: Mireille Glorion
     title: Mireille Glorion
     type: section_content
