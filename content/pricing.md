@@ -43,7 +43,7 @@ sections:
         title: Vincent Horeau
       - actions:
           - label: En savoir plus
-            url: /
+            url: /liliane-bollengier
         details: >-
           ![Liliane Bollengier](/images/Liliane Bollengier.jpg "Liliane
           Bollengier")
