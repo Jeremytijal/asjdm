@@ -22,7 +22,9 @@ sections:
     type: section_content
   - bg: gray
     pricingplans:
-      - actions: []
+      - actions:
+          - label: En savoir plus
+            url: /
         details: |-
           ![Mireille Glorion](/images/Mireille Glorion.jpg "Mireille Glorion")
 
@@ -30,14 +32,18 @@ sections:
         highlight: false
         price: ''
         title: Mireille Glorion
-      - actions: []
+      - actions:
+          - label: En savoir plus
+            url: /
         details: |-
           ![Vincent Horeau](/images/Vincent Horeau.jpg "Vincent Horeau")
 
           50 ans, "Fonction"
         price: ''
         title: Vincent Horeau
-      - actions: []
+      - actions:
+          - label: En savoir plus
+            url: /
         details: >-
           ![Liliane Bollengier](/images/Liliane Bollengier.jpg "Liliane
           Bollengier")
@@ -53,7 +59,10 @@ sections:
     type: section_pricing
   - bg: white
     pricingplans:
-      - details: >-
+      - actions:
+          - label: En savoir plus
+            url: /
+        details: >-
           ![Dominique Petreau](/images/Dominique Petreau.jpg "Dominique
           Petreau")
 
@@ -61,13 +70,19 @@ sections:
           63 ans
         highlight: false
         title: Dominique Petreau
-      - details: |-
+      - actions:
+          - label: En savoir plus
+            url: /
+        details: |-
           ![Valérie Gousset](/images/Valérie Gousset.jpg "Valérie Gousset")
 
           59 ans,
         highlight: false
         title: Valérie Gousset
-      - details: |-
+      - actions:
+          - label: En savoir plus
+            url: /
+        details: |-
           ![Christian Leplu](/images/Christian Leplu.jpg "Christian Leplu")
 
           57 ans, Manager en communication
@@ -77,13 +92,19 @@ sections:
     type: section_pricing
   - bg: gray
     pricingplans:
-      - details: |-
+      - actions:
+          - label: En savoir plus
+            url: /
+        details: |-
           ![Jessica Grondin](/images/Jessica Grondin.jpg "Jessica Grondin")
 
           38 ans,
         highlight: false
         title: Jessica Grondin
-      - details: >-
+      - actions:
+          - label: En savoir plus
+            url: /
+        details: >-
           ![Jean-Jacques Robreteau](/images/Jean Jacques Robreteau.jpg
           "Jean-Jacques Robreteau")
 
