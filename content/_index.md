@@ -50,7 +50,7 @@ sections:
     type: section_cta
   - bg: gray
     section_id: recent-posts
-    title: Nos Actualités
+    title: Réunions Publiques
     type: section_posts
 menu:
   main:
