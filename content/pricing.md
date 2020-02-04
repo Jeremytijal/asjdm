@@ -34,7 +34,7 @@ sections:
         title: Mireille Glorion
       - actions:
           - label: En savoir plus
-            url: /
+            url: /vincent-horeau
         details: |-
           ![Vincent Horeau](/images/Vincent Horeau.jpg "Vincent Horeau")
 
