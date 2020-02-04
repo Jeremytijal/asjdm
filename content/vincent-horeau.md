@@ -15,6 +15,7 @@ sections:
       envie d’agir, de construire et de proposer des solutions .
     image: /images/laurent-2.png
     section_id: Vincent Horeau
+    title: Vincent Horeau
     type: section_content
 layout: landing
 ---
