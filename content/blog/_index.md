@@ -1,5 +1,5 @@
 ---
-title: Nos Actualités
+title: Réunions Publiques
 menu:
   main:
     name: Nos Actualités
