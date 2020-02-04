@@ -5,7 +5,7 @@ menu:
     name: Nos Actualités
     weight: 4
   secondary:
-    name: Actualités
+    name: Réunions Publiques
     weight: 2
 layout: blog
 ---
