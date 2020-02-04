@@ -24,7 +24,7 @@ sections:
     pricingplans:
       - actions:
           - label: En savoir plus
-            url: /
+            url: /mireille-glorion
         details: |-
           ![Mireille Glorion](/images/Mireille Glorion.jpg "Mireille Glorion")
 
