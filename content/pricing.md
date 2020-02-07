@@ -72,7 +72,7 @@ sections:
         title: Dominique Petreau
       - actions:
           - label: En savoir plus
-            url: /
+            url: /valérie-gousset
         details: |-
           ![Valérie Gousset](/images/Valérie Gousset.jpg "Valérie Gousset")
 
