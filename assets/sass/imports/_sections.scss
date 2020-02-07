@@ -557,8 +557,9 @@
   }
   
    &.bg-sea {
+    height: 200px; 
     background-image: url('https://unsplash.com/photos/IXTG1_Tw2dM');
-    background-size: 150px;
+    background-size: cover;
     color: #fff;
 
     .block-title {
