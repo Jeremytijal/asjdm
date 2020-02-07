@@ -1,20 +1,23 @@
 ---
-title: Suzanne Lemoussu
+title: Valérie Gousset
 sections:
   - bg: white
     content: >-
-      Mariée 2 enfants 5 petits enfants
+      59 ans, auxiliaire vétérinaire à Saint Jean de Monts depuis 23 ans.
 
 
-      Conjoint collaborateur à l’entreprise de Plomberie et chauffage avec mon
-      mari en secrétariat et comptabilité pendant 34 ans. 
+      Engagée dans la vie associative en Vendée depuis mon arrivée en adhérant
+      activement aux associations scolaires et culturelles, j'ai multiplié mes
+      centres d'intérêts : de la passion pour le monde animal et son
+      environnement, à l' accompagnement de la jeunesse et au soutien de la
+      culture (lecture, théâtre, cinéma..).
 
 
-      > *J’aime voyager, les promenades sur les chemins autour de notre belle
-      commune et suis attirée par l’environnement et le monde associatif.*
-    image: /images/Suzanne Lemoussu.png
-    section_id: Suzanne Lemoussu
-    title: Suzanne Lemoussu
+      > *Etre sur la liste municipale Autrement Saint Jean de Monts, c'est
+      prolonger cet engagement actif pour la vie montoise.*
+    image: /images/Valérie Gousset.png
+    section_id: Valérie Gousset
+    title: Valérie Gousset
     type: section_content
 layout: landing
 ---
