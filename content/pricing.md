@@ -136,6 +136,15 @@ sections:
           62 ans
         highlight: false
         title: Gianna Cannelle
+      - actions:
+          - label: En savoir plus
+            url: /antoine-josso
+        details: |-
+          ![Antoine Josso](/images/Antoine Josso.jpg "Antoine Josso")
+
+          36 ans,
+        highlight: false
+        title: Antoine Josso
     section_id: equipe 4
     type: section_pricing
 menu:
