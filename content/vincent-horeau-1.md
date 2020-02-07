@@ -3,16 +3,22 @@ title: Vincent Horeau
 sections:
   - bg: white
     content: >-
-      Les personnes qui composent la liste sont à la fois des Montoises et
-      Montois de longue date, connus de leurs concitoyens, mais aussi des
-      néo-Montois, parce que l’une des caractéristiques de notre belle commune
-      est d’être une commune d’accueil où de nombreuses personnes viennent
-      poursuivre leur activité professionnelle ou prendre leur retraite.
+      Habitant depuis plus de 20 ans à Saint Jean de Monts, j’ai décidé
+      aujourd’hui de rendre à Saint Jean de Monts tout ce que ce magnifique
+      territoire m’a apporté.
 
 
-      Cette équipe est composée de personnes qui ont su montrer, dans les
-      responsabilités qu’elles exercent ou ont exercées, leur compétence, leur
-      envie d’agir, de construire et de proposer des solutions .
+      D’abord plus de 17 ans dans le quartier des Tonnelles, je réside
+      aujourd’hui dans le centre ville.
+
+
+      Engagé depuis 5 ans dans un tourisme durable et solidaire, je suis
+      également Président d’Association sportive et culturelle et investi au
+      sein de l’école où ma fille est scolarisée.
+
+
+      > *Nous voici aujourd’hui collectivement engagés pour regarder l’avenir
+      autrement.*
     image: /images/laurent-2.png
     section_id: Vincent Horeau
     title: Vincent Horeau
