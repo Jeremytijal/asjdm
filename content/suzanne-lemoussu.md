@@ -1,7 +1,7 @@
 ---
 title: Suzanne Lemoussu
 sections:
-  - bg: white
+  - bg: gray
     content: >-
       Mariée 2 enfants 5 petits enfants
 
