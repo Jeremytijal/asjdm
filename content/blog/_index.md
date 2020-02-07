@@ -6,7 +6,7 @@ menu:
     weight: 4
   secondary:
     name: Réunions Publiques
-    weight: 2
+    weight: 4
 layout: blog
 ---
 
