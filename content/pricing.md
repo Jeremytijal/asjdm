@@ -187,7 +187,7 @@ menu:
     weight: 3
   secondary:
     name: Notre Équipe
-    weight: 1
+    weight: 2
 layout: landing
 ---
 
