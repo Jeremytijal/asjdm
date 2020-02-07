@@ -122,7 +122,10 @@ sections:
     type: section_pricing
   - bg: gray
     pricingplans:
-      - details: >-
+      - actions:
+          - label: En savoir plus
+            url: /dominique-houssais
+        details: >-
           ![Dominique Houssais](/images/Dominique Houssais.jpg "Dominique
           Houssais")
 
