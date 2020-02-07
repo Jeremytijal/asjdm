@@ -15,7 +15,7 @@ sections:
       bureau de l'amicale quelques années.
 
 
-      *Je me verrais bien intégrer une commission qui aurait en charge, les
+      > *Je me verrais bien intégrer une commission qui aurait en charge, les
       dunes, les plages, et le marais car mes centres d’intérêts sont la pêche
       et le jardinage et l'environnement.*
     image: /images/Dominique Houssais.png
