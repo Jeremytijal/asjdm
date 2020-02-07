@@ -6,8 +6,8 @@ subtitle: >-
 img_path: images/about.jpg
 menu:
   secondary:
-    name: About Us
-    weight: 1
+    name: ''
+    weight: ''
 layout: page
 ---
 
