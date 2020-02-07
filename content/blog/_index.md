@@ -2,7 +2,7 @@
 title: Réunions Publiques
 menu:
   main:
-    name: Nos Actualités
+    name: Réunions Publiques
     weight: 4
   secondary:
     name: Réunions Publiques
