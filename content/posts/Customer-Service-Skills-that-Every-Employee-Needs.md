@@ -5,7 +5,7 @@ date: 2020-01-27T23:00:00.000Z
 thumb_img_path: /images/image1.jpeg
 img_path: /images/image1.jpeg
 excerpt: >-
-  Venez-nous rencontrer le Mercredi 11 Mars 2020. Lieu de rencontre : Salle
+  Venez-nous rencontrer le Mercredi 11 Mars à 19h. Lieu de rencontre : Salle
   Odysséa
 layout: post
 ---
