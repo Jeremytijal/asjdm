@@ -4,8 +4,8 @@ subtitle: 'Marié, 2 enfants et 4 petits enfants.'
 img_path: /images/Yves Mathias.jpg
 menu:
   secondary:
-    name: Yves Mathias
-    weight: 9
+    name: ''
+    weight: ''
 layout: page
 ---
 La valeur humaine, la transparence, le respect de mes engagements, le dévouement sont pour moi des valeurs essentielles qui m’ont toujours accompagné et guidé dans mes actes et décisions tant à titre personnel que professionnel.
