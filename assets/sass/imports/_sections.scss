@@ -531,8 +531,7 @@
 }
 
 .block {
-  &.bg-white {
-    background: #fff;
+
 
     .post-card-inside,
     .review-inside,
@@ -559,7 +558,7 @@
    &.bg-sea {
 
     background-image: url('https://unsplash.com/photos/IXTG1_Tw2dM');
-    background-size: 50px;
+    background-size: 150px;
     color: #fff;
 
     .block-title {
@@ -570,5 +569,9 @@
       border-color: currentColor;
     }
   }
-
+  
+  &.bg-white + &.bg-white,
+  &.bg-gray + &.bg-gray {
+    padding-top: 0;
+  }
 }
