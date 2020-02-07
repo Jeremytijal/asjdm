@@ -12,7 +12,7 @@ sections:
       dévouement sont pour moi des valeurs essentielles qui m’ont toujours
       accompagné et guidé dans mes actes et décisions tant à titre personnel que
       professionnel.
-    image: /images/Yves Mathias.jpg
+    image: /images/Yves mathias-7.png
     section_id: Yves Mathias
     title: Yves Mathias
     type: section_content
@@ -172,6 +172,9 @@ menu:
   main:
     name: Notre Équipe
     weight: 3
+  secondary:
+    name: Notre Équipe
+    weight: 1
 layout: landing
 ---
 
