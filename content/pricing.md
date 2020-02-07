@@ -168,6 +168,19 @@ sections:
         title: Suzanne Lemoussu
     section_id: equipe 5
     type: section_pricing
+  - bg: white
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /magali-turquaud
+        details: |-
+          ![Magali Turquaud](/images/Magali Turquaud.jpg "Magali Turquaud")
+
+          43 ans, Assistante en administration des ventes.
+        highlight: false
+        title: Magali Turquaud
+    section_id: equipe6
+    type: section_pricing
 menu:
   main:
     name: Notre Équipe
