@@ -108,10 +108,13 @@ sections:
           62 ans,
         highlight: false
         title: Jean-Jacques Robreteau
-      - details: |-
+      - actions:
+          - label: En savoir plus
+            url: /amélie-rivière
+        details: |-
           ![Amélie Rivière](/images/Amélie Rivière.jpg "Amélie Rivière")
 
-          37 ans
+          37 ans, gestionnaire de copropriété.
         highlight: false
         title: Amélie Rivière
     section_id: equipe 3
@@ -129,7 +132,10 @@ sections:
           63 ans, retraité
         highlight: false
         title: Dominique Houssais
-      - details: |-
+      - actions:
+          - label: En savoir plus
+            url: /
+        details: |-
           ![Gianna Cannelle](/images/Gianna Cannelle.jpg "Gianna Cannelle")
 
           62 ans
