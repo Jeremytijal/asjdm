@@ -3,19 +3,25 @@ title: Notre Équipe
 sections:
   - title: Découvrez les membres de notre liste
     type: section_hero
-  - actions:
-      - label: Lire la suite
-        url: /signup
+  - actions: []
     bg: white
     content: >-
-      La liste Autrement Saint-Jean de Monts est composée de 29 personnes, un
-      tiers de retraité et de deux tiers d’actifs.
+      La valeur humaine, la transparence, le respect de mes engagements, le
+      dévouement sont pour moi des valeurs essentielles qui m’ont toujours
+      accompagné et guidé dans mes actes et décisions tant à titre personnel que
+      professionnel.
 
 
-      Cette équipe innovante associe l’expérience municipale à l’enthousiasme
-      de la découverte. Elle se veut être le reflet du visage de SAINT JEAN DE
-      MONTS par sa diversité, son dynamisme, son sens de l’engage- ment et les
-      strates d’âges qui composent la population.
+      Après avoir œuvré pendant plus de 43 ans au sein d’un groupe bancaire j’ai
+      souhaité mettre mon expérience, mes compétences au service de notre
+      commune, en m’engageant en tant que Conseiller municipal en 2014. Fort de
+      mes connaissances, de mes nombreux engagements associatifs et de mon
+      esprit d’action je suis fier de me présenter aux élections de mars 2020 à
+      la tête d’une équipe solide et solidaire recélant par sa diversité un fort
+      potentiel. C’est une équipe animée par l’envie d’être au service de la
+      population, par l’envie de faire AUTREMENT pour SAINT JEAN DE MONTS en
+      menant un projet alternatif à ce qui est proposé aux Montoises et Montois
+      depuis de très nombreuses années.
     image: /images/Sans titre-6.png
     section_id: Yves Mathias
     title: Yves Mathias
@@ -149,6 +155,28 @@ sections:
         highlight: false
         title: Antoine Josso
     section_id: equipe 4
+    type: section_pricing
+  - bg: gray
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /sonia-pineau
+        details: |-
+          ![Sonia Pineau](/images/Sonia PINEAU.jpg "Sonia Pineau")
+
+          51 ans, Secrétaire collaboratrice.
+        highlight: false
+        title: Sonia Pineau
+      - actions:
+          - label: En savoir plus
+            url: /suzanne-lemoussu
+        details: |-
+          ![Suzanne Lemoussu](/images/Suzanne LEMOUSSU.jpg "Suzanne Lemoussu")
+
+          69 ans, retraitée
+        highlight: false
+        title: Suzanne Lemoussu
+    section_id: equipe 5
     type: section_pricing
 menu:
   main:
