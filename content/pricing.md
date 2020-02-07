@@ -130,7 +130,7 @@ sections:
           Houssais")
 
 
-          63 ans
+          63 ans, retraité
         highlight: false
         title: Dominique Houssais
       - details: |-
