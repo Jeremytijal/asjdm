@@ -2,9 +2,9 @@
 title: Contact
 sections:
   - bg: gray
-    content: Nous sommes à votre écoute.
+    content: ''
     section_id: contact
-    title: J'ai une idée
+    title: Nous sommes à votre écoute.
     type: section_contact
 menu:
   secondary:
