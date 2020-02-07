@@ -10,8 +10,7 @@ html {
 }
 
 body {
-  background-image: url("/static/images/IMG_0580.jpg");
-  background-size: cover;
+  background: _palette(bg);
   color: _palette(primary);
   line-height: 1.66667;
   text-rendering: optimizeLegibility;
