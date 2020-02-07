@@ -531,7 +531,8 @@
 }
 
 .block {
-
+   &.bg-white {
+     background: #fff;
 
     .post-card-inside,
     .review-inside,
