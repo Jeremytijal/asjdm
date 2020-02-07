@@ -35,6 +35,9 @@ menu:
   main:
     name: Nos Propositions
     weight: 2
+  secondary:
+    name: Nos Propositions
+    weight: 1
 layout: landing
 ---
 
