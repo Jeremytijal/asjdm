@@ -54,7 +54,7 @@ sections:
     type: section_posts
   - actions:
       - label: Je m'abonne
-        url: /footer
+        url: '/#footer'
     section_id: newsletter
     subtitle: Pour recevoir nos dernières actualités abonnez-vous à notre newsletter.
     type: section_cta
