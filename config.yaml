@@ -5,7 +5,7 @@ params:
     content: '&copy; Netary. Tous droits réservés.'
     has_nav: true
     has_social: true
-    has_subscribe: false
+    has_subscribe: true
     links:
       - new_window: true
         text: Netary
@@ -13,8 +13,8 @@ params:
     logo_img: /images/logo new color.png
     nav_title: Menu
     social_title: Suivez-nous
-    subscribe_content: Stay up to date with our latest developments.
-    subscribe_title: Subscribe
+    subscribe_content: Recevez nos dernières actualités en vous abonnant à notre newsletter.
+    subscribe_title: Abonnez-vous
     tagline: Développé par Netary
   header:
     has_nav: true
