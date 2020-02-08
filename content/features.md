@@ -11,6 +11,7 @@ sections:
   - bg: gray
     reviews:
       - author: ''
+        avatar: /images/Yves Mathias-2.png
         content: Proposition 1
       - author: ''
         content: Proposition 2
