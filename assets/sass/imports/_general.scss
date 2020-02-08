@@ -249,7 +249,7 @@ input[type="button"],
 input[type="reset"],
 a.button {
   background: _palette(accent);
-  border-radius: 3px;
+  border-radius: 20px;
   border: 2px solid _palette(accent);
   box-sizing: border-box;
   color: #fff;
@@ -271,6 +271,7 @@ a.button {
 
 a.button {
   height: auto;
+  border-radius: 20px;
 }
 
 .button.large {
@@ -284,6 +285,7 @@ a.button.large {
   height: auto;
   padding-bottom: 0.625em;
   padding-top: 0.625em;
+  border-radius: 20px;
 }
 
 .button.secondary {
