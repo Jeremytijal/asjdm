@@ -52,12 +52,6 @@ sections:
     section_id: recent-posts
     title: Réunions Publiques
     type: section_posts
-  - actions:
-      - label: Je m'abonne
-        url: '/#footer'
-    section_id: newsletter
-    subtitle: Pour recevoir nos dernières actualités abonnez-vous à notre newsletter.
-    type: section_cta
 menu:
   main:
     name: Accueil
