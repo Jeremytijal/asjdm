@@ -568,6 +568,14 @@
       color: inherit;
       background-color: #266699;
     }
+     
+    .block-content {
+      -webkit-flex: 5;
+      -ms-flex: 5;
+      flex: 5;
+      background-color: #266699;
+      
+    }
 
     .underline:after {
       border-color: currentColor;
