@@ -3,16 +3,14 @@ title: Mireille Glorion
 sections:
   - bg: white
     content: >-
-      Les personnes qui composent la liste sont à la fois des Montoises et
-      Montois de longue date, connus de leurs concitoyens, mais aussi des
-      néo-Montois, parce que l’une des caractéristiques de notre belle commune
-      est d’être une commune d’accueil où de nombreuses personnes viennent
-      poursuivre leur activité professionnelle ou prendre leur retraite.
+      68 ans, agent immobilier.
 
 
-      > Cette équipe est composée de personnes qui ont su montrer, dans les
-      responsabilités qu’elles exercent ou ont exercées, leur compétence, leur
-      envie d’agir, de construire et de proposer des solutions .
+      > J'habite Saint Jean de Monts depuis 1993. Après un parcours
+      professionnel dans le commerce, conseillère municipale depuis 6 ans, je
+      souhaite mettre au service des Montois mes compétences pour développer
+      l'activité économique, le tourisme et les échanges humains et citoyens
+      dans notre commune.
     image: /images/Mireille-2.png
     section_id: Mireille Glorion
     title: Mireille Glorion
