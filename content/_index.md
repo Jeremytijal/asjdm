@@ -24,6 +24,8 @@ sections:
           https://drive.google.com/file/d/13T3e0bXyvZc4U48bG3uCAHF8GVCmJLZ-/view?usp=sharing
       - label: Notre profession de foi
         url: /
+    content: test
+    title: Test
     type: section_hero2
   - bg: gray
     featureslist:
