@@ -176,7 +176,7 @@ sections:
           - label: En savoir plus
             url: /patrice-leroy
         details: |-
-          ![Patrice Leroy](/images/Patrice LEROY.JPG "Patrice Leroy")
+          ![Patrice Leroy](/images/patrice leroy equipe.png "Patrice Leroy")
 
           50 ans, marié, 3 enfants.
         highlight: false
@@ -187,6 +187,18 @@ sections:
     pricingplans:
       - actions:
           - label: En savoir plus
+            url: /laurent-le-louarne
+        details: >-
+          ![Laurent le Louarne](/images/Laurent LE LOUARNE.JPG "Laurent le
+          Louarne")
+
+
+          49 ans.
+        highlight: false
+        price: ''
+        title: Laurent le Louarne
+      - actions:
+          - label: En savoir plus
             url: /magali-turquaud
         details: |-
           ![Magali Turquaud](/images/Magali Turquaud.jpg "Magali Turquaud")
@@ -194,6 +206,15 @@ sections:
           43 ans, Assistante en administration des ventes.
         highlight: false
         title: Magali Turquaud
+      - actions:
+          - label: En savoir plus
+            url: /franck-allégret
+        details: |-
+          ![Franck Allégret](/images/Franck ALLEGRET.JPG "Franck Allégret")
+
+          59 ans
+        highlight: false
+        title: Franck Allégret
     section_id: equipe6
     type: section_pricing
 menu:
