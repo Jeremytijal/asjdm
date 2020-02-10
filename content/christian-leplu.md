@@ -1,7 +1,10 @@
 ---
 title: Christian Leplu
 sections:
-  - bg: white
+  - actions:
+      - label: Retour à la liste
+        url: /pricing
+    bg: white
     content: >-
       Je suis résident du centre ville de Saint Jean de Monts et j'apprécie tous
       les jours sa douceur de vivre et son environnement magnifique.\
