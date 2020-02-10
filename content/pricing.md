@@ -215,6 +215,37 @@ sections:
         title: Franck Allégret
     section_id: equipe6
     type: section_pricing
+  - bg: gray
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /nadine-rivière
+        details: |-
+          ![Nadine Riviere](/images/nadine equipe.png "Nadine Riviere")
+
+          63 ans, adjointe de direction entreprise retraitée.
+        highlight: false
+        title: Nadine Riviere
+      - details: |-
+          ![Didier TURPIN](/images/Didier TURPIN equipe.png "Didier TURPIN")
+
+          63 ans
+        highlight: false
+        price: 63 ans
+        title: Didier TURPIN
+      - actions:
+          - label: En savoir plus
+            url: /gaëlle-cuciniello
+        details: >-
+          ![Gaëlle Cuciniello](/images/Gaëlle Cuciniello equipe.png "Gaëlle
+          Cuciniello")
+
+
+          45 ans, mariée, 3 enfants.
+        highlight: false
+        title: Gaëlle Cuciniello
+    section_id: equipe 7
+    type: section_pricing
 menu:
   main:
     name: Notre Équipe
