@@ -24,7 +24,7 @@ sections:
         details: |-
           ![Mireille Glorion](/images/Mireille Glorion.jpg "Mireille Glorion")
 
-          68 ans, Élue
+          68 ans. Élue.
         highlight: false
         price: ''
         title: Mireille Glorion
@@ -34,7 +34,7 @@ sections:
         details: |-
           ![Vincent Horeau](/images/Vincent Horeau.jpg "Vincent Horeau")
 
-          50 ans, "Fonction"
+          50 ans. Président d'associations
         price: ''
         title: Vincent Horeau
       - actions:
@@ -45,7 +45,7 @@ sections:
           Bollengier")
 
 
-          65 ans, "Fonction"
+          65 ans. Cadre EDF en retraite.
         highlight: false
         price: ''
         title: Liliane Bollengier
@@ -63,7 +63,7 @@ sections:
           Petreau")
 
 
-          63 ans
+          63 ans. Gérant de société en retraite.
         highlight: false
         title: Dominique Petreau
       - actions:
@@ -72,7 +72,7 @@ sections:
         details: |-
           ![Valérie Gousset](/images/Valérie Gousset.jpg "Valérie Gousset")
 
-          59 ans,
+          59 ans. Auxiliaire vétérinaire.
         highlight: false
         title: Valérie Gousset
       - actions:
@@ -96,18 +96,18 @@ sections:
         details: |-
           ![Jessica Grondin](/images/Jessica Grondin.jpg "Jessica Grondin")
 
-          38 ans,
+          38 ans. Coiffeuse à domicile
         highlight: false
         title: Jessica Grondin
       - actions:
           - label: En savoir plus
             url: /
         details: >-
-          ![Jean-Jacques Robreteau](/images/Jean Jacques Robreteau.jpg
+          ![Jean-Jacques Robreteau](/images/Jean Jacques equipe.png
           "Jean-Jacques Robreteau")
 
 
-          62 ans,
+          62 ans. Commerçant en retraite.
         highlight: false
         title: Jean-Jacques Robreteau
       - actions:
@@ -116,7 +116,7 @@ sections:
         details: |-
           ![Amélie Rivière](/images/Amélie Rivière.jpg "Amélie Rivière")
 
-          37 ans, gestionnaire de copropriété.
+          37 ans. Gestionnaire de copropriété.
         highlight: false
         title: Amélie Rivière
     section_id: equipe 3
@@ -127,11 +127,11 @@ sections:
           - label: En savoir plus
             url: /dominique-houssais
         details: >-
-          ![Dominique Houssais](/images/Dominique Houssais.jpg "Dominique
+          ![Dominique Houssais](/images/Dominique houssais equipe.png "Dominique
           Houssais")
 
 
-          63 ans, retraité
+          63 ans. Pompier en retraite.
         highlight: false
         title: Dominique Houssais
       - actions:
@@ -140,7 +140,7 @@ sections:
         details: |-
           ![Gianna Cannelle](/images/Gianna Cannelle.jpg "Gianna Cannelle")
 
-          62 ans
+          62 ans. Retraitée de l'éducation nationale.
         highlight: false
         title: Gianna Cannelle
       - actions:
@@ -149,7 +149,7 @@ sections:
         details: |-
           ![Antoine Josso](/images/Antoine Josso.jpg "Antoine Josso")
 
-          36 ans,
+          36 ans. Pharmacien.
         highlight: false
         title: Antoine Josso
     section_id: equipe 4
@@ -162,7 +162,7 @@ sections:
         details: |-
           ![Sonia Pineau](/images/Sonia PINEAU.jpg "Sonia Pineau")
 
-          51 ans, Secrétaire collaboratrice.
+          51 ans. Attachée de direction.
         highlight: false
         title: Sonia Pineau
       - actions:
@@ -171,7 +171,7 @@ sections:
         details: |-
           ![Patrice Leroy](/images/patrice leroy equipe.png "Patrice Leroy")
 
-          50 ans, marié, 3 enfants.
+          50 ans. Gérant de société.
         highlight: false
         title: Patrice Leroy
       - actions:
@@ -180,7 +180,7 @@ sections:
         details: |-
           ![Suzanne Lemoussu](/images/Suzanne LEMOUSSU.jpg "Suzanne Lemoussu")
 
-          69 ans, retraitée
+          69 ans. Retraitée
         highlight: false
         title: Suzanne Lemoussu
     section_id: equipe 5
@@ -193,7 +193,7 @@ sections:
         details: |-
           ![Laurent le Louarne](/images/laurent equipe.png "Laurent le Louarne")
 
-          49 ans.
+          49 ans. Conducteur Piontier Groupe SUEZ.
         highlight: false
         price: ''
         title: Laurent le Louarne
@@ -212,7 +212,7 @@ sections:
         details: |-
           ![Franck Allégret](/images/franck equipe.png "Franck Allégret")
 
-          59 ans
+          59 ans. Chef d'entreprise.
         highlight: false
         title: Franck Allégret
     section_id: equipe6
@@ -225,7 +225,7 @@ sections:
         details: |-
           ![Nadine Riviere](/images/nadine equipe.png "Nadine Riviere")
 
-          63 ans, adjointe de direction entreprise retraitée.
+          63 ans. Adjointe de direction entreprise retraitée.
         highlight: false
         title: Nadine Riviere
       - actions:
@@ -234,7 +234,7 @@ sections:
         details: |-
           ![Didier TURPIN](/images/Didier TURPIN equipe.png "Didier TURPIN")
 
-          63 ans
+          63 ans. Commercial en Immobilier.
         highlight: false
         price: ''
         title: Didier TURPIN
@@ -246,7 +246,7 @@ sections:
           Cuciniello")
 
 
-          45 ans, mariée, 3 enfants.
+          45 ans. Attachée de Direction Groupe SATOV.
         highlight: false
         title: Gaëlle Cuciniello
     section_id: equipe 7
@@ -279,7 +279,7 @@ sections:
         details: |-
           ![Joël Perchat](/images/joel equipe.png "Joël Perchat")
 
-          71 ans.
+          71 ans. Acheteur Industriel en retraite.
         highlight: false
         title: Joël Perchat
     section_id: equipe8
@@ -292,7 +292,7 @@ sections:
         details: |-
           ![Gwenola Bonnin](/images/gwenola equipe.png "Gwenola Bonnin")
 
-          43 ans.
+          43 ans. Assistante maternelle agréée.
         highlight: false
         title: Gwenola Bonnin
       - actions:
@@ -301,7 +301,7 @@ sections:
         details: |-
           ![Camille Goizet](/images/Camille Goizet equipe.png "Camille Goizet")
 
-          69 ans.
+          69 ans. Gérant de Société en retraite.
         highlight: false
         title: Camille Goizet
       - actions:
@@ -312,7 +312,7 @@ sections:
           Labois")
 
 
-          43 ans.
+          43 ans. Commerçante.
         highlight: false
         title: Nathalie Labois
     section_id: equipe 9
