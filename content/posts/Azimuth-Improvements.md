@@ -9,6 +9,6 @@ excerpt: >-
   Vieux Cerne
 layout: post
 ---
-> Venez-nous rencontrer le Jeudi 20 Février à 19h. 
+> Venez-nous rencontrer le Mardi 3 Mars à 19h30. 
 >
-> Lieu de rencontre : Odysséa
+> Lieu de rencontre : Salle du Vieux Cerne
