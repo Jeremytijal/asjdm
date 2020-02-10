@@ -320,10 +320,10 @@ sections:
 menu:
   main:
     name: ''
-    weight: 1
+    weight: 7
   secondary:
     name: ''
-    weight: ''
+    weight: 13
 layout: landing
 ---
 
