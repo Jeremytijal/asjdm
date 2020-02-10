@@ -226,12 +226,15 @@ sections:
           63 ans, adjointe de direction entreprise retraitée.
         highlight: false
         title: Nadine Riviere
-      - details: |-
+      - actions:
+          - label: En savoir plus
+            url: /didier-turpin
+        details: |-
           ![Didier TURPIN](/images/Didier TURPIN equipe.png "Didier TURPIN")
 
           63 ans
         highlight: false
-        price: 63 ans
+        price: ''
         title: Didier TURPIN
       - actions:
           - label: En savoir plus
@@ -245,6 +248,39 @@ sections:
         highlight: false
         title: Gaëlle Cuciniello
     section_id: equipe 7
+    type: section_pricing
+  - bg: white
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /princing
+        details: >-
+          ![Pierre-Jean Eveille](/images/pierre jean equipe.png "Pierre-Jean
+          Eveille")
+
+
+          55 ans, Enseignant.
+        highlight: false
+        title: Pierre-Jean Eveille
+      - actions:
+          - label: En savoir plus
+            url: /princing
+        details: |-
+          ![Flavie Lefeuvre](/images/flavie equipe.png "Flavie Lefeuvre")
+
+          19 ans. Étudiante.
+        highlight: false
+        title: Flavie Lefeuvre
+      - actions:
+          - label: En savoir plus
+            url: /pricing
+        details: |-
+          ![Joël Perchat](/images/joel equipe.png "Joël Perchat")
+
+          71 ans.
+        highlight: false
+        title: Joël Perchat
+    section_id: equipe8
     type: section_pricing
 menu:
   main:
