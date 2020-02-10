@@ -563,7 +563,7 @@
     background-size: cover;
     background-position: center;
     color: #fff;
-    min-height: 200px;
+    min-height: 300px;
 
     .block-title {
       color: inherit;
@@ -573,6 +573,8 @@
       -webkit-flex: 5;
       -ms-flex: 5;
       flex: 5;
+      position: center;
+      
     }
 
     .underline:after {
