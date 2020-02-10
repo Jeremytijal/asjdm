@@ -319,10 +319,10 @@ sections:
     type: section_pricing
 menu:
   main:
-    name: ''
-    weight: 7
+    name: ' '
+    weight: ''
   secondary:
-    name: ''
+    name: ' '
     weight: 13
 layout: landing
 ---
