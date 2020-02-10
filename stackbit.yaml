@@ -381,9 +381,9 @@ models:
         label: Action Buttons
         items:
           type: action
-    section_cta2:
+  section_cta2:
     type: object
-    label: Call to Action Section
+    label: Call to Action Section2
     extends:
       - section
     fields:
