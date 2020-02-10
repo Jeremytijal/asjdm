@@ -4,9 +4,9 @@ sections:
   - actions:
       - label: Notre profession de foi
         url: /
-      - label: Notre track
+      - label: Notre tract
         url: >-
-          https://drive.google.com/file/d/1dK_AFM4aygL3tfCDLfwwdrdZZVjJSR1R/view?usp=sharing
+          https://drive.google.com/file/d/13T3e0bXyvZc4U48bG3uCAHF8GVCmJLZ-/view?usp=sharing
     bg: null
     content: >-
       Toute l’équipe d’Autrement Saint Jean de Monts travaille pour tous les
