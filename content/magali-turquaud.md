@@ -18,7 +18,7 @@ sections:
       > Je me sens particulièrement concernée par la culture, la jeunesse et
       bien sur l’environnement mais je reste totalement ouverte aux projets qui
       pourraient faire que notre commune s’ouvre sur l’extérieur.
-    image: /images/magali.png
+    image: /images/Magali turquaud.png
     section_id: Magali Turquaud
     title: Magali Turquaud
     type: section_content
