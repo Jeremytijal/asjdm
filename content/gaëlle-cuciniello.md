@@ -1,7 +1,10 @@
 ---
 title: Gaëlle Cuciniello
 sections:
-  - bg: white
+  - actions:
+      - label: Retour à la liste
+        url: /pricing
+    bg: white
     content: >-
       Originaire de Challans, j’ai fait le choix de vie d’habiter
       Saint-Jean-de-Monts il y a déjà plus de 20 ans.\
