@@ -78,8 +78,10 @@ sections:
       - actions:
           - label: En savoir plus
             url: /
-        details: |-
-          ![Christian Leplu](/images/Christian Leplu.jpg "Christian Leplu")
+        details: >-
+          ![Christian Leplu](/images/Christian Leplu equipe.png "Christian
+          Leplu")
+
 
           57 ans, Manager en communication
         highlight: false
@@ -281,6 +283,39 @@ sections:
         highlight: false
         title: Joël Perchat
     section_id: equipe8
+    type: section_pricing
+  - bg: gray
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /pricing
+        details: |-
+          ![Gwenola Bonnin](/images/gwenola equipe.png "Gwenola Bonnin")
+
+          43 ans.
+        highlight: false
+        title: Gwenola Bonnin
+      - actions:
+          - label: En savoir plus
+            url: /pricing
+        details: |-
+          ![Camille Goizet](/images/Camille Goizet equipe.png "Camille Goizet")
+
+          69 ans.
+        highlight: false
+        title: Camille Goizet
+      - actions:
+          - label: En savoir plus
+            url: /pricing
+        details: >-
+          ![Nathalie Labois](/images/Nathalie Labois equipe.png "Nathalie
+          Labois")
+
+
+          43 ans.
+        highlight: false
+        title: Nathalie Labois
+    section_id: equipe 9
     type: section_pricing
 menu:
   main:
