@@ -24,10 +24,12 @@ sections:
           - label: Notre tract
             url: >-
               https://drive.google.com/file/d/13T3e0bXyvZc4U48bG3uCAHF8GVCmJLZ-/view?usp=sharing
+        highlight: true
+      - actions:
           - label: Notre profession de foi
             url: >-
               https://drive.google.com/file/d/1_l45hwoZEE1MVjiZJbgPfn9KrXuLF72Y/view?usp=sharing
-        highlight: false
+        highlight: true
     type: section_pricing
   - bg: gray
     featureslist:
@@ -47,7 +49,7 @@ sections:
         content: >-
           Des personnes expérimentées, actuellement élues, mais aussi de
           nouveaux candidats, au service des Montois.
-        image: /images/Yves Mathias-5.png
+        image: /images/Bulles.png
         title: Notre Équipe
     section_id: Vision
     subtitle: ''
