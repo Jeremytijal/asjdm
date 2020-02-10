@@ -18,6 +18,13 @@ sections:
     section_id: hero
     title: Autrement Saint Jean de Monts
     type: section_hero
+  - actions:
+      - label: Notre Tract
+        url: >-
+          https://drive.google.com/file/d/13T3e0bXyvZc4U48bG3uCAHF8GVCmJLZ-/view?usp=sharing
+      - label: Notre profession de foi
+        url: /
+    type: section_hero2
   - bg: gray
     featureslist:
       - actions:
