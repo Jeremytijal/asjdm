@@ -165,15 +165,6 @@ sections:
         title: Sonia Pineau
       - actions:
           - label: En savoir plus
-            url: /suzanne-lemoussu
-        details: |-
-          ![Suzanne Lemoussu](/images/Suzanne LEMOUSSU.jpg "Suzanne Lemoussu")
-
-          69 ans, retraitée
-        highlight: false
-        title: Suzanne Lemoussu
-      - actions:
-          - label: En savoir plus
             url: /patrice-leroy
         details: |-
           ![Patrice Leroy](/images/patrice leroy equipe.png "Patrice Leroy")
@@ -181,6 +172,15 @@ sections:
           50 ans, marié, 3 enfants.
         highlight: false
         title: Patrice Leroy
+      - actions:
+          - label: En savoir plus
+            url: /suzanne-lemoussu
+        details: |-
+          ![Suzanne Lemoussu](/images/Suzanne LEMOUSSU.jpg "Suzanne Lemoussu")
+
+          69 ans, retraitée
+        highlight: false
+        title: Suzanne Lemoussu
     section_id: equipe 5
     type: section_pricing
   - bg: white
@@ -199,7 +199,7 @@ sections:
           - label: En savoir plus
             url: /magali-turquaud
         details: |-
-          ![Magali Turquaud](/images/Magali Turquaud.jpg "Magali Turquaud")
+          ![Magali Turquaud](/images/magali equipe-2.png "Magali Turquaud")
 
           43 ans, Assistante en administration des ventes.
         highlight: false
