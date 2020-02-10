@@ -239,6 +239,7 @@ models:
             - section_faq
             - section_features
             - section_hero
+            - section_hero2
             - section_posts
             - section_pricing
             - section_reviews
@@ -456,6 +457,25 @@ models:
   section_hero:
     type: object
     label: Hero Section
+    extends:
+      - section
+    fields:
+      - type: markdown
+        name: content
+        label: Content
+        description: The text content of the section.
+      - type: image
+        name: image
+        label: Image
+        description: The image of the section.
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: action
+  section_hero2:
+    type: object
+    label: Hero2 Section
     extends:
       - section
     fields:
