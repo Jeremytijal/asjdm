@@ -77,7 +77,7 @@ sections:
         title: Valérie Gousset
       - actions:
           - label: En savoir plus
-            url: /
+            url: /christian-leplu
         details: >-
           ![Christian Leplu](/images/Christian Leplu equipe.png "Christian
           Leplu")
