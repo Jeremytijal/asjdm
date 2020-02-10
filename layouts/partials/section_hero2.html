@@ -1,18 +1,26 @@
 <section id="{{ .section.section_id }}" class="block hero-block bg-sea outer">
-  <div class="mw7 center ph3">
-    <div class="db mb3">
-      <div class="mw7 relative bg-fix-primary mb3">
-        <h1 class="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
-          {{.title}}
-        </h1>
+  <div class="inner">
+    <div class="grid">
+      {{ if .section.image }}
+      <div class="cell block-preview">
+        <img src="{{ .section.image | relURL }}" alt="{{ .section.title }}" />
       </div>
-      <div class="mw7 relative bg-fix-primary">
-        {{ if .subtitle }}
-        <p class="b f4 di lh-title mb3 white mw6 bg-primary">
-          {{.subtitle}}
+      {{ end }}
+      <div class="cell block-content">
+        {{ if .section.title }}
+        <h2 class="block-title underline">{{ .section.title }}</h2>
+        {{ end }}
+        <div class="block-copy">
+          {{ partial "markdownify-block" .section.content }}
+        </div>
+        {{ if .section.actions }}
+        <p class="block-buttons">
+          {{ range $action := .section.actions }}
+          <a href="{{ $action.url | relURL }}" class="button white large">{{ $action.label }}</a>
+          {{ end }}
         </p>
         {{ end }}
       </div>
-    </div>
-  </div>
-</div>
+    </div><!-- .grid -->
+  </div><!-- .inner -->
+</section><!-- .block -->
