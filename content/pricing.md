@@ -188,10 +188,8 @@ sections:
       - actions:
           - label: En savoir plus
             url: /laurent-le-louarne
-        details: >-
-          ![Laurent le Louarne](/images/Laurent LE LOUARNE.JPG "Laurent le
-          Louarne")
-
+        details: |-
+          ![Laurent le Louarne](/images/laurent equipe.png "Laurent le Louarne")
 
           49 ans.
         highlight: false
@@ -210,7 +208,7 @@ sections:
           - label: En savoir plus
             url: /franck-allégret
         details: |-
-          ![Franck Allégret](/images/Franck ALLEGRET.JPG "Franck Allégret")
+          ![Franck Allégret](/images/franck equipe.png "Franck Allégret")
 
           59 ans
         highlight: false
