@@ -319,11 +319,11 @@ sections:
     type: section_pricing
 menu:
   main:
-    name: Notre Équipe
-    weight: 3
+    name: ''
+    weight: 1
   secondary:
-    name: Notre Équipe
-    weight: 2
+    name: ''
+    weight: ''
 layout: landing
 ---
 
