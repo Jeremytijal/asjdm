@@ -16,15 +16,17 @@ sections:
 
           * jouir de ses droits civils ou politiques.
         question: Qui peut voter aux élections municipales ?
-      - answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
-        question: Qui peut voter aux élections municipales ?
-      - answer: Qui peut voter aux élections municipales ?
-        question: Qui peut voter aux élections municipales ?
+      - answer: |-
+          Les élections municipales auront lieux :
+
+          \- Le Dimanche 15 mars 2020.\
+          Horaires des Bureaux de vote : de 8h00 à 18h00
+
+          et\
+          \
+          - Le Dimanche 22 mars 2020.\
+          Horaires des Bureaux de vote : de 8h00 à 18h00
+        question: Quelles sont les dates des prochaines élections municipales ?
     section_id: faq
     title: FAQ
     type: section_faq
