@@ -1,7 +1,10 @@
 ---
 title: Amélie Rivière
 sections:
-  - bg: white
+  - actions:
+      - label: Retour à la liste
+        url: /notre-équipe
+    bg: white
     content: >-
       Dés mon cursus universitaire j'ai voulu m'investir pour l'intérêt
       collectif et je me suis impliquée dans le monde associatif en devenant
