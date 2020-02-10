@@ -1,7 +1,10 @@
 ---
 title: Laurent le Louarne
 sections:
-  - bg: white
+  - actions:
+      - label: Retour à la liste
+        url: /pricing
+    bg: white
     content: >-
       49 ans.\
 
