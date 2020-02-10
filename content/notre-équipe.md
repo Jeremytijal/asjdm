@@ -1,0 +1,329 @@
+---
+title: Notre Équipe
+sections:
+  - title: Découvrez les membres de notre liste
+    type: section_hero
+  - actions:
+      - label: En savoir plus
+        url: /signup
+    bg: white
+    content: >-
+      La valeur humaine, la transparence, le respect de mes engagements, le
+      dévouement sont pour moi des valeurs essentielles qui m’ont toujours
+      accompagné et guidé dans mes actes et décisions tant à titre personnel que
+      professionnel.
+    image: /images/Yves mathias-7.png
+    section_id: Yves Mathias
+    title: Yves Mathias
+    type: section_content
+  - bg: gray
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /mireille-glorion
+        details: |-
+          ![Mireille Glorion](/images/Mireille Glorion.jpg "Mireille Glorion")
+
+          68 ans, Élue
+        highlight: false
+        price: ''
+        title: Mireille Glorion
+      - actions:
+          - label: En savoir plus
+            url: /vincent-horeau-1
+        details: |-
+          ![Vincent Horeau](/images/Vincent Horeau.jpg "Vincent Horeau")
+
+          50 ans, "Fonction"
+        price: ''
+        title: Vincent Horeau
+      - actions:
+          - label: En savoir plus
+            url: /liliane-bollengier
+        details: >-
+          ![Liliane Bollengier](/images/Liliane Bollengier.jpg "Liliane
+          Bollengier")
+
+
+          65 ans, "Fonction"
+        highlight: false
+        price: ''
+        title: Liliane Bollengier
+    section_id: Equipe 1
+    subtitle: ''
+    title: ''
+    type: section_pricing
+  - bg: white
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /
+        details: >-
+          ![Dominique Petreau](/images/Dominique Petreau.jpg "Dominique
+          Petreau")
+
+
+          63 ans
+        highlight: false
+        title: Dominique Petreau
+      - actions:
+          - label: En savoir plus
+            url: /valérie-gousset
+        details: |-
+          ![Valérie Gousset](/images/Valérie Gousset.jpg "Valérie Gousset")
+
+          59 ans,
+        highlight: false
+        title: Valérie Gousset
+      - actions:
+          - label: En savoir plus
+            url: /christian-leplu
+        details: >-
+          ![Christian Leplu](/images/Christian Leplu equipe.png "Christian
+          Leplu")
+
+
+          57 ans, Manager en communication
+        highlight: false
+        title: Christian Leplu
+    section_id: equipe2
+    type: section_pricing
+  - bg: gray
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /
+        details: |-
+          ![Jessica Grondin](/images/Jessica Grondin.jpg "Jessica Grondin")
+
+          38 ans,
+        highlight: false
+        title: Jessica Grondin
+      - actions:
+          - label: En savoir plus
+            url: /
+        details: >-
+          ![Jean-Jacques Robreteau](/images/Jean Jacques Robreteau.jpg
+          "Jean-Jacques Robreteau")
+
+
+          62 ans,
+        highlight: false
+        title: Jean-Jacques Robreteau
+      - actions:
+          - label: En savoir plus
+            url: /amélie-rivière
+        details: |-
+          ![Amélie Rivière](/images/Amélie Rivière.jpg "Amélie Rivière")
+
+          37 ans, gestionnaire de copropriété.
+        highlight: false
+        title: Amélie Rivière
+    section_id: equipe 3
+    type: section_pricing
+  - bg: gray
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /dominique-houssais
+        details: >-
+          ![Dominique Houssais](/images/Dominique Houssais.jpg "Dominique
+          Houssais")
+
+
+          63 ans, retraité
+        highlight: false
+        title: Dominique Houssais
+      - actions:
+          - label: En savoir plus
+            url: /
+        details: |-
+          ![Gianna Cannelle](/images/Gianna Cannelle.jpg "Gianna Cannelle")
+
+          62 ans
+        highlight: false
+        title: Gianna Cannelle
+      - actions:
+          - label: En savoir plus
+            url: /antoine-josso
+        details: |-
+          ![Antoine Josso](/images/Antoine Josso.jpg "Antoine Josso")
+
+          36 ans,
+        highlight: false
+        title: Antoine Josso
+    section_id: equipe 4
+    type: section_pricing
+  - bg: gray
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /sonia-pineau
+        details: |-
+          ![Sonia Pineau](/images/Sonia PINEAU.jpg "Sonia Pineau")
+
+          51 ans, Secrétaire collaboratrice.
+        highlight: false
+        title: Sonia Pineau
+      - actions:
+          - label: En savoir plus
+            url: /patrice-leroy
+        details: |-
+          ![Patrice Leroy](/images/patrice leroy equipe.png "Patrice Leroy")
+
+          50 ans, marié, 3 enfants.
+        highlight: false
+        title: Patrice Leroy
+      - actions:
+          - label: En savoir plus
+            url: /suzanne-lemoussu
+        details: |-
+          ![Suzanne Lemoussu](/images/Suzanne LEMOUSSU.jpg "Suzanne Lemoussu")
+
+          69 ans, retraitée
+        highlight: false
+        title: Suzanne Lemoussu
+    section_id: equipe 5
+    type: section_pricing
+  - bg: white
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /laurent-le-louarne
+        details: |-
+          ![Laurent le Louarne](/images/laurent equipe.png "Laurent le Louarne")
+
+          49 ans.
+        highlight: false
+        price: ''
+        title: Laurent le Louarne
+      - actions:
+          - label: En savoir plus
+            url: /magali-turquaud
+        details: |-
+          ![Magali Turquaud](/images/magali equipe-2.png "Magali Turquaud")
+
+          43 ans, Assistante en administration des ventes.
+        highlight: false
+        title: Magali Turquaud
+      - actions:
+          - label: En savoir plus
+            url: /franck-allégret
+        details: |-
+          ![Franck Allégret](/images/franck equipe.png "Franck Allégret")
+
+          59 ans
+        highlight: false
+        title: Franck Allégret
+    section_id: equipe6
+    type: section_pricing
+  - bg: gray
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /nadine-rivière
+        details: |-
+          ![Nadine Riviere](/images/nadine equipe.png "Nadine Riviere")
+
+          63 ans, adjointe de direction entreprise retraitée.
+        highlight: false
+        title: Nadine Riviere
+      - actions:
+          - label: En savoir plus
+            url: /didier-turpin
+        details: |-
+          ![Didier TURPIN](/images/Didier TURPIN equipe.png "Didier TURPIN")
+
+          63 ans
+        highlight: false
+        price: ''
+        title: Didier TURPIN
+      - actions:
+          - label: En savoir plus
+            url: /gaëlle-cuciniello
+        details: >-
+          ![Gaëlle Cuciniello](/images/Gaëlle Cuciniello equipe.png "Gaëlle
+          Cuciniello")
+
+
+          45 ans, mariée, 3 enfants.
+        highlight: false
+        title: Gaëlle Cuciniello
+    section_id: equipe 7
+    type: section_pricing
+  - bg: white
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /princing
+        details: >-
+          ![Pierre-Jean Eveille](/images/pierre jean equipe.png "Pierre-Jean
+          Eveille")
+
+
+          55 ans, Enseignant.
+        highlight: false
+        title: Pierre-Jean Eveille
+      - actions:
+          - label: En savoir plus
+            url: /princing
+        details: |-
+          ![Flavie Lefeuvre](/images/flavie equipe.png "Flavie Lefeuvre")
+
+          19 ans. Étudiante.
+        highlight: false
+        title: Flavie Lefeuvre
+      - actions:
+          - label: En savoir plus
+            url: /pricing
+        details: |-
+          ![Joël Perchat](/images/joel equipe.png "Joël Perchat")
+
+          71 ans.
+        highlight: false
+        title: Joël Perchat
+    section_id: equipe8
+    type: section_pricing
+  - bg: gray
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /pricing
+        details: |-
+          ![Gwenola Bonnin](/images/gwenola equipe.png "Gwenola Bonnin")
+
+          43 ans.
+        highlight: false
+        title: Gwenola Bonnin
+      - actions:
+          - label: En savoir plus
+            url: /pricing
+        details: |-
+          ![Camille Goizet](/images/Camille Goizet equipe.png "Camille Goizet")
+
+          69 ans.
+        highlight: false
+        title: Camille Goizet
+      - actions:
+          - label: En savoir plus
+            url: /pricing
+        details: >-
+          ![Nathalie Labois](/images/Nathalie Labois equipe.png "Nathalie
+          Labois")
+
+
+          43 ans.
+        highlight: false
+        title: Nathalie Labois
+    section_id: equipe 9
+    type: section_pricing
+menu:
+  main:
+    name: Notre Équipe
+    weight: 3
+  secondary:
+    name: Notre Équipe
+    weight: 2
+layout: landing
+---
+
