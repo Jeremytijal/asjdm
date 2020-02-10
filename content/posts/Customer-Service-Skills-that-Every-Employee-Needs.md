@@ -9,6 +9,6 @@ excerpt: >-
   Odysséa
 layout: post
 ---
-> Venez-nous rencontrer le Mercredi 11 Mars 2020
+> Venez-nous rencontrer le Mercredi 11 Mars à 19h30. 
 >
-> Lieu de rencontre : Odysséa
+> Lieu de rencontre : Salle Odysséa
