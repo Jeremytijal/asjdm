@@ -172,6 +172,15 @@ sections:
           69 ans, retraitée
         highlight: false
         title: Suzanne Lemoussu
+      - actions:
+          - label: En savoir plus
+            url: /patrice-leroy
+        details: |-
+          ![Patrice Leroy](/images/Patrice LEROY.JPG "Patrice Leroy")
+
+          50 ans, marié, 3 enfants.
+        highlight: false
+        title: Patrice Leroy
     section_id: equipe 5
     type: section_pricing
   - bg: white
