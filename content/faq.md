@@ -31,46 +31,46 @@ sections:
           Vous trouverez la liste des bureaux de votes ci-dessous :
 
 
-          \- Premier bureau de vote : Hôtel de Ville – Hall Entrée – 18, rue de
-          la Plage -\
+          \- Premier bureau de vote : **Hôtel de Ville – Hall Entrée – 18, rue
+          de la Plage** \
 
           \
 
-          - Deuxième bureau de vote : Hôtel de Ville – Salle de l’entresol – 18,
-          rue de la Plage\
+          - Deuxième bureau de vote : **Hôtel de Ville – Salle de l’entresol –
+          18, rue de la Plage**\
 
           \
 
-          - Troisième bureau de vote : Médiathèque – 17, rue de la Plage\
+          - Troisième bureau de vote : **Médiathèque – 17, rue de la Plage**\
 
           \
 
-          - Quatrième bureau de vote : Services Techniques Municipaux – 22, rue
-          des artisans\
+          - Quatrième bureau de vote : **Services Techniques Municipaux – 22,
+          rue des artisans**\
 
           \
 
-          - Cinquième bureau de vote : Groupe scolaire de la plage – 5, rue des
-          Moulins\
+          - Cinquième bureau de vote : **Groupe scolaire de la plage – 5, rue
+          des Moulins**\
 
           \
 
-          - Sixième bureau de vote : Salle communale d’Orouët- 85, Avenue
-          d’Orouët\
+          - Sixième bureau de vote : **Salle communale d’Orouët- 85, Avenue
+          d’Orouët**\
 
           \
 
-          - Septième bureau de vote : Salle communale du Vieux-Cerne – 178,
-          route de Beauvoir\
+          - Septième bureau de vote : **Salle communale du Vieux-Cerne – 178,
+          route de Beauvoi**r\
 
           \
 
-          - Huitième bureau de vote: Centre d’activités sociales Passerelle –
-          29, boulevard du Maréchal Leclerc
+          Huitième bureau de vote: **Centre d’activités sociales Passerelle –
+          29, boulevard du Maréchal Leclerc**
 
-          \
 
-          - Neuvième bureau de vote : Complexe sportif – 15, rue des artisans
+          \- Neuvième bureau de vote : **Complexe sportif – 15, rue des
+          artisans**
         question: Où pouvons-nous aller voter ?
     section_id: faq
     title: FAQ
