@@ -293,7 +293,9 @@ a.button.large {
   color: _palette(accent);
   -webkit-transition: background-color .2s ease-in-out, color .2s ease-in-out;
   transition: background-color .2s ease-in-out, color .2s ease-in-out;
-  position: center;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
 
   &:hover,
   &:focus,
