@@ -1,7 +1,8 @@
 ---
 title: Notre Équipe
 sections:
-  - type: section_hero4
+  - title: 'Découvrez nos colistiers '
+    type: section_hero4
   - actions:
       - label: En savoir plus
         url: /signup
