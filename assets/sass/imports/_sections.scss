@@ -561,10 +561,13 @@
 
     background: url('/images/PHOTO_Accueil.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
     color: #fff;
     min-height: 400px;
-    position: center;
 
     .block-title {
       color: inherit;
