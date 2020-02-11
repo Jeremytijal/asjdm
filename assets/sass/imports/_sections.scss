@@ -601,6 +601,26 @@
      
       
     }
+     
+   &.bg-hero4 {
+
+    background: url('/images/equipe.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    min-height: 400px;
+
+    .block-title {
+      color: inherit;
+    }
+     
+    .block-content {
+      -webkit-flex: 5;
+      -ms-flex: 5;
+      flex: 5;
+     
+      
+    }
 
     .underline:after {
       border-color: currentColor;
