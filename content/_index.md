@@ -32,7 +32,7 @@ sections:
         content: >-
           Des personnes expérimentées, actuellement élues, mais aussi de
           nouveaux candidats, au service des Montois.
-        image: /images/Bulles-5.png
+        image: /images/Bulles-7.png
         title: Notre Équipe
     section_id: Vision
     subtitle: ''
