@@ -9,7 +9,7 @@ sections:
           - label: Découvrez notre proposition
             url: /
         details: '![Sécurité](/images/MEETING.jpg "Sécurité")'
-        highlight: false
+        highlight: true
     type: section_pricing2
   - actions:
       - label: Envoyer mon idée
