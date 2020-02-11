@@ -586,19 +586,12 @@
 
     background: #7C8FA6;
     color: #fff;
-    max-height: 20px;
+    max-height: 50px;
 
     .block-title {
       color: inherit;
     }
      
-    .block-content {
-      -webkit-flex: 5;
-      -ms-flex: 5;
-      flex: 5;
-     
-      
-    }
 
     .underline:after {
       border-color: currentColor;
