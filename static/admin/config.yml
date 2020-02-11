@@ -631,7 +631,7 @@ collections:
                   Name of the Stackbit object model, used by fields of type
                   reference
                 default: section_hero2
-        - name: section_hero3
+          - name: section_hero3
             widget: object
             label: Hero3 Section
             fields:
