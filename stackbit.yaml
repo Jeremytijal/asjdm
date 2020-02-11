@@ -386,7 +386,7 @@ models:
           type: action
   section_cta2:
     type: object
-    label: Call to Action Section2
+    label: Call to Action2 Section
     extends:
       - section
     fields:
