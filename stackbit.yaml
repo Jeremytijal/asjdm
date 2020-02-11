@@ -509,7 +509,7 @@ models:
         label: Action Buttons
         items:
           type: action
- section_hero3:
+  section_hero3:
     type: object
     label: Hero3 Section
     extends:
