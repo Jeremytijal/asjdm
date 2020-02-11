@@ -3,13 +3,6 @@ title: Propositions
 sections:
   - title: Découvrez nos propositions
     type: section_hero3
-  - actions:
-      - label: Envoyer mon idée
-        url: /contact
-    section_id: call-to-action
-    subtitle: ''
-    title: 'Envoyez-nous vos idées '
-    type: section_cta
   - bg: gray
     pricingplans:
       - actions:
@@ -18,6 +11,13 @@ sections:
         details: '![Sécurité](/images/MEETING.jpg "Sécurité")'
         highlight: false
     type: section_pricing2
+  - actions:
+      - label: Envoyer mon idée
+        url: /contact
+    section_id: call-to-action
+    subtitle: ''
+    title: 'Envoyez-nous vos idées '
+    type: section_cta
 menu:
   main:
     name: Nos Propositions
