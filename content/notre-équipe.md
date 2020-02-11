@@ -34,7 +34,7 @@ sections:
         details: |-
           ![Vincent Horeau](/images/Vincent Horeau.jpg "Vincent Horeau")
 
-          50 ans. Président d'associations
+          51 ans. Directeur de camping.
         price: ''
         title: Vincent Horeau
       - actions:
