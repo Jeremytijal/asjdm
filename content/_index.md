@@ -6,7 +6,7 @@ sections:
     content: ''
     image: ''
     section_id: hero
-    title: ''
+    title: Autrement Saint Jean de Monts
     type: section_hero
   - actions:
       - label: Notre Tract
