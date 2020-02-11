@@ -68,7 +68,6 @@ sections:
           - Huitième bureau de vote: Centre d’activités sociales Passerelle –
           29, boulevard du Maréchal Leclerc
 
-
           \
 
           - Neuvième bureau de vote : Complexe sportif – 15, rue des artisans
