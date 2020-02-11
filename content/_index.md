@@ -49,6 +49,12 @@ sections:
     section_id: recent-posts
     title: Réunions Publiques
     type: section_posts
+  - actions:
+      - label: Notre profession de foi
+        url: /
+      - label: Notre profession de foi
+        url: /
+    type: section_cta2
 menu:
   main:
     name: Accueil
