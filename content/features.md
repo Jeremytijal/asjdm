@@ -1,7 +1,8 @@
 ---
 title: Propositions
 sections:
-  - type: section_hero3
+  - title: Découvrez nos propositions
+    type: section_hero3
   - actions:
       - label: Envoyer mon idée
         url: /contact
