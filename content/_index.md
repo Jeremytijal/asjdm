@@ -3,14 +3,10 @@ title: Accueil
 sections:
   - actions: []
     bg: null
-    content: >-
-      Toute l’équipe d’Autrement Saint Jean de Monts travaille pour tous les
-      Montois. Entre mer, marais et forêt, nous avons construit ensemble une
-      ville où il fait bon vivre, attractive, solidaire et énergique toute
-      l’année. C’est le résultat de nos actions.
+    content: ''
     image: ''
     section_id: hero
-    title: Autrement Saint Jean de Monts
+    title: ''
     type: section_hero
   - actions:
       - label: Notre Tract
