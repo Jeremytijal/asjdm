@@ -1,15 +1,6 @@
 <section id="{{ .section.section_id }}" class="block cta2-block bg-cta outer">
   <div class="inner-large">
     <div class="grid">
-      <div class="cell block-content">
-        {{ if .section.title }}
-        <h2 class="block-title">{{ .section.title }}</h2>
-        {{ end }}
-        {{ if .section.subtitle }}
-        <p class="block-subtitle">
-          {{ .section.subtitle | safeHTML }}
-        </p>
-        {{ end }}
       </div><!-- .block-content -->
       {{ if .section.actions }}
       <div class="cell block-buttons">
