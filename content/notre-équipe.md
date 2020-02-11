@@ -1,8 +1,7 @@
 ---
 title: Notre Équipe
 sections:
-  - title: Découvrez les membres de notre liste
-    type: section_hero
+  - type: section_hero4
   - actions:
       - label: En savoir plus
         url: /signup
