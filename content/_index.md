@@ -20,7 +20,7 @@ sections:
   - bg: gray
     featureslist:
       - actions:
-          - label: En savoir plus
+          - label: Prochainement
             url: /features
         content: Découvrez nos propositions prochainement.
         image: /images/Estacade Saint Jean de Monts.jpeg
