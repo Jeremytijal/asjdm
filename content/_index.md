@@ -9,15 +9,11 @@ sections:
     title: Autrement Saint Jean de Monts
     type: section_hero
   - actions:
-      - label: Notre Tract
-        url: >-
-          https://drive.google.com/file/d/13T3e0bXyvZc4U48bG3uCAHF8GVCmJLZ-/view?usp=sharing
       - label: Notre profession de foi
-        url: >-
-          https://drive.google.com/file/d/1_l45hwoZEE1MVjiZJbgPfn9KrXuLF72Y/view?usp=sharing
-    content: ''
-    title: ''
-    type: section_hero2
+        url: /
+      - label: Notre profession de foi
+        url: /
+    type: section_cta2
   - bg: gray
     featureslist:
       - actions:
@@ -49,12 +45,6 @@ sections:
     section_id: recent-posts
     title: Réunions Publiques
     type: section_posts
-  - actions:
-      - label: Notre profession de foi
-        url: /
-      - label: Notre profession de foi
-        url: /
-    type: section_cta2
 menu:
   main:
     name: Accueil
