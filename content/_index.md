@@ -27,7 +27,7 @@ sections:
           déjà réalisés (centre-ville, Quartiers Libres, sondages), la liste
           Autrement Saint-Jean-de-Monts veut continuer d’appliquer ce principe.
           Alors, faites part de vos suggestions et participons !
-        image: /images/roue remblais.png
+        image: /images/Estacade Saint Jean de Monts.jpeg
         title: Nos Propositions
       - actions:
           - label: Découvrez toute la liste
