@@ -22,11 +22,7 @@ sections:
       - actions:
           - label: En savoir plus
             url: /features
-        content: >-
-          Dans la continuité des multiples projets de démocratie participative
-          déjà réalisés (centre-ville, Quartiers Libres, sondages), la liste
-          Autrement Saint-Jean-de-Monts veut continuer d’appliquer ce principe.
-          Alors, faites part de vos suggestions et participons !
+        content: Découvrez nos propositions prochainement.
         image: /images/Estacade Saint Jean de Monts.jpeg
         title: Nos Propositions
       - actions:
