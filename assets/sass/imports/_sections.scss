@@ -582,7 +582,32 @@
     }
   }
  
-  &.bg-hero2 {
+   &.bg-hero3 {
+
+    background: url('/images/hero3.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    min-height: 400px;
+
+    .block-title {
+      color: inherit;
+    }
+     
+    .block-content {
+      -webkit-flex: 5;
+      -ms-flex: 5;
+      flex: 5;
+     
+      
+    }
+
+    .underline:after {
+      border-color: currentColor;
+    }
+  }
+  
+   &.bg-hero2 {
 
     background: #7C8FA6;
     color: #fff;
