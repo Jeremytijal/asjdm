@@ -1,7 +1,10 @@
 ---
 title: Valérie Gousset
 sections:
-  - bg: white
+  - actions:
+      - label: Retour à la liste
+        url: /notre-équipe
+    bg: white
     content: >-
       59 ans, auxiliaire vétérinaire à Saint Jean de Monts depuis 23 ans.
 
