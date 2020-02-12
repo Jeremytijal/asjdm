@@ -30,31 +30,42 @@ sections:
         title: Mireille Glorion
       - actions:
           - label: En savoir plus
-            url: /vincent-horeau-1
-        details: |-
-          ![Vincent Horeau](/images/Vincent Horeau.jpg "Vincent Horeau")
+            url: /pierre-jean-eveille
+        details: >-
+          ![Pierre-Jean Eveille](/images/pierre jean equipe.png "Pierre-Jean
+          Eveille")
 
-          51 ans. Directeur de camping.
+
+          55 ans. Enseignant.
         price: ''
-        title: Vincent Horeau
+        title: Pierre-Jean Eveille
       - actions:
           - label: En savoir plus
-            url: /liliane-bollengier
-        details: >-
-          ![Liliane Bollengier](/images/Liliane Bollengier.jpg "Liliane
-          Bollengier")
+            url: /amélie-rivière
+        details: |-
+          ![Amélie Rivière](/images/Amélie Rivière.jpg "Amélie Rivière")
 
-
-          65 ans. Cadre EDF en retraite.
+          37 ans. Gestionnaire de copropriété.
         highlight: false
         price: ''
-        title: Liliane Bollengier
+        title: Amélie Rivière
     section_id: Equipe 1
     subtitle: ''
     title: ''
     type: section_pricing
   - bg: white
     pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /christian-leplu
+        details: >-
+          ![Christian Leplu](/images/Christian Leplu equipe.png "Christian
+          Leplu")
+
+
+          57 ans, Manager en communication
+        highlight: false
+        title: Christian Leplu
       - actions:
           - label: En savoir plus
             url: /
@@ -75,17 +86,6 @@ sections:
           59 ans. Auxiliaire vétérinaire.
         highlight: false
         title: Valérie Gousset
-      - actions:
-          - label: En savoir plus
-            url: /christian-leplu
-        details: >-
-          ![Christian Leplu](/images/Christian Leplu equipe.png "Christian
-          Leplu")
-
-
-          57 ans, Manager en communication
-        highlight: false
-        title: Christian Leplu
     section_id: equipe2
     type: section_pricing
   - bg: gray
