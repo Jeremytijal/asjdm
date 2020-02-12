@@ -568,7 +568,7 @@
     .block-title {
       color: white;
       text-shadow: 2px 2px 0 #266699;
-      margin: 0 -200px 2rem;
+      
     } 
      
     .block-content {
@@ -583,6 +583,7 @@
 @media only screen and (min-width: 741px){  
   .block-title {
      font-size: 3rem;
+     margin: 0 -200px 2rem;
   }
   }
   }
@@ -593,7 +594,7 @@
     background-size: cover;
     background-position: center;
     color: #fff;
-    min-height: 350px;
+    min-height: 450px;
 
     .block-title {
       color: inherit;
@@ -613,10 +614,11 @@
     background-size: cover;
     background-position: center;
     color: #fff;
-    min-height: 350px;
+    min-height: 450px;
 
     .block-title {
       color: inherit;
+      margin: -20px 0 2rem;
     }
      
     .block-content {
