@@ -68,7 +68,7 @@ sections:
         title: Christian Leplu
       - actions:
           - label: En savoir plus
-            url: /
+            url: /gaëlle-cuciniello
         details: >-
           ![Gaëlle Cuciniello](/images/Gaëlle Cuciniello equipe.png "Gaëlle
           Cuciniello")
@@ -79,7 +79,7 @@ sections:
         title: Gaëlle Cuciniello
       - actions:
           - label: En savoir plus
-            url: /valérie-gousset
+            url: /vincent-horeau
         details: |-
           ![Vincent Horeau](/images/Vincent Horeau.jpg "Vincent Horeau")
 
@@ -92,7 +92,7 @@ sections:
     pricingplans:
       - actions:
           - label: En savoir plus
-            url: /
+            url: /sonia-pineau
         details: |-
           ![Sonia Pineau](/images/Sonia PINEAU.jpg "Sonia Pineau")
 
@@ -101,7 +101,7 @@ sections:
         title: Sonia Pineau
       - actions:
           - label: En savoir plus
-            url: /
+            url: /dominique-petreau
         details: >-
           ![Dominique Petreau](/images/Dominique Petreau.jpg "Dominique
           Petreau")
@@ -112,7 +112,7 @@ sections:
         title: Dominique Petreau
       - actions:
           - label: En savoir plus
-            url: /amélie-rivière
+            url: /jessica-grondin
         details: |-
           ![Jessica Grondin](/images/Jessica Grondin.jpg "Jessica Grondin")
 
@@ -125,18 +125,18 @@ sections:
     pricingplans:
       - actions:
           - label: En savoir plus
-            url: /dominique-houssais
+            url: /jean-jacques-robreteau
         details: >-
-          ![Dominique Houssais](/images/Dominique houssais equipe.png "Dominique
-          Houssais")
+          ![Jean-Jacques Robreteau](/images/Jean Jacques equipe.png
+          "Jean-Jacques Robreteau")
 
 
-          63 ans. Pompier en retraite.
+          62 ans. Commerçant en retraite.
         highlight: false
-        title: Dominique Houssais
+        title: Jean-Jacques Robreteau
       - actions:
           - label: En savoir plus
-            url: /
+            url: /gianna-cannelle
         details: |-
           ![Gianna Cannelle](/images/Gianna Cannelle.jpg "Gianna Cannelle")
 
@@ -145,13 +145,13 @@ sections:
         title: Gianna Cannelle
       - actions:
           - label: En savoir plus
-            url: /antoine-josso
+            url: /franck-allegret
         details: |-
-          ![Antoine Josso](/images/Antoine Josso.jpg "Antoine Josso")
+          ![Franck Allégret](/images/franck equipe.png "Franck Allégret")
 
-          36 ans. Pharmacien.
+          59 ans. Chef d'entreprise.
         highlight: false
-        title: Antoine Josso
+        title: Franck Allégret
     section_id: equipe 4
     type: section_pricing
   - bg: gray
