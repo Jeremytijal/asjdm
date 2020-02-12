@@ -6,9 +6,6 @@ sections:
         url: /notre-équipe
     bg: white
     content: >-
-      59 ans, auxiliaire vétérinaire à Saint Jean de Monts depuis 23 ans.
-
-
       Engagée dans la vie associative en Vendée depuis mon arrivée en adhérant
       activement aux associations scolaires et culturelles, j'ai multiplié mes
       centres d'intérêts : de la passion pour le monde animal et son
