@@ -10,7 +10,7 @@ params:
       - new_window: true
         text: Netary
         url: 'https://netary.fr'
-    logo_img: /images/Copie de Autrement.png
+    logo_img: /images/logo footer.png
     nav_title: Menu
     social_title: Suivez-nous
     subscribe_content: ''
