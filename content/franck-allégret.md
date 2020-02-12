@@ -3,7 +3,7 @@ title: Franck Allégret
 sections:
   - actions:
       - label: Retour à la liste
-        url: /pricing
+        url: /notre-équipe
     bg: white
     content: >-
       59 ans.
