@@ -26,7 +26,7 @@ sections:
         title: Nos Propositions
       - actions:
           - label: Découvrez toute la liste
-            url: /pricing
+            url: /notre-équipe
         content: Découvrez nos colistiers.
         image: /images/Bulles-7.png
         title: Notre Équipe
