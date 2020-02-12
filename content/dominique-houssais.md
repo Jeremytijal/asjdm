@@ -6,9 +6,6 @@ sections:
         url: /notre-équipe
     bg: white
     content: >-
-      63 ans, retraité.
-
-
       J'ai travaillé 10 ans dans le transport logistique, tout en étant pendant
       6 ans sapeur pompier volontaire.
 
