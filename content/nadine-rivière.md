@@ -3,7 +3,7 @@ title: Nadine Rivière
 sections:
   - actions:
       - label: Retour à la liste
-        url: /pricing
+        url: /notre-équipe
     bg: white
     content: >-
       63 ans, adjointe de direction entreprise, retraitée
