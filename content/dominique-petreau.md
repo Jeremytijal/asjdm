@@ -6,7 +6,7 @@ sections:
         url: /notre-équipe
     bg: white
     content: >-
-      63 ans, marié ,2 enfants, 4 petits enfants.
+      63 ans, marié, 2 enfants, 4 petits enfants.
 
 
       \
