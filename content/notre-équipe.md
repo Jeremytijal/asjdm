@@ -94,31 +94,31 @@ sections:
           - label: En savoir plus
             url: /
         details: |-
-          ![Jessica Grondin](/images/Jessica Grondin.jpg "Jessica Grondin")
+          ![Sonia Pineau](/images/Sonia PINEAU.jpg "Sonia Pineau")
 
-          38 ans. Coiffeuse à domicile
+          51 ans. Attachée de direction.
         highlight: false
-        title: Jessica Grondin
+        title: Sonia Pineau
       - actions:
           - label: En savoir plus
             url: /
         details: >-
-          ![Jean-Jacques Robreteau](/images/Jean Jacques equipe.png
-          "Jean-Jacques Robreteau")
+          ![Dominique Petreau](/images/Dominique Petreau.jpg "Dominique
+          Petreau")
 
 
-          62 ans. Commerçant en retraite.
+          63 ans. Gérant de société en retraite.
         highlight: false
-        title: Jean-Jacques Robreteau
+        title: Dominique Petreau
       - actions:
           - label: En savoir plus
             url: /amélie-rivière
         details: |-
-          ![Amélie Rivière](/images/Amélie Rivière.jpg "Amélie Rivière")
+          ![Jessica Grondin](/images/Jessica Grondin.jpg "Jessica Grondin")
 
-          37 ans. Gestionnaire de copropriété.
+          38 ans. Coiffeuse à domicile.
         highlight: false
-        title: Amélie Rivière
+        title: Jessica Grondin
     section_id: equipe 3
     type: section_pricing
   - bg: gray
