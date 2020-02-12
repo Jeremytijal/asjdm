@@ -15,7 +15,7 @@ sections:
       membre de l’Association des Parents d’Elèves de l’école pendant de
       nombreuses années. De part mes fonctions d’attachée de direction, j’ai le
       sens de l’engagement et des responsabilités, et le souhait de poursuivre
-      ce même engagement au service de notre belle commune.J’ai à cœur de
+      ce même engagement au service de notre belle commune. J’ai à cœur de
       contribuer au développement de notre ville, dans un environnement durable
       pour le bien-être de toutes les générations de Montoises. 
 
