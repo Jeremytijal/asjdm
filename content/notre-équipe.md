@@ -317,8 +317,25 @@ sections:
         title: Suzanne Lemoussu
     section_id: equipe 9
     type: section_pricing
-  - bg: gray
-    type: section_content
+  - bg: white
+    pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /joël-perchat
+        details: |-
+          ![Joël Perchat](/images/joel equipe.png "Joël Perchat")
+
+          71 ans. Acheteur Industriel en retraite.
+        highlight: false
+        title: Joël Perchat
+      - actions:
+          - label: En savoir plus
+            url: /jean-jacques-vasseur
+        details: '![Jean-Jacques Vasseur]( "Jean-Jacques Vasseur")'
+        highlight: false
+        title: Jean-Jacques Vasseur
+    section_id: equipe10
+    type: section_pricing
 menu:
   main:
     name: Notre Équipe
