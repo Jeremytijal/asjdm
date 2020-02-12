@@ -5,7 +5,7 @@ params:
     content: '&copy; Netary. Tous droits réservés.'
     has_nav: true
     has_social: true
-    has_subscribe: true
+    has_subscribe: false
     links:
       - new_window: true
         text: Netary
@@ -13,8 +13,8 @@ params:
     logo_img: /images/Copie de Autrement.png
     nav_title: Menu
     social_title: Suivez-nous
-    subscribe_content: Recevez nos dernières actualités en vous abonnant à notre newsletter.
-    subscribe_title: Abonnez-vous
+    subscribe_content: ''
+    subscribe_title: ''
     tagline: Développé par Netary
   header:
     has_nav: true
