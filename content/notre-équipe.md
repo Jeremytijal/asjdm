@@ -74,7 +74,7 @@ sections:
           Cuciniello")
 
 
-          45 ans. Attachée de Direction Groupe SATOV.
+          45 ans. Attachée de Direction.
         highlight: false
         title: Gaëlle Cuciniello
       - actions:
