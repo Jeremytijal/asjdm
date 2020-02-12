@@ -6,7 +6,7 @@ sections:
         url: /pricing
     bg: white
     content: >-
-      59 ans,
+      59 ans.
 
 
       \
