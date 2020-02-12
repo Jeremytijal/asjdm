@@ -6,11 +6,6 @@ sections:
         url: /notre-équipe
     bg: white
     content: >-
-      63 ans, adjointe de direction entreprise, retraitée
-
-
-      \
-
       Depuis mon enfance je viens à Saint Jean de Monts. J'y suis propriétaire
       depuis 20 ans. Il fait bon vivre dans cette ville et je souhaite que tous
       les habitants et estivants puissent y trouver le plaisir d'y vivre en
