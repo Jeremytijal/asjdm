@@ -1,7 +1,10 @@
 ---
 title: Jessica Grondin
 sections:
-  - bg: white
+  - actions:
+      - label: En savoir plus
+        url: /notre-équipe
+    bg: white
     content: >-
       38 ans,
 
