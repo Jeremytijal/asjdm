@@ -32,7 +32,7 @@ sections:
           - label: Prochainement
             url: /prochainement
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
-        highlight: false
+        highlight: true
       - actions:
           - label: Prochainement
             url: /prochainement
