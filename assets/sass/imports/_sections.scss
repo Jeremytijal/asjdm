@@ -671,11 +671,12 @@
     text-align: left;
   }
   
+  @media only screen and (min-width: 741px){  
   .block-buttons {
   display: flex;
   align-items: center;
   justify-content: center;
 
-
+    }
 }
 }
