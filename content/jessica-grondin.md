@@ -6,9 +6,6 @@ sections:
         url: /notre-équipe
     bg: white
     content: >-
-      38 ans,
-
-
       Montoise depuis ma plus tendre enfance et coiffeuse à domicile depuis 14
       ans sur Saint Jean de Monts et ses alentours, je souhaite participer au
       développement de ma commune et continuer de grandir avec elle en
