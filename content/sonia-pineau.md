@@ -1,7 +1,10 @@
 ---
 title: Sonia Pineau
 sections:
-  - bg: white
+  - actions:
+      - label: Retour à la liste
+        url: /notre-équipe
+    bg: white
     content: >-
       Secrétaire collaboratrice, 3 enfants
 
