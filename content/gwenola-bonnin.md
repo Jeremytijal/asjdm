@@ -6,11 +6,6 @@ sections:
         url: /notre-équipe
     bg: white
     content: >-
-      43 ans
-
-
-      \
-
       Assistante maternelle agréée depuis 20 ans je fais ce métier car j’adore
       m’occuper des enfants, contribuer à leur développement. Je participe
       beaucoup à la vie associative en particulier en tant que Présidente de
