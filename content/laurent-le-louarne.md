@@ -6,8 +6,6 @@ sections:
         url: /pricing
     bg: white
     content: >-
-      49 ans.\
-
       Après avoir tenu un commerce de proximité pendant une dizaine d'années,
       j'occupe un poste de conducteur pontier sur une Unité de Valorisation
       Énergétique au sein du Groupe SUEZ dans le domaine de l’environnement. Je
