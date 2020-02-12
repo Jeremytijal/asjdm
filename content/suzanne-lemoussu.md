@@ -1,7 +1,10 @@
 ---
 title: Suzanne Lemoussu
 sections:
-  - bg: white
+  - actions:
+      - label: Retour à la liste
+        url: /notre-équipe
+    bg: white
     content: >-
       Mariée 2 enfants 5 petits enfants
 
