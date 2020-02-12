@@ -6,14 +6,9 @@ sections:
         url: /notre-équipe
     bg: white
     content: >-
-      65 ans, mariée, 3 enfants.
-
-
       Secrétaire d’administration scolaire et universitaire en retraite.
       Conseillère municipale sortante.
 
-
-      \
 
       Bénévole depuis plusieurs années au Club des SAGES (cours d’Italien),
       membre du comité de jumelage de Notre-Dame, j’ai effectué l’essentiel de
