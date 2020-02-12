@@ -6,11 +6,6 @@ sections:
         url: /notre-équipe
     bg: white
     content: >-
-      62 ans, boulanger retraité.
-
-
-      \
-
       Artisan boulanger à Saint Jean de Monts puis technicien formateur dans le
       même métier pendant de nombreuses années, j'habite Saint Jean de Monts
       depuis 40 ans. Je suis passionné d’animations et participe activement à
