@@ -234,24 +234,36 @@ sections:
           - label: En savoir plus
             url: /patrice-leroy
         details: |-
-          ![Patrice Leroy](/images/Patrice LEROY.JPG "Patrice Leroy")
+          ![Patrice Leroy](/images/patrice leroy equipe.png "Patrice Leroy")
 
           50 ans. Gérant de société.
         highlight: false
         title: Patrice Leroy
       - actions:
           - label: En savoir plus
-            url: /pricing
-        details: |-
-          ![Joël Perchat](/images/joel equipe.png "Joël Perchat")
+            url: /liliane-bollengier
+        details: >-
+          ![Liliane Bollengier](/images/Liliane Bollengier.jpg "Liliane
+          Bollengier")
 
-          71 ans. Acheteur Industriel en retraite.
+
+          65 ans. Cadre EDF en retraite.
         highlight: false
-        title: Joël Perchat
+        title: Liliane Bollengier
     section_id: equipe7
     type: section_pricing
   - bg: white
     pricingplans:
+      - actions:
+          - label: En savoir plus
+            url: /remy-giraudet
+        details: |-
+          ![Remy Giraudet]( "Remy Giraudet")
+
+          29 ans. Chef d’Entreprise Graphiste/Designer
+        highlight: false
+        price: ''
+        title: Remy Giraudet
       - actions:
           - label: En savoir plus
             url: /nadine-rivière
@@ -263,60 +275,50 @@ sections:
         title: Nadine Riviere
       - actions:
           - label: En savoir plus
-            url: /didier-turpin
-        details: |-
-          ![Didier TURPIN](/images/Didier TURPIN equipe.png "Didier TURPIN")
-
-          63 ans. Commercial en Immobilier.
-        highlight: false
-        price: ''
-        title: Didier TURPIN
-      - actions:
-          - label: En savoir plus
-            url: /gaëlle-cuciniello
+            url: /dominique-houssais
         details: >-
-          ![Gaëlle Cuciniello](/images/Gaëlle Cuciniello equipe.png "Gaëlle
-          Cuciniello")
+          ![Dominique Houssais](/images/Dominique houssais equipe.png "Dominique
+          Houssais")
 
 
-          45 ans. Attachée de Direction Groupe SATOV.
+          63 ans. Pompier en retraite.
         highlight: false
-        title: Gaëlle Cuciniello
+        title: Dominique Houssais
     section_id: equipe 8
     type: section_pricing
   - bg: gray
     pricingplans:
       - actions:
           - label: En savoir plus
-            url: /pricing
+            url: /flavie-lefeuvre
         details: |-
-          ![Gwenola Bonnin](/images/gwenola equipe.png "Gwenola Bonnin")
+          ![Flavie Lefeuvre](/images/flavie equipe.png "Flavie Lefeuvre")
 
-          43 ans. Assistante maternelle agréée.
+          19 ans. Étudiante.
         highlight: false
-        title: Gwenola Bonnin
+        title: Flavie Lefeuvre
       - actions:
           - label: En savoir plus
-            url: /pricing
+            url: /didier-turpin
         details: |-
-          ![Camille Goizet](/images/Camille Goizet equipe.png "Camille Goizet")
+          ![Didier Turpin](/images/Didier TURPIN equipe.png "Didier Turpin")
 
-          69 ans. Gérant de Société en retraite.
+          63 ans. Commercial en Immobilier.
         highlight: false
-        title: Camille Goizet
+        title: Didier Turpin
       - actions:
           - label: En savoir plus
-            url: /pricing
-        details: >-
-          ![Nathalie Labois](/images/Nathalie Labois equipe.png "Nathalie
-          Labois")
+            url: /suzanne-lemoussu
+        details: |-
+          ![Suzanne Lemoussu](/images/Suzanne LEMOUSSU.jpg "Suzanne Lemoussu")
 
-
-          43 ans. Commerçante.
+          69 ans. Retraitée.
         highlight: false
-        title: Nathalie Labois
+        title: Suzanne Lemoussu
     section_id: equipe 9
     type: section_pricing
+  - bg: gray
+    type: section_content
 menu:
   main:
     name: Notre Équipe
