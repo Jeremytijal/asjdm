@@ -70,22 +70,22 @@ sections:
           - label: En savoir plus
             url: /
         details: >-
-          ![Dominique Petreau](/images/Dominique Petreau.jpg "Dominique
-          Petreau")
+          ![Gaëlle Cuciniello](/images/Gaëlle Cuciniello equipe.png "Gaëlle
+          Cuciniello")
 
 
-          63 ans. Gérant de société en retraite.
+          45 ans. Attachée de Direction Groupe SATOV.
         highlight: false
-        title: Dominique Petreau
+        title: Gaëlle Cuciniello
       - actions:
           - label: En savoir plus
             url: /valérie-gousset
         details: |-
-          ![Valérie Gousset](/images/Valérie Gousset.jpg "Valérie Gousset")
+          ![Vincent Horeau](/images/Vincent Horeau.jpg "Vincent Horeau")
 
-          59 ans. Auxiliaire vétérinaire.
+          51 ans. Directeur de camping.
         highlight: false
-        title: Valérie Gousset
+        title: Vincent Horeau
     section_id: equipe2
     type: section_pricing
   - bg: gray
