@@ -3,11 +3,6 @@ title: Patrice Leroy
 sections:
   - bg: white
     content: >-
-      50 ans, marié, 3 enfants,
-
-
-      \
-
       Montois depuis plus de 15 ans, je suis un chef d’entreprise dans le
       domaine du conseil et travaille en particulier dans l’optimisation des
       coûts de fonctionnement.
