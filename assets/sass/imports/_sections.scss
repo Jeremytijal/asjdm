@@ -566,8 +566,9 @@
     min-height: 600px;
 
     .block-title {
-      text-shadow: 2px 2px 0 white,
-               4px 4px 0 #266699;
+      color: white;
+      text-shadow: 2px 2px 0 #266699,
+                  4px 4px 0 white;
     } 
      
     .block-content {
