@@ -27,9 +27,7 @@ sections:
       - actions:
           - label: Découvrez toute la liste
             url: /pricing
-        content: >-
-          Des personnes expérimentées, actuellement élues, mais aussi de
-          nouveaux candidats, au service des Montois.
+        content: Découvrez nos colistiers.
         image: /images/Bulles-7.png
         title: Notre Équipe
     section_id: Vision
