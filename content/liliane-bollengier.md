@@ -1,19 +1,34 @@
 ---
 title: Liliane Bollengier
 sections:
-  - bg: white
+  - actions:
+      - label: Retour à la liste
+        url: /notre-équipe
+    bg: white
     content: >-
-      Les personnes qui composent la liste sont à la fois des Montoises et
-      Montois de longue date, connus de leurs concitoyens, mais aussi des
-      néo-Montois, parce que l’une des caractéristiques de notre belle commune
-      est d’être une commune d’accueil où de nombreuses personnes viennent
-      poursuivre leur activité professionnelle ou prendre leur retraite.
+      Après 7 ans dans la grande distribution comme aide-comptable, je suis
+      embauchée comme agent de district à EDF, ensuite chef de groupe accueil et
+      termine agent de maitrise gérant les dossiers techniques et financiers du
+      Syndicat Intercommunal d’Electrification et du Gaz du département (soit
+      les 675 communes).
 
 
-      Cette équipe est composée de personnes qui ont su montrer, dans les
-      responsabilités qu’elles exercent ou ont exercées, leur compétence, leur
-      envie d’agir, de construire et de proposer des solutions .
-    image: /images/Liliane Bollengier.png
+      \
+
+      De ce parcours, je souhaite apporter ma contribution à l’étude des
+      énergies pour une diminution des coûts et une évolution de celles-ci vers
+      le domaine de l’écologie.\
+
+      Maman de 2 filles de 40 ans et 30 ans, nées avec des problèmes de santé,
+      j’ai été confrontée aux problèmes du handicap chez l’enfant et jeune
+      adulte, dont le seul but était l’intégration à l’école, l’autonomie dans
+      la société et la vie professionnelle. 
+
+
+      > J’ai connu les hôpitaux pour enfants et participé aux associations de
+      parents d’élèves et d’enfants handicapés. Dans ce domaine également, je
+      serai heureuse d’apporter mon aide aux Montois et Montoises.
+    image: /images/Liliane Bollengier-2.png
     section_id: Liliane Bollengier
     title: Liliane Bollengier
     type: section_content
