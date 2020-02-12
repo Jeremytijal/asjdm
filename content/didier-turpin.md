@@ -6,11 +6,6 @@ sections:
         url: /notre-équipe
     bg: white
     content: >-
-      63 ans.
-
-
-      \
-
       J'ai passé l'essentiel de ma carrière dans l'immobilier, le commerce.
       J'aime Saint Jean de Monts et le merveilleux environnement que notre
       commune nous propose. J'accorde de l'importance à la sécurité que nous
