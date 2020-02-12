@@ -8,7 +8,7 @@ sections:
       - actions:
           - label: Découvrez notre proposition
             url: /
-        details: '![Nos propositions](/images/Nos-propositions.jpg "Nos propositions")'
+        details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
     type: section_pricing2
   - actions:
