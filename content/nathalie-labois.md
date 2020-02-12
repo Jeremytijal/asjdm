@@ -6,9 +6,6 @@ sections:
         url: /notre-équipe
     bg: white
     content: >-
-      43 ans, commerçante.
-
-
       Durant mon parcours professionnel j’ai pu acquérir une solide expérience
       dans le secteur territorial comme cadre au sein de différents services
       (social, commerce, formation, culture, marchés publics). Apporter une
