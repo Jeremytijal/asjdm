@@ -6,9 +6,6 @@ sections:
         url: /notre-équipe
     bg: white
     content: >-
-      Mariée 2 enfants 5 petits enfants
-
-
       Conjoint collaborateur à l’entreprise de Plomberie et chauffage avec mon
       mari en secrétariat et comptabilité pendant 34 ans. 
 
