@@ -3,9 +3,6 @@ title: Magali Turquaud
 sections:
   - bg: white
     content: >-
-      43 ans, pacsée, 2 enfants de 8 et 13 ans
-
-
       Arrivée à Saint Jean de Monts en 2013, j’ai très vite apprécié la qualité
       de vie du littoral Vendéen et notamment de la station balnéaire.
 
