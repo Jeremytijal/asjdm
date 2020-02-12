@@ -6,8 +6,54 @@ sections:
   - bg: gray
     pricingplans:
       - actions:
-          - label: Découvrez notre proposition
-            url: /
+          - label: Prochainement
+            url: /prochainement
+        details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
+        highlight: true
+      - actions:
+          - label: Prochainement
+            url: /prochainement
+        details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
+        highlight: true
+      - actions:
+          - label: Prochainement
+            url: /prochainement
+        details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
+        highlight: true
+    type: section_pricing2
+  - bg: gray
+    pricingplans:
+      - actions:
+          - label: Prochainement
+            url: /prochainement
+        details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
+        highlight: true
+      - actions:
+          - label: Prochainement
+            url: /prochainement
+        details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
+        highlight: false
+      - actions:
+          - label: Prochainement
+            url: /prochainement
+        details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
+        highlight: true
+    type: section_pricing2
+  - bg: gray
+    pricingplans:
+      - actions:
+          - label: Prochainement
+            url: /prochainement
+        details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
+        highlight: true
+      - actions:
+          - label: Prochainement
+            url: /prochainement
+        details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
+        highlight: true
+      - actions:
+          - label: Prochainement
+            url: /prochainement
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
     type: section_pricing2
