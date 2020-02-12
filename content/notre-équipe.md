@@ -121,7 +121,7 @@ sections:
         title: Jessica Grondin
     section_id: equipe 3
     type: section_pricing
-  - bg: gray
+  - bg: white
     pricingplans:
       - actions:
           - label: En savoir plus
@@ -223,6 +223,37 @@ sections:
     pricingplans:
       - actions:
           - label: En savoir plus
+            url: /magali-turquaud
+        details: |-
+          ![Magali Turquaud](/images/magali equipe-2.png "Magali Turquaud")
+
+          43 ans, Assistante en administration des ventes.
+        highlight: false
+        title: Magali Turquaud
+      - actions:
+          - label: En savoir plus
+            url: /patrice-leroy
+        details: |-
+          ![Patrice Leroy](/images/Patrice LEROY.JPG "Patrice Leroy")
+
+          50 ans. Gérant de société.
+        highlight: false
+        title: Patrice Leroy
+      - actions:
+          - label: En savoir plus
+            url: /pricing
+        details: |-
+          ![Joël Perchat](/images/joel equipe.png "Joël Perchat")
+
+          71 ans. Acheteur Industriel en retraite.
+        highlight: false
+        title: Joël Perchat
+    section_id: equipe7
+    type: section_pricing
+  - bg: white
+    pricingplans:
+      - actions:
+          - label: En savoir plus
             url: /nadine-rivière
         details: |-
           ![Nadine Riviere](/images/nadine equipe.png "Nadine Riviere")
@@ -251,40 +282,7 @@ sections:
           45 ans. Attachée de Direction Groupe SATOV.
         highlight: false
         title: Gaëlle Cuciniello
-    section_id: equipe 7
-    type: section_pricing
-  - bg: white
-    pricingplans:
-      - actions:
-          - label: En savoir plus
-            url: /princing
-        details: >-
-          ![Pierre-Jean Eveille](/images/pierre jean equipe.png "Pierre-Jean
-          Eveille")
-
-
-          55 ans, Enseignant.
-        highlight: false
-        title: Pierre-Jean Eveille
-      - actions:
-          - label: En savoir plus
-            url: /princing
-        details: |-
-          ![Flavie Lefeuvre](/images/flavie equipe.png "Flavie Lefeuvre")
-
-          19 ans. Étudiante.
-        highlight: false
-        title: Flavie Lefeuvre
-      - actions:
-          - label: En savoir plus
-            url: /pricing
-        details: |-
-          ![Joël Perchat](/images/joel equipe.png "Joël Perchat")
-
-          71 ans. Acheteur Industriel en retraite.
-        highlight: false
-        title: Joël Perchat
-    section_id: equipe8
+    section_id: equipe 8
     type: section_pricing
   - bg: gray
     pricingplans:
