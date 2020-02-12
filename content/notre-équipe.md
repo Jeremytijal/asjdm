@@ -145,7 +145,7 @@ sections:
         title: Gianna Cannelle
       - actions:
           - label: En savoir plus
-            url: /franck-allegret
+            url: /franck-allégret
         details: |-
           ![Franck Allégret](/images/franck equipe.png "Franck Allégret")
 
