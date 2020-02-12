@@ -1,7 +1,10 @@
 ---
 title: Mireille Glorion Desboeufs
 sections:
-  - bg: white
+  - actions:
+      - label: Retour à la liste
+        url: /notre-équipe
+    bg: white
     content: >-
       Arrivée sur Saint Jean de Monts en 1993 dans une maison secondaire, je
       suis venue y vivre et travailler en 2001. Mon attachement pour Saint Jean
