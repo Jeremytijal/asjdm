@@ -8,7 +8,7 @@ sections:
       - actions:
           - label: Découvrez notre proposition
             url: /
-        details: '![Sécurité](/images/MEETING.jpg "Sécurité")'
+        details: '![Nos propositions](/images/Nos-propositions.jpg "Nos propositions")'
         highlight: true
     type: section_pricing2
   - actions:
