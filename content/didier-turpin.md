@@ -1,9 +1,12 @@
 ---
 title: Didier Turpin
 sections:
-  - bg: white
+  - actions:
+      - label: Retour à la liste
+        url: /notre-équipe
+    bg: white
     content: >-
-      63 ans
+      63 ans.
 
 
       \
