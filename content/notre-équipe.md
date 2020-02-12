@@ -328,12 +328,6 @@ sections:
           71 ans. Acheteur Industriel en retraite.
         highlight: false
         title: Joël Perchat
-      - actions:
-          - label: En savoir plus
-            url: /jean-jacques-vasseur
-        details: '![Jean-Jacques Vasseur]( "Jean-Jacques Vasseur")'
-        highlight: false
-        title: Jean-Jacques Vasseur
     section_id: equipe10
     type: section_pricing
 menu:
