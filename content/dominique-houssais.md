@@ -1,7 +1,9 @@
 ---
 title: Dominique Houssais
 sections:
-  - actions: []
+  - actions:
+      - label: Retour à la liste
+        url: /notre-équipe
     bg: white
     content: >-
       63 ans, retraité.
@@ -18,7 +20,7 @@ sections:
       > *Je me verrais bien intégrer une commission qui aurait en charge, les
       dunes, les plages, et le marais car mes centres d’intérêts sont la pêche
       et le jardinage et l'environnement.*
-    image: /images/Dominique Houssais.png
+    image: /images/Dominique Houssais-2.png
     section_id: Dominique Houssais
     title: Dominique Houssais
     type: section_content
