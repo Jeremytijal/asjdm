@@ -199,22 +199,24 @@ sections:
         title: Laurent le Louarne
       - actions:
           - label: En savoir plus
-            url: /magali-turquaud
-        details: |-
-          ![Magali Turquaud](/images/magali equipe-2.png "Magali Turquaud")
+            url: /nathalie-labois
+        details: >-
+          ![Nathalie Labois](/images/Nathalie Labois equipe.png "Nathalie
+          Labois")
 
-          43 ans, Assistante en administration des ventes.
+
+          43 ans. Commerçante.
         highlight: false
-        title: Magali Turquaud
+        title: Nathalie Labois
       - actions:
           - label: En savoir plus
-            url: /franck-allégret
+            url: /camille-goizet
         details: |-
-          ![Franck Allégret](/images/franck equipe.png "Franck Allégret")
+          ![Camille Goizet](/images/Camille Goizet equipe.png "Camille Goizet")
 
-          59 ans. Chef d'entreprise.
+          69 ans. Gérant de Société en retraite.
         highlight: false
-        title: Franck Allégret
+        title: Camille Goizet
     section_id: equipe6
     type: section_pricing
   - bg: gray
