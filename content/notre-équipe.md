@@ -158,31 +158,31 @@ sections:
     pricingplans:
       - actions:
           - label: En savoir plus
-            url: /sonia-pineau
+            url: /gwenola-bonnin
         details: |-
-          ![Sonia Pineau](/images/Sonia PINEAU.jpg "Sonia Pineau")
+          ![Gwenola Bonnin](/images/gwenola equipe.png "Gwenola Bonnin")
 
           51 ans. Attachée de direction.
         highlight: false
-        title: Sonia Pineau
+        title: Gwenola Bonnin
       - actions:
           - label: En savoir plus
-            url: /patrice-leroy
+            url: /antoine-josso
         details: |-
-          ![Patrice Leroy](/images/patrice leroy equipe.png "Patrice Leroy")
+          ![Antoine Josso](/images/Antoine Josso.jpg "Antoine Josso")
 
-          50 ans. Gérant de société.
+          36 ans. Pharmacien.
         highlight: false
-        title: Patrice Leroy
+        title: Antoine Josso
       - actions:
           - label: En savoir plus
-            url: /suzanne-lemoussu
+            url: /valérie-gousset
         details: |-
-          ![Suzanne Lemoussu](/images/Suzanne LEMOUSSU.jpg "Suzanne Lemoussu")
+          ![Valérie Gousset](/images/Valérie Gousset.jpg "Valérie Gousset")
 
-          69 ans. Retraitée
+          59 ans. Auxiliaire vétérinaire.
         highlight: false
-        title: Suzanne Lemoussu
+        title: Valérie Gousset
     section_id: equipe 5
     type: section_pricing
   - bg: white
