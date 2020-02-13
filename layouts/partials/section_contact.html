@@ -12,7 +12,7 @@
   </div><!-- .block-header -->
   <div class="block-content inner-medium">
     {{ partial "markdownify-block" $section.content }}
-    <form name="contactForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" id="contact-form"
+    <form name="contactForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/merci" id="contact-form"
       class="contact-form">
       <p class="screen-reader-text">
         <label>Don't fill this out if you're human: <input name="bot-field" /></label>
