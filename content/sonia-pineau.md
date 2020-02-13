@@ -16,13 +16,7 @@ sections:
 
 
       Je souhaite œuvrer dans le domaine du social, jeunesse, afin de participer
-      à l'épanouissement et au bien être des jeunes et de nos ainés, avec pour
-      ambition de réunir les deux dans un même centre à multi usage et une
-      amplitude d’horaire qui donnerai de la vie a cet établissement. 
-
-
-      > *De plus une PMI pourrait partager ce lieu avec un planning plus large
-      qu'à ce jour.*
+      à l'épanouissement et au bien être des jeunes et de nos ainés.
     image: /images/Sonia Pineau.png
     section_id: Sonia Pineau
     title: Sonia Pineau
