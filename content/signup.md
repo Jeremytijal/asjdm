@@ -1,7 +1,7 @@
 ---
 title: Yves Mathias
 subtitle: 'Marié, 2 enfants et 4 petits enfants.'
-img_path: /images/Yves Mathias-9.png
+img_path: /images/Yves Mathias page.png
 menu:
   secondary:
     name: ' '
