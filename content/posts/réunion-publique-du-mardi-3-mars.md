@@ -1,7 +1,7 @@
 ---
 title: Réunion Publique du Mardi 3 Mars
 subtitle: ''
-date: 2020-02-13T12:33:00.946Z
+date: 2020-02-03T12:33:00.946Z
 thumb_img_path: /images/Salle du Vieux Cerne - Réunion Publique.jpeg
 img_path: /images/Salle du Vieux Cerne - Réunion Publique.jpeg
 excerpt: >-
