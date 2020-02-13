@@ -2,7 +2,7 @@
 title: Merci
 sections:
   - bg: gray
-    content: '![Merci](/images/Prochainement.png "Merci")'
+    content: '![Merci](/images/Merci.png "Merci")'
     type: section_content
   - actions:
       - label: Retour à l'accueil
