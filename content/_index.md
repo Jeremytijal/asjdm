@@ -25,7 +25,7 @@ sections:
           - label: Découvrez toute la liste
             url: /notre-équipe
         content: Découvrez nos colistiers.
-        image: /images/Bulles-7.png
+        image: /images/Bulles.png
         title: Notre Équipe
     section_id: Vision
     subtitle: ''
