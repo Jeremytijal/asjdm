@@ -101,15 +101,13 @@ sections:
         title: Sonia Pineau
       - actions:
           - label: En savoir plus
-            url: /dominique-petreau
-        details: >-
-          ![Dominique Petreau](/images/Dominique Petreau.jpg "Dominique
-          Petreau")
+            url: /antoine-josso
+        details: |-
+          ![Antoine Josso](/images/Antoine Josso.jpg "Antoine Josso")
 
-
-          63 ans. Gérant de société en retraite.
+          36 ans. Pharmacien.
         highlight: false
-        title: Dominique Petreau
+        title: Antoine Josso
       - actions:
           - label: En savoir plus
             url: /jessica-grondin
@@ -167,13 +165,15 @@ sections:
         title: Gwenola Bonnin
       - actions:
           - label: En savoir plus
-            url: /antoine-josso
-        details: |-
-          ![Antoine Josso](/images/Antoine Josso.jpg "Antoine Josso")
+            url: /dominique-petreau
+        details: >-
+          ![Dominique Petreau](/images/Dominique Petreau.jpg "Dominique
+          Petreau")
 
-          36 ans. Pharmacien.
+
+          63 ans. Gérant de société en retraite.
         highlight: false
-        title: Antoine Josso
+        title: Dominique Petreau
       - actions:
           - label: En savoir plus
             url: /valérie-gousset
