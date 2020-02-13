@@ -258,7 +258,7 @@ sections:
           - label: En savoir plus
             url: /remy-giraudet
         details: |-
-          ![Remy Giraudet]( "Remy Giraudet")
+          ![]()
 
           29 ans. Chef d’Entreprise Graphiste/Designer
         highlight: false
