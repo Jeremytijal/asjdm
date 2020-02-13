@@ -160,7 +160,7 @@ sections:
         details: |-
           ![Gwenola Bonnin](/images/gwenola equipe.png "Gwenola Bonnin")
 
-          51 ans. Attachée de direction.
+          43 ans. Assistante maternelle agréée.
         highlight: false
         title: Gwenola Bonnin
       - actions:
