@@ -256,14 +256,14 @@ sections:
     pricingplans:
       - actions:
           - label: En savoir plus
-            url: /remy-giraudet
+            url: /flavie-lefeuvre
         details: |-
-          ![]()
+          ![Flavie Lefeuvre](/images/flavie equipe.png "Flavie Lefeuvre")
 
-          29 ans. Chef d’Entreprise Graphiste/Designer
+          19 ans. Étudiante.
         highlight: false
         price: ''
-        title: Remy Giraudet
+        title: Flavie Lefeuvre
       - actions:
           - label: En savoir plus
             url: /nadine-rivière
@@ -290,15 +290,6 @@ sections:
     pricingplans:
       - actions:
           - label: En savoir plus
-            url: /flavie-lefeuvre
-        details: |-
-          ![Flavie Lefeuvre](/images/flavie equipe.png "Flavie Lefeuvre")
-
-          19 ans. Étudiante.
-        highlight: false
-        title: Flavie Lefeuvre
-      - actions:
-          - label: En savoir plus
             url: /didier-turpin
         details: |-
           ![Didier Turpin](/images/Didier TURPIN equipe.png "Didier Turpin")
@@ -315,10 +306,6 @@ sections:
           69 ans. Retraitée.
         highlight: false
         title: Suzanne Lemoussu
-    section_id: equipe 9
-    type: section_pricing
-  - bg: white
-    pricingplans:
       - actions:
           - label: En savoir plus
             url: /joël-perchat
@@ -328,7 +315,7 @@ sections:
           71 ans. Acheteur Industriel en retraite.
         highlight: false
         title: Joël Perchat
-    section_id: equipe10
+    section_id: equipe 9
     type: section_pricing
 menu:
   main:
