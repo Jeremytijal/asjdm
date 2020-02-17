@@ -3,7 +3,7 @@ title: Christian Leplu
 sections:
   - actions:
       - label: Retour à la liste
-        url: /notre-équipe
+        url: '/notre-équipe/#equipe2'
     bg: white
     content: >-
       Je suis habitant du centre ville de Saint Jean de Monts et j'apprécie tous
