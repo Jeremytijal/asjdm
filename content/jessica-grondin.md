@@ -3,7 +3,7 @@ title: Jessica Grondin
 sections:
   - actions:
       - label: En savoir plus
-        url: /notre-équipe
+        url: '/notre-équipe/#equipe3'
     bg: white
     content: >-
       Montoise depuis ma plus tendre enfance et coiffeuse à domicile depuis 14
