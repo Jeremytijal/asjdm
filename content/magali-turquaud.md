@@ -1,7 +1,10 @@
 ---
 title: Magali Turquaud
 sections:
-  - bg: white
+  - actions:
+      - label: Retour à la liste
+        url: /notre-équipe
+    bg: white
     content: >-
       Arrivée à Saint Jean de Monts en 2013, j’ai très vite apprécié la qualité
       de vie du littoral Vendéen et notamment de la station balnéaire.
