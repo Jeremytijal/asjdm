@@ -3,7 +3,7 @@ title: Amélie Rivière
 sections:
   - actions:
       - label: Retour à la liste
-        url: /notre-équipe
+        url: '/notre-équipe/#equipe1'
     bg: white
     content: >-
       Dès mon cursus universitaire j'ai voulu m'investir pour l'intérêt
