@@ -3,7 +3,7 @@ title: Vincent Horeau
 sections:
   - actions:
       - label: Retour à la liste
-        url: /notre-équipe
+        url: '/notre-équipe/#equipe2'
     bg: white
     content: >-
       Habitant depuis plus de 20 ans à Saint Jean de Monts, j’ai décidé
