@@ -3,7 +3,7 @@ title: Mireille Glorion Desboeufs
 sections:
   - actions:
       - label: Retour à la liste
-        url: /notre-équipe
+        url: '/notre-équipe/#equipe1'
     bg: white
     content: >-
       Arrivée sur Saint Jean de Monts en 1993 dans une maison secondaire, je
