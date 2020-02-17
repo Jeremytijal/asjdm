@@ -3,7 +3,7 @@ title: Antoine Josso
 sections:
   - actions:
       - label: Retour à la liste
-        url: /notre-équipe
+        url: '/notre-équipe/#equipe3'
     bg: white
     content: >-
       Montois depuis 13 ans, j'ai réalisé la totalité de mon parcours
