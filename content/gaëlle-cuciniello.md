@@ -3,7 +3,7 @@ title: Gaëlle Cuciniello
 sections:
   - actions:
       - label: Retour à la liste
-        url: /notre-équipe
+        url: '/notre-équipe/#equipe2'
     bg: white
     content: >-
       Originaire de Challans, j’ai fait le choix de vie d’habiter
