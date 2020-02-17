@@ -49,7 +49,7 @@ sections:
         highlight: false
         price: ''
         title: Amélie Rivière
-    section_id: Equipe 1
+    section_id: equipe1
     subtitle: ''
     title: ''
     type: section_pricing
@@ -117,7 +117,7 @@ sections:
           38 ans. Coiffeuse à domicile.
         highlight: false
         title: Jessica Grondin
-    section_id: equipe 3
+    section_id: equipe3
     type: section_pricing
   - bg: white
     pricingplans:
@@ -150,7 +150,7 @@ sections:
           59 ans. Chef d'entreprise.
         highlight: false
         title: Franck Allégret
-    section_id: equipe 4
+    section_id: equipe4
     type: section_pricing
   - bg: gray
     pricingplans:
@@ -183,7 +183,7 @@ sections:
           59 ans. Auxiliaire vétérinaire.
         highlight: false
         title: Valérie Gousset
-    section_id: equipe 5
+    section_id: equipe5
     type: section_pricing
   - bg: white
     pricingplans:
@@ -284,7 +284,7 @@ sections:
           63 ans. Pompier en retraite.
         highlight: false
         title: Dominique Houssais
-    section_id: equipe 8
+    section_id: equipe8
     type: section_pricing
   - bg: gray
     pricingplans:
@@ -315,7 +315,7 @@ sections:
           71 ans. Acheteur Industriel en retraite.
         highlight: false
         title: Joël Perchat
-    section_id: equipe 9
+    section_id: equipe9
     type: section_pricing
 menu:
   main:
