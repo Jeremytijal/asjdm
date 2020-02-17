@@ -3,7 +3,7 @@ title: Pierre-Jean Eveille
 sections:
   - actions:
       - label: Retour à la liste
-        url: /notre-équipe
+        url: '/notre-équipe/#equipe1'
     bg: white
     content: >-
       Vendéen, Montois habitant du centre-ville depuis 25 ans, membre ou ayant
