@@ -3,7 +3,7 @@ title: Laurent le Louarne
 sections:
   - actions:
       - label: Retour à la liste
-        url: /pricing
+        url: '/notre-équipe#equipe6'
     bg: white
     content: >-
       Après avoir tenu un commerce de proximité pendant une dizaine d'années,
