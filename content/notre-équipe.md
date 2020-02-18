@@ -322,7 +322,10 @@ sections:
       - actions:
           - label: 'En savoir plus '
             url: /véronique-jehl
-        details: '![Véronique Jehl](/images/Véronique Jehl equipe.png "Véronique Jehl")'
+        details: |-
+          ![Véronique Jehl](/images/Véronique Jehl equipe.png "Véronique Jehl")
+
+          55 ans. Aide à la personne.
         highlight: false
         title: Véronique Jehl
       - actions:
