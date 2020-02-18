@@ -317,6 +317,27 @@ sections:
         title: Joël Perchat
     section_id: equipe9
     type: section_pricing
+  - bg: white
+    pricingplans:
+      - actions:
+          - label: 'En savoir plus '
+            url: /véronique-jehl
+        details: '![Véronique Jehl](/images/Véronique Jehl equipe.png "Véronique Jehl")'
+        highlight: false
+        title: Véronique Jehl
+      - actions:
+          - label: En savoir plus
+            url: /dominique-dauphin
+        details: >-
+          ![Dominique Dauphin](/images/Dominique dauphine equipe.png "Dominique
+          Dauphin")
+
+
+          68 ans. Gérant de portefeuille en retraite.
+        highlight: false
+        title: Dominique Dauphin
+    section_id: equipe10
+    type: section_pricing
 menu:
   main:
     name: Notre Équipe
