@@ -110,13 +110,13 @@ sections:
         title: Antoine Josso
       - actions:
           - label: En savoir plus
-            url: /jessica-grondin
+            url: /valérie-gousset
         details: |-
-          ![Jessica Grondin](/images/Jessica Grondin.jpg "Jessica Grondin")
+          ![Valérie Gousset](/images/Valérie Gousset.jpg "Valérie Gousset")
 
-          38 ans. Coiffeuse à domicile.
+          59 ans. Auxiliaire vétérinaire.
         highlight: false
-        title: Jessica Grondin
+        title: Valérie Gousset
     section_id: equipe3
     type: section_pricing
   - bg: white
@@ -143,13 +143,15 @@ sections:
         title: Gianna Cannelle
       - actions:
           - label: En savoir plus
-            url: /franck-allégret
-        details: |-
-          ![Franck Allégret](/images/franck equipe.png "Franck Allégret")
+            url: /dominique-petreau
+        details: >-
+          ![Dominique Petreau](/images/Dominique Petreau.jpg "Dominique
+          Petreau")
 
-          59 ans. Chef d'entreprise.
+
+          63 ans. Gérant de société en retraite.
         highlight: false
-        title: Franck Allégret
+        title: Dominique Petreau
     section_id: equipe4
     type: section_pricing
   - bg: gray
@@ -165,24 +167,22 @@ sections:
         title: Gwenola Bonnin
       - actions:
           - label: En savoir plus
-            url: /dominique-petreau
-        details: >-
-          ![Dominique Petreau](/images/Dominique Petreau.jpg "Dominique
-          Petreau")
+            url: /franck-allégret
+        details: |-
+          ![Franck Allégret](/images/franck equipe.png "Franck Allégret")
 
-
-          63 ans. Gérant de société en retraite.
+          59 ans. Chef d'entreprise.
         highlight: false
-        title: Dominique Petreau
+        title: Franck Allégret
       - actions:
           - label: En savoir plus
-            url: /valérie-gousset
+            url: /jessica-grondin
         details: |-
-          ![Valérie Gousset](/images/Valérie Gousset.jpg "Valérie Gousset")
+          ![Jessica Grondin](/images/Jessica Grondin.jpg "Jessica Grondin")
 
-          59 ans. Auxiliaire vétérinaire.
+          38 ans. Coiffeuse à domicile.
         highlight: false
-        title: Valérie Gousset
+        title: Jessica Grondin
     section_id: equipe5
     type: section_pricing
   - bg: white
