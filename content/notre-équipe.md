@@ -189,14 +189,13 @@ sections:
     pricingplans:
       - actions:
           - label: En savoir plus
-            url: /laurent-le-louarne
+            url: /camille-goizet
         details: |-
-          ![Laurent le Louarne](/images/laurent equipe.png "Laurent le Louarne")
+          ![Camille Goizet](/images/Camille Goizet equipe.png "Camille Goizet")
 
-          49 ans. Conducteur Piontier Groupe SUEZ.
+          69 ans. Gérant de Société en retraite.
         highlight: false
-        price: ''
-        title: Laurent le Louarne
+        title: Camille Goizet
       - actions:
           - label: En savoir plus
             url: /nathalie-labois
@@ -210,35 +209,18 @@ sections:
         title: Nathalie Labois
       - actions:
           - label: En savoir plus
-            url: /camille-goizet
-        details: |-
-          ![Camille Goizet](/images/Camille Goizet equipe.png "Camille Goizet")
-
-          69 ans. Gérant de Société en retraite.
-        highlight: false
-        title: Camille Goizet
-    section_id: equipe6
-    type: section_pricing
-  - bg: gray
-    pricingplans:
-      - actions:
-          - label: En savoir plus
-            url: /magali-turquaud
-        details: |-
-          ![Magali Turquaud](/images/magali equipe-2.png "Magali Turquaud")
-
-          43 ans, Assistante en administration des ventes.
-        highlight: false
-        title: Magali Turquaud
-      - actions:
-          - label: En savoir plus
             url: /patrice-leroy
         details: |-
           ![Patrice Leroy](/images/patrice leroy equipe.png "Patrice Leroy")
 
           50 ans. Gérant de société.
         highlight: false
+        price: ''
         title: Patrice Leroy
+    section_id: equipe6
+    type: section_pricing
+  - bg: gray
+    pricingplans:
       - actions:
           - label: En savoir plus
             url: /liliane-bollengier
@@ -250,29 +232,47 @@ sections:
           65 ans. Cadre EDF en retraite.
         highlight: false
         title: Liliane Bollengier
+      - actions:
+          - label: En savoir plus
+            url: /laurent-le-louarne
+        details: |-
+          ![Laurent le Louarne](/images/laurent equipe.png "Laurent le Louarne")
+
+          49 ans. Conducteur Piontier Groupe SUEZ.
+        highlight: false
+        title: Laurent le Louarne
+      - actions:
+          - label: En savoir plus
+            url: /véronique-jehl
+        details: |-
+          ![Véronique Jehl](/images/Véronique Jehl equipe.png "Véronique Jehl")
+
+          55 ans. Aide à la personne.
+        highlight: false
+        title: Véronique Jehl
     section_id: equipe7
     type: section_pricing
   - bg: white
     pricingplans:
       - actions:
           - label: En savoir plus
-            url: /flavie-lefeuvre
+            url: /didier-turpin
         details: |-
-          ![Flavie Lefeuvre](/images/flavie equipe.png "Flavie Lefeuvre")
+          ![Didier Turpin](/images/Didier TURPIN equipe.png "Didier Turpin")
 
-          19 ans. Étudiante.
+          63 ans. Commercial en Immobilier.
         highlight: false
         price: ''
-        title: Flavie Lefeuvre
+        title: Didier Turpin
       - actions:
           - label: En savoir plus
-            url: /nadine-rivière
+            url: /magali-turquaud
         details: |-
-          ![Nadine Riviere](/images/nadine equipe.png "Nadine Riviere")
+          ![Magali Turquaud](/images/magali equipe-2.png "Magali Turquaud")
 
-          63 ans. Adjointe de direction entreprise retraitée.
+          43 ans. Assistante en administration des ventes.
         highlight: false
-        title: Nadine Riviere
+        title: Magali Turquaud
       - actions:
           - label: En savoir plus
             url: /dominique-houssais
@@ -290,22 +290,13 @@ sections:
     pricingplans:
       - actions:
           - label: En savoir plus
-            url: /didier-turpin
+            url: /nadine-rivière
         details: |-
-          ![Didier Turpin](/images/Didier TURPIN equipe.png "Didier Turpin")
+          ![Nadine Riviere](/images/nadine equipe.png "Nadine Riviere")
 
-          63 ans. Commercial en Immobilier.
+          63 ans. Adjointe de direction entreprise retraitée.
         highlight: false
-        title: Didier Turpin
-      - actions:
-          - label: En savoir plus
-            url: /suzanne-lemoussu
-        details: |-
-          ![Suzanne Lemoussu](/images/Suzanne LEMOUSSU.jpg "Suzanne Lemoussu")
-
-          69 ans. Retraitée.
-        highlight: false
-        title: Suzanne Lemoussu
+        title: Nadine Riviere
       - actions:
           - label: En savoir plus
             url: /joël-perchat
@@ -315,19 +306,19 @@ sections:
           71 ans. Acheteur Industriel en retraite.
         highlight: false
         title: Joël Perchat
+      - actions:
+          - label: En savoir plus
+            url: /flavie-lefeuvre
+        details: |-
+          ![Flavie Lefeuvre](/images/flavie equipe.png "Flavie Lefeuvre")
+
+          19 ans. Étudiante.
+        highlight: false
+        title: Flavie Lefeuvre
     section_id: equipe9
     type: section_pricing
   - bg: white
     pricingplans:
-      - actions:
-          - label: 'En savoir plus '
-            url: /véronique-jehl
-        details: |-
-          ![Véronique Jehl](/images/Véronique Jehl equipe.png "Véronique Jehl")
-
-          55 ans. Aide à la personne.
-        highlight: false
-        title: Véronique Jehl
       - actions:
           - label: En savoir plus
             url: /dominique-dauphin
@@ -339,6 +330,15 @@ sections:
           68 ans. Gérant de portefeuille en retraite.
         highlight: false
         title: Dominique Dauphin
+      - actions:
+          - label: 'En savoir plus '
+            url: /suzanne-lemoussu
+        details: |-
+          ![Suzanne Lemoussu](/images/Suzanne LEMOUSSU.jpg "Suzanne Lemoussu")
+
+          69 ans. Retraitée.
+        highlight: false
+        title: Suzanne Lemoussu
     section_id: equipe10
     type: section_pricing
 menu:
