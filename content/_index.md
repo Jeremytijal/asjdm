@@ -11,7 +11,7 @@ sections:
   - actions:
       - label: Notre Tract
         url: >-
-          https://drive.google.com/file/d/13T3e0bXyvZc4U48bG3uCAHF8GVCmJLZ-/view?usp=sharing
+          https://drive.google.com/file/d/1JtnufYrS-Mg0Dwbm1BLfz-XD-M5RL2XD/view?usp=sharing
     type: section_cta2
   - bg: gray
     featureslist:
@@ -25,7 +25,7 @@ sections:
           - label: Découvrez toute la liste
             url: /notre-équipe
         content: Découvrez nos colistiers.
-        image: /images/Bulles.png
+        image: /images/Bulles-8.png
         title: Notre Équipe
     section_id: Vision
     subtitle: ''
