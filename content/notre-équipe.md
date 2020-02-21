@@ -339,6 +339,14 @@ sections:
           69 ans. Retraitée.
         highlight: false
         title: Suzanne Lemoussu
+      - actions:
+          - label: En savoir plus
+            url: /jean-jacques-vasseur
+        details: >-
+          ![Jean-Jacques Vasseur](/images/Jean-Jacques Vasseur équipe.png
+          "Jean-Jacques Vasseur")
+        highlight: false
+        title: Jean-Jacques Vasseur
     section_id: equipe10
     type: section_pricing
 menu:
