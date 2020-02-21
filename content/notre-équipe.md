@@ -345,6 +345,9 @@ sections:
         details: >-
           ![Jean-Jacques Vasseur](/images/Jean-Jacques Vasseur équipe.png
           "Jean-Jacques Vasseur")
+
+
+          68 ans. Retraité de l’industrie automobile.
         highlight: false
         title: Jean-Jacques Vasseur
     section_id: equipe10
