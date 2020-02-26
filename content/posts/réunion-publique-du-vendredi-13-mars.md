@@ -1,7 +1,7 @@
 ---
 title: Réunion Publique du Vendredi 13 Mars
 subtitle: ''
-date: 2020-02-25T11:20:00.540Z
+date: 2020-02-06T11:20:00.540Z
 thumb_img_path: /images/mairie-saint-jean.jpg
 img_path: /images/mairie-saint-jean.jpg
 excerpt: >-
