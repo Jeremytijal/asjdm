@@ -290,13 +290,13 @@ sections:
     pricingplans:
       - actions:
           - label: En savoir plus
-            url: /nadine-rivière
+            url: /nadine-raboisson
         details: |-
-          ![Nadine Riviere](/images/nadine equipe.png "Nadine Riviere")
+          ![Nadine Raboisson](/images/nadine equipe.png "Nadine Raboisson")
 
           63 ans. Adjointe de direction entreprise retraitée.
         highlight: false
-        title: Nadine Riviere
+        title: Nadine Raboisson
       - actions:
           - label: En savoir plus
             url: /joël-perchat
