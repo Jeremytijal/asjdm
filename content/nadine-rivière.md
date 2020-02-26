@@ -1,5 +1,5 @@
 ---
-title: Nadine Rivière
+title: Nadine Raboisson
 sections:
   - actions:
       - label: Retour à la liste
