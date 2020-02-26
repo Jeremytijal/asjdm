@@ -42,6 +42,10 @@ sections:
     section_id: recent-posts
     title: Réunions Publiques
     type: section_posts
+  - actions:
+      - label: Découvrez toutes nos réunions publiques
+        url: /blog
+    type: section_cta2
 menu:
   main:
     name: Accueil
