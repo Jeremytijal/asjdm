@@ -1,10 +1,12 @@
 ---
 title: BIEN VIVRE À SAINT JEAN
 sections:
-  - type: section_content
+  - type: section_features
     bg: white
-    content: '![Bien vivre à st jean](/images/marché-.png "Bien vivre à st jean")'
-    image: /images/bien-vivre-à-saint-jean-4.png
+    featureslist:
+      - title: Bien Vivre À Saint Jean
+        content: '![Bien vivre](/images/texte-bien-vivre.png "Bien vivre")'
+        image: /images/marché-.png
 layout: landing
 ---
 
