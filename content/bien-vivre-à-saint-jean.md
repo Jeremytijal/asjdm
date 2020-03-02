@@ -4,7 +4,7 @@ sections:
   - type: section_content
     bg: white
     content: >-
-      ![BIEN VIVRE À SAINT JEAN -Titre](/images/bien-vivre-à-saint-jean-2.png
+      ![BIEN VIVRE À SAINT JEAN -Titre](/images/bien-vivre-à-saint-jean-3.png
       "BIEN VIVRE À SAINT JEAN -Titre")
 
 
