@@ -6,8 +6,8 @@ sections:
   - bg: gray
     pricingplans:
       - actions:
-          - label: Prochainement
-            url: /prochainement
+          - label: Bien Vivre À Saint Jean
+            url: /bien-vivre-à-saint-jean/
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
       - actions:
