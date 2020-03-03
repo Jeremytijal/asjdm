@@ -16,16 +16,16 @@ sections:
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
       - actions:
-          - label: Prochainement
-            url: /prochainement
+          - label: Économie Et Tourisme
+            url: /économie-tourisme
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
     type: section_pricing2
   - bg: gray
     pricingplans:
       - actions:
-          - label: Prochainement
-            url: /prochainement
+          - label: Vivre Autrement Sa Santé Et Son Handicap
+            url: /vivre-autrement-sa-santé-et-son-handicap
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
       - actions:
