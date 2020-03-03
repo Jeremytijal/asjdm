@@ -16,9 +16,9 @@ sections:
   - bg: gray
     featureslist:
       - actions:
-          - label: Nos propositions
+          - label: Découvrez notre programme
             url: /features
-        content: Découvrez nos propositions.
+        content: ''
         image: /images/Estacade Saint Jean de Monts.jpeg
         title: Nos Propositions
       - actions:
