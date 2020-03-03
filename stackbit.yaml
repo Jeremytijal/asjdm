@@ -237,6 +237,7 @@ models:
             - section_content
             - section_cta
             - section_cta2
+            - section_cta3
             - section_faq
             - section_features
             - section_hero
@@ -387,6 +388,21 @@ models:
   section_cta2:
     type: object
     label: Call to Action2 Section
+    extends:
+      - section
+    fields:
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section.
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: action
+  section_cta3:
+    type: object
+    label: Call to Action3 Section
     extends:
       - section
     fields:
