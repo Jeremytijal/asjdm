@@ -7,7 +7,7 @@ sections:
   - type: section_content
     bg: white
     content: '![Texte - Finances](/images/finances-texte-2.png "Texte - Finances")'
-    image: /images/images-finances.png
+    image: /images/image-finances.png
 layout: landing
 ---
 
