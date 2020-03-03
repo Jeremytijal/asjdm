@@ -11,8 +11,8 @@ sections:
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
       - actions:
-          - label: Prochainement
-            url: /prochainement
+          - label: Finances
+            url: /finances
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
       - actions:
