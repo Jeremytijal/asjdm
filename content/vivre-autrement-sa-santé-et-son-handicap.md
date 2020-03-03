@@ -14,6 +14,10 @@ sections:
       Handicap](/images/texte-santé-3.png "Texte - Vivre Autrement Sa Santé et
       Son Handicap")
     image: /images/image-santé.jpg
+  - type: section_cta3
+    actions:
+      - label: Retour aux propositions
+        url: /features
 layout: landing
 ---
 
