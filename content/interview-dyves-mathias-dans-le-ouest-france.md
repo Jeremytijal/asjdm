@@ -1,11 +1,11 @@
 ---
 title: Interview d'Yves Mathias dans le Ouest-France
-img_path: /images/logo-of-autrement.png
+img_path: /images/logo-of-autrement-2.png
 layout: page
 ---
-
-
 ***Comment a été élaboré votre programme ?***
+
+
 
 Nous l’avons construit en concertation avec toute l’équipe et avec des Montois des Montoises. Chacun a travaillé par thème de manière participative, tout en gardant en tête un budget raisonné. Il s’agit d’améliorer le quotidien des habitants, sans que cela coûte trop cher.
 
@@ -33,8 +33,10 @@ L’un de nos premiers projets sera d’aller à la rencontre de l’ensemble du
 
 Je souhaite être un maire ouvert et à l’écoute des gens. Je serai un maire très disponible et dirigé vers les Montois, en faisant preuve de transparence et de sincérité vis-à-vis de l’ensemble des habitants.
 
-\
+
+
 ***Quel rôle dans l’intercommunalité ?***
 
-\
+
+
 Nous jouerons un rôle primordial au sein d’Océan-Marais de Monts afin que les intérêts de Saint-Jean-de-Monts soient valorisés. La commune doit y être un élément actif.
