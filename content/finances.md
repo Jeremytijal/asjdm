@@ -8,6 +8,10 @@ sections:
     bg: white
     content: '![Texte - Finances](/images/finances-texte-2.png "Texte - Finances")'
     image: /images/image-finances.png
+  - type: section_cta3
+    actions:
+      - label: Retour aux propositions
+        url: /features
 layout: landing
 ---
 
