@@ -16,9 +16,9 @@ sections:
   - bg: gray
     featureslist:
       - actions:
-          - label: Prochainement
+          - label: Nos propositions
             url: /features
-        content: Découvrez nos propositions prochainement.
+        content: Découvrez nos propositions.
         image: /images/Estacade Saint Jean de Monts.jpeg
         title: Nos Propositions
       - actions:
