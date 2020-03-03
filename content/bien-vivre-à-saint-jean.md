@@ -11,7 +11,7 @@ sections:
 
       ![Texte - Bien](/images/bien-vivre-à-saint-jean-texte.png "Texte - Bien")
     image: /images/marché-.png
-  - type: section_cta2
+  - type: section_cta3
     actions:
       - label: Retour aux propositions
         url: /features
