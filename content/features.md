@@ -29,13 +29,13 @@ sections:
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
       - actions:
-          - label: Prochainement
-            url: /prochainement
+          - label: Vie Culturelle
+            url: /vie-culturelle/
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
       - actions:
-          - label: Prochainement
-            url: /prochainement
+          - label: Sécurité
+            url: /sécurité/
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
     type: section_pricing2
