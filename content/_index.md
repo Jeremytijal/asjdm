@@ -45,10 +45,6 @@ sections:
     actions:
       - label: Découvrez toutes nos réunions publiques
         url: /blog
-  - actions:
-      - label: Découvrez toutes nos réunions publiques
-        url: /blog
-    type: section_cta2
   - type: section_features
     bg: gray
     featureslist:
