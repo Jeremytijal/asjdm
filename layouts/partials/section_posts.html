@@ -31,9 +31,6 @@
             <footer class="post-meta">
               <time class="published"
                datetime="{{ $post.Date | dateFormat "" }}">{{ $post.Date | dateFormat "" }} </time>
-              <p class="block-buttons">
-          {{ range $action := .section.actions }}
-          <a href="{{ $action.url | relURL }}" class="button secondary">{{ $action.label }}</a>
             </footer>
           </div><!-- .post-card-content -->
         </div><!-- .post-card-inside -->
@@ -41,4 +38,9 @@
       {{ end }}
     </div><!-- .post-feed -->
   </div><!-- .inner -->
+     <div> 
+       <p class="block-buttons">
+           {{ range $action := .section.actions }}
+          <a href="{{ $action.url | relURL }}" class="button secondary">{{ $action.label }}</a>
+     </div>     
 </section><!-- .block -->
