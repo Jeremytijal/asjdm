@@ -42,6 +42,9 @@ sections:
     section_id: recent-posts
     title: Réunions Publiques
     type: section_posts
+    actions:
+      - label: Découvrez toutes nos réunions publiques
+        url: /blog
   - actions:
       - label: Découvrez toutes nos réunions publiques
         url: /blog
@@ -70,4 +73,3 @@ menu:
     weight: 1
 layout: landing
 ---
-
