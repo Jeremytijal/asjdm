@@ -54,8 +54,8 @@ sections:
           ***Comment a été élaboré votre programme ?***
 
 
-          > Nous l’avons construit en concertation avec toute l’équipe et avec
-          des Montois des Montoises. Chacun a travaillé par thème de manière
+          Nous l’avons construit en concertation avec toute l’équipe et avec des
+          Montois des Montoises. Chacun a travaillé par thème de manière
           participative, tout en gardant en tête un budget raisonné. Il s’agit
           d’améliorer le quotidien des habitants, sans que cela coûte trop cher.
         actions:
