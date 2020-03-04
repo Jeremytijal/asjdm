@@ -45,24 +45,6 @@ sections:
     actions:
       - label: Découvrez toutes nos réunions publiques
         url: /blog
-  - type: section_features
-    bg: gray
-    featureslist:
-      - image: /images/logo-of-autrement-3.png
-        content: >-
-          ***Comment a été élaboré votre programme ?***
-
-
-          Nous l’avons construit en concertation avec toute l’équipe et avec des
-          Montois des Montoises. Chacun a travaillé par thème de manière
-          participative, tout en gardant en tête un budget raisonné. Il s’agit
-          d’améliorer le quotidien des habitants, sans que cela coûte trop cher.
-        actions:
-          - label: Lire la suite
-            url: /interview-dyves-mathias-dans-le-ouest-france/
-        title: ''
-    section_id: Interview d'Yves Mathias dans le Ouest-France
-    title: Interview d'Yves Mathias dans le Ouest-France
 menu:
   main:
     name: Accueil
