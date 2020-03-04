@@ -63,6 +63,7 @@ sections:
             url: /interview-dyves-mathias-dans-le-ouest-france/
         title: Interview d'Yves Mathias dans le Ouest-France
     section_id: Interview d'Yves Mathias dans le Ouest-France
+    title: Nos Actualités
 menu:
   main:
     name: Accueil
