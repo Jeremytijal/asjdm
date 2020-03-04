@@ -323,7 +323,6 @@ menu:
     weight: ''
   secondary:
     name: '    '
-    weight: 14
+    weight: ''
 layout: landing
 ---
-
