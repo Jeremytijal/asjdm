@@ -54,16 +54,16 @@ sections:
           ***Comment a été élaboré votre programme ?***
 
 
-          Nous l’avons construit en concertation avec toute l’équipe et avec des
-          Montois des Montoises. Chacun a travaillé par thème de manière
+          > Nous l’avons construit en concertation avec toute l’équipe et avec
+          des Montois des Montoises. Chacun a travaillé par thème de manière
           participative, tout en gardant en tête un budget raisonné. Il s’agit
           d’améliorer le quotidien des habitants, sans que cela coûte trop cher.
         actions:
           - label: Lire la suite
             url: /interview-dyves-mathias-dans-le-ouest-france/
-        title: Interview d'Yves Mathias dans le Ouest-France
+        title: ''
     section_id: Interview d'Yves Mathias dans le Ouest-France
-    title: Nos Actualités
+    title: Interview d'Yves Mathias dans le Ouest-France
 menu:
   main:
     name: Accueil
