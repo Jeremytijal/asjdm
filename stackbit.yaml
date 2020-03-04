@@ -583,6 +583,11 @@ models:
           - gray
           - white
         default: gray
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: action  
   section_pricing:
     type: object
     label: Pricing Section
