@@ -35,6 +35,9 @@
           </div><!-- .post-card-content -->
         </div><!-- .post-card-inside -->
       </article><!-- .post -->
+      <p class="block-buttons">
+          {{ range $action := .section.actions }}
+          <a href="{{ $action.url | relURL }}" class="button secondary">{{ $action.label }}</a>
       {{ end }}
     </div><!-- .post-feed -->
   </div><!-- .inner -->
