@@ -46,6 +46,34 @@ sections:
       - label: Découvrez toutes nos réunions publiques
         url: /blog
     type: section_cta2
+  - type: section_features
+    bg: gray
+    featureslist:
+      - image: /images/logo-of-autrement-3.png
+        content: >-
+          ***Comment a été élaboré votre programme ?***
+
+
+          Nous l’avons construit en concertation avec toute l’équipe et avec des
+          Montois des Montoises. Chacun a travaillé par thème de manière
+          participative, tout en gardant en tête un budget raisonné. Il s’agit
+          d’améliorer le quotidien des habitants, sans que cela coûte trop cher.
+
+
+          ***Comment définiriez-vous ce programme ?***
+
+
+          C’est un programme complet et réaliste que nous avons construit en
+          respect de la ville et de ses moyens. C’est un programme réfléchi pour
+          dessiner l’avenir de la commune où chacun doit trouver sa place.
+          L’ouverture vers les Montois et Montoises et vers l’extérieur étant
+          notre ADN, notre programme suit divers axes, dont le bien-vivre, la
+          sécurité, la santé, la culture, l’économie et le tourisme.
+        actions:
+          - label: Lire la suite
+            url: /interview-dyves-mathias-dans-le-ouest-france/
+        title: Interview d'Yves Mathias dans le Ouest-France
+    section_id: Interview d'Yves Mathias dans le Ouest-France
 menu:
   main:
     name: Accueil
