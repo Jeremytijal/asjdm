@@ -20,6 +20,11 @@ sections:
             url: /économie-tourisme
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
+      - highlight: false
+        details: '![r](/images/Nos-propositions.png "r")'
+        actions:
+          - label: r
+            url: /
     type: section_pricing2
   - bg: gray
     pricingplans:
@@ -73,4 +78,3 @@ menu:
     weight: 1
 layout: landing
 ---
-
