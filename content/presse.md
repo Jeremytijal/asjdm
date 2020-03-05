@@ -33,7 +33,7 @@ sections:
           - label: Lire l'article
             url: >-
               /municipales-yves-mathias-élu-d’opposition-candidat-à-saint-jean-de-monts
-    title: Nos Actualités Presse
+    title: ''
   - type: section_cta
     title: Envoyez-nous vos idées.
     actions:
