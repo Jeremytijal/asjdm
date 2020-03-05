@@ -3,9 +3,9 @@ title: Interview d'Yves Mathias dans le Ouest-France
 img_path: /images/logo-of-autrement-3.png
 menu:
   main:
-    name: ''
+    name: Interview d'Yves Mathias dans le Ouest-France
     weight: ''
-    identifier: Interview d'Yves Mathias dans le Ouest-France
+    identifier: ''
     parent: Presse
 layout: page
 ---
