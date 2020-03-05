@@ -43,5 +43,6 @@ menu:
   main:
     name: Presse
     weight: 7
+    identifier: Presse
 layout: landing
 ---
