@@ -19,7 +19,7 @@ sections:
           Courrier Vendéen
         actions:
           - label: Lire l'article
-            url: /
+            url: /yves-mathias-dévoile-une-partie-de-sa-liste
       - highlight: false
         details: >-
           ![Le Courrier Vendéen](/images/le-courrier-vendeen_w1024.png "Le
