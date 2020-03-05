@@ -1,6 +1,8 @@
 ---
 title: Presse
 sections:
+  - type: section_hero3
+    title: Nos Actualités Presse
   - type: section_pricing
     bg: white
     pricingplans:
@@ -32,5 +34,10 @@ sections:
             url: >-
               /municipales-yves-mathias-élu-d’opposition-candidat-à-saint-jean-de-monts
     title: Nos Actualités Presse
+  - type: section_cta
+    title: Envoyez-nous vos idées.
+    actions:
+      - label: Envoyer mon idée
+        url: /contact
 layout: landing
 ---
