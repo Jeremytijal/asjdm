@@ -5,17 +5,7 @@ sections:
     bg: white
     pricingplans:
       - highlight: false
-        details: >-
-          ![Ouest France](/images/petit-logo-ouest-france.png "Ouest France")
-
-
-          ***Comment a été élaboré votre programme ?***
-
-
-          Nous l’avons construit en concertation avec toute l’équipe et avec des
-          Montois des Montoises. Chacun a travaillé par thème de manière
-          participative, tout en gardant en tête un budget raisonné. Il s’agit
-          d’améliorer le quotidien des habitants, sans que cela coûte trop cher.
+        details: '![Ouest France](/images/petit-logo-ouest-france.png "Ouest France")'
         title: Interview d'Yves Mathias dans le Ouest-France
         actions:
           - label: Lire L'article
@@ -25,8 +15,8 @@ sections:
           ![Le Courrier Vendéen](/images/le-courrier-vendeen_w1024.png "Le
           Courrier Vendéen")
         title: >-
-          Municipales. Yves Mathias, élu d’opposition, candidat à
-          Saint-Jean-de-Monts
+          Présentation de la liste Autrement Saint Jean de Monts dans le
+          Courrier Vendéen
         actions:
           - label: Lire l'article
             url: /
@@ -34,7 +24,9 @@ sections:
         details: >-
           ![Le Courrier Vendéen](/images/le-courrier-vendeen_w1024.png "Le
           Courrier Vendéen")
-        title: Le Courrier Vendéen
+        title: >-
+          Présentation du projet Autrement Saint Jean de Monts dans le Courrier
+          Vendéen
         actions:
           - label: Lire l'article
             url: /
