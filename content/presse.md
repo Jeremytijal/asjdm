@@ -29,7 +29,8 @@ sections:
           Vendéen
         actions:
           - label: Lire l'article
-            url: /
+            url: >-
+              /municipales-yves-mathias-élu-d’opposition-candidat-à-saint-jean-de-monts
     title: Nos Actualités Presse
 layout: landing
 ---
