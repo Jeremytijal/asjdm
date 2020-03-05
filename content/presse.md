@@ -5,11 +5,11 @@ sections:
     bg: white
     pricingplans:
       - highlight: false
-        details: '![Ouest France](/images/petit-logo-ouest-france.png "Ouest France")'
+        details: '![Ouest France](/images/ouest-france-logo-.png "Ouest France")'
         title: Interview d'Yves Mathias dans le Ouest-France
         actions:
           - label: Lire L'article
-            url: /
+            url: /interview-dyves-mathias-dans-le-ouest-france/
       - highlight: false
         details: >-
           ![Le Courrier Vendéen](/images/le-courrier-vendeen_w1024.png "Le
@@ -30,5 +30,6 @@ sections:
         actions:
           - label: Lire l'article
             url: /
+    title: Nos Actualités Presse
 layout: landing
 ---
