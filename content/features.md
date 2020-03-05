@@ -20,11 +20,6 @@ sections:
             url: /économie-tourisme
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
-      - highlight: false
-        details: '![r](/images/Nos-propositions.png "r")'
-        actions:
-          - label: r
-            url: /
     type: section_pricing2
   - bg: gray
     pricingplans:
@@ -47,13 +42,13 @@ sections:
   - bg: gray
     pricingplans:
       - actions:
-          - label: Prochainement
-            url: /prochainement
+          - label: Être Séniors à Saint Jean
+            url: /être-séniors-à-saint-jean
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
       - actions:
-          - label: Prochainement
-            url: /prochainement
+          - label: Éducation Jeunesse Et Sport
+            url: /éducation-jeunesse-et-sport
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
       - actions:
