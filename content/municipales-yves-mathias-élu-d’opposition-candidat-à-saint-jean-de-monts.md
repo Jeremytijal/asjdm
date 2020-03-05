@@ -1,5 +1,5 @@
 ---
-title: ' Municipales. Yves Mathias, élu d’opposition, candidat à Saint-Jean-de-Monts.'
+title: ' Municipales. Yves Mathias, élu d’opposition, candidat à Saint-Jean-de-Monts'
 img_path: /images/logo-cv-autrement.png
 menu:
   main:
