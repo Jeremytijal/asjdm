@@ -32,7 +32,7 @@ sections:
         actions:
           - label: Lire l'article
             url: >-
-              /municipales-yves-mathias-élu-d’opposition-candidat-à-saint-jean-de-monts
+              /présentation-du-projet-autrement-saint-jean-de-monts-dans-le-courrier-vendéen/
     title: ''
   - type: section_cta
     title: Envoyez-nous vos idées.
