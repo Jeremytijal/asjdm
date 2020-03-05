@@ -3,7 +3,7 @@ title: ' Municipales. Yves Mathias, élu d’opposition, candidat à Saint-Jean-
 img_path: /images/logo-cv-autrement.png
 menu:
   main:
-    name: ''
+    name: '  '
     weight: ''
 layout: page
 ---
