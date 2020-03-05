@@ -3,8 +3,9 @@ title: Yves Mathias dévoile une partie de sa liste
 img_path: /images/logo-cv-autrement.png
 menu:
   main:
-    name: ''
+    name: Yves Mathias dévoile une partie de sa liste
     weight: ''
+    parent: Presse
 layout: page
 ---
 Le candidat Yves Mathias présente une partie de son groupe "Autrement Saint-Jean-de-Monts", qui compte quatre personnes ayant déjà exercé des fonctions municipales par le passé.
