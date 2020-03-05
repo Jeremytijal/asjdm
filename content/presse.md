@@ -39,5 +39,9 @@ sections:
     actions:
       - label: Envoyer mon idée
         url: /contact
+menu:
+  main:
+    name: Presse
+    weight: 7
 layout: landing
 ---
