@@ -3,12 +3,12 @@ title: ' Municipales. Yves Mathias, élu d’opposition, candidat à Saint-Jean-
 img_path: /images/logo-cv-autrement.png
 menu:
   main:
-    name: ''
+    name: >-
+      Présentation de la liste Autrement Saint Jean de Monts dans le Courrier
+      Vendéen
     weight: ''
-    identifier: >-
-      Municipales. Yves Mathias, élu d’opposition, candidat à
-      Saint-Jean-de-Monts.
-    parent: '  Presse'
+    identifier: ''
+    parent: Presse
 layout: page
 ---
 Présentée sous l’intitulé « Autrement Saint-Jean-de-Monts », la liste complète qui part à la conquête de l’hôtel de ville, est composée de 14 femmes et de 15 hommes. **«Une équipe très innovante, qui compte bien associer ses expériences municipales individuelles avec son enthousiasme pour la découverte»**, précise Yves Mathias, en présentant les motivations de son groupe.
