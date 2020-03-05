@@ -3,8 +3,8 @@ title: Interview d'Yves Mathias dans le Ouest-France
 img_path: /images/logo-of-autrement-3.png
 menu:
   main:
-    name: Presse
-    weight: 6
+    name: ''
+    weight: ''
 layout: page
 ---
 ***Comment a été élaboré votre programme ?***
