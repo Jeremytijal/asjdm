@@ -1,6 +1,8 @@
 ---
 title: FAQ
 sections:
+  - type: section_hero3
+    title: Foire Aux Questions
   - bg: gray
     faqitems:
       - answer: >-
@@ -73,12 +75,16 @@ sections:
           artisans**
         question: Où pouvons-nous aller voter ?
     section_id: faq
-    title: FAQ
+    title: ''
     type: section_faq
+  - type: section_cta
+    title: Envoyez-nous vos questions
+    actions:
+      - label: Envoyer ma question
+        url: /contact
 menu:
   main:
     name: FAQ
     weight: 5
 layout: landing
 ---
-
