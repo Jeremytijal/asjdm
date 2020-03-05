@@ -51,11 +51,6 @@ sections:
             url: /éducation-jeunesse-et-sport
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
-      - actions:
-          - label: Prochainement
-            url: /prochainement
-        details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
-        highlight: true
     type: section_pricing2
   - actions:
       - label: Envoyer mon idée
