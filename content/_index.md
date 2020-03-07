@@ -8,11 +8,6 @@ sections:
     section_id: hero
     title: Autrement Saint Jean de Monts
     type: section_hero
-  - actions:
-      - label: Notre Tract
-        url: >-
-          https://drive.google.com/file/d/1JtnufYrS-Mg0Dwbm1BLfz-XD-M5RL2XD/view?usp=sharing
-    type: section_cta2
   - bg: gray
     featureslist:
       - actions:
@@ -42,9 +37,7 @@ sections:
     section_id: recent-posts
     title: Réunions Publiques
     type: section_posts
-    actions:
-      - label: Découvrez toutes nos réunions publiques
-        url: /blog
+    actions: []
 menu:
   main:
     name: Accueil
