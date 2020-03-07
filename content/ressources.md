@@ -22,6 +22,13 @@ sections:
           - label: Ouvrir le document
             url: >-
               https://drive.google.com/file/d/1JtnufYrS-Mg0Dwbm1BLfz-XD-M5RL2XD/view
+      - highlight: false
+        title: Notre Programme
+        details: '![Programme](/images/programme.png "Programme")'
+        actions:
+          - label: Ouvrir le document
+            url: >-
+              https://drive.google.com/file/d/1_m_1qfX_0-C0uGfUcNPG3sSO9O2fSeX2/view?usp=sharing
     title: Nos Ressources
 menu:
   main:
