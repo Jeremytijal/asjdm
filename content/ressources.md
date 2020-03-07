@@ -23,11 +23,6 @@ sections:
             url: >-
               https://drive.google.com/file/d/1JtnufYrS-Mg0Dwbm1BLfz-XD-M5RL2XD/view
     title: Nos Ressources
-  - type: section_cta
-    title: Envoyez-nous vos idées.
-    actions:
-      - label: Envoyer mon idée
-        url: /contact
 menu:
   main:
     name: Ressources
