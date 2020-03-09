@@ -42,7 +42,7 @@ sections:
   - bg: gray
     pricingplans:
       - actions:
-          - label: Être Séniors à Saint Jean
+          - label: Être Seniors à Saint Jean
             url: /être-séniors-à-saint-jean
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
