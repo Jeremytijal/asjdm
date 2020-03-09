@@ -24,7 +24,7 @@ sections:
         details: |-
           ![Mireille Glorion](/images/Mireille Glorion.jpg "Mireille Glorion")
 
-          68 ans. Élue.
+          68 ans. Commerciale en retraite.
         highlight: false
         price: ''
         title: Mireille Glorion
@@ -45,7 +45,7 @@ sections:
         details: |-
           ![Amélie Rivière](/images/Amélie Rivière.jpg "Amélie Rivière")
 
-          37 ans. Gestionnaire de copropriété.
+          37 ans. Gestionnaire de co-propriété.
         highlight: false
         price: ''
         title: Amélie Rivière
@@ -63,7 +63,7 @@ sections:
           Leplu")
 
 
-          57 ans, Manager en communication
+          57 ans, Communication
         highlight: false
         title: Christian Leplu
       - actions:
@@ -96,7 +96,7 @@ sections:
         details: |-
           ![Sonia Pineau](/images/Sonia PINEAU.jpg "Sonia Pineau")
 
-          51 ans. Attachée de direction.
+          51 ans. Secrétaire.
         highlight: false
         title: Sonia Pineau
       - actions:
@@ -129,7 +129,7 @@ sections:
           "Jean-Jacques Robreteau")
 
 
-          62 ans. Commerçant en retraite.
+          62 ans. Commerçant/Artisan.
         highlight: false
         title: Jean-Jacques Robreteau
       - actions:
@@ -149,7 +149,7 @@ sections:
           Petreau")
 
 
-          63 ans. Gérant de société en retraite.
+          63 ans. Profession libérale en retraite.
         highlight: false
         title: Dominique Petreau
     section_id: equipe4
@@ -193,7 +193,7 @@ sections:
         details: |-
           ![Camille Goizet](/images/Camille Goizet equipe.png "Camille Goizet")
 
-          69 ans. Gérant de Société en retraite.
+          69 ans. Directeur Golf retraité.
         highlight: false
         title: Camille Goizet
       - actions:
@@ -229,7 +229,7 @@ sections:
           Bollengier")
 
 
-          65 ans. Cadre EDF en retraite.
+          65 ans. Retraitée EDF.
         highlight: false
         title: Liliane Bollengier
       - actions:
@@ -238,7 +238,7 @@ sections:
         details: |-
           ![Laurent le Louarne](/images/laurent equipe.png "Laurent le Louarne")
 
-          49 ans. Conducteur Piontier Groupe SUEZ.
+          49 ans. Conducteur Pontier.
         highlight: false
         title: Laurent le Louarne
       - actions:
@@ -270,7 +270,7 @@ sections:
         details: |-
           ![Magali Turquaud](/images/magali equipe-2.png "Magali Turquaud")
 
-          43 ans. Assistante en administration des ventes.
+          43 ans. Assistante des ventes.
         highlight: false
         title: Magali Turquaud
       - actions:
@@ -294,7 +294,7 @@ sections:
         details: |-
           ![Nadine Raboisson](/images/nadine equipe.png "Nadine Raboisson")
 
-          63 ans. Adjointe de direction entreprise retraitée.
+          63 ans. Assistante direction en retraite.
         highlight: false
         title: Nadine Raboisson
       - actions:
@@ -312,7 +312,7 @@ sections:
         details: |-
           ![Flavie Lefeuvre](/images/flavie equipe.png "Flavie Lefeuvre")
 
-          19 ans. Étudiante.
+          19 ans. Étudiante en Droit.
         highlight: false
         title: Flavie Lefeuvre
     section_id: equipe9
@@ -347,7 +347,7 @@ sections:
           "Jean-Jacques Vasseur")
 
 
-          68 ans. Retraité de l’industrie automobile.
+          68 ans. Retraité.
         highlight: false
         title: Jean-Jacques Vasseur
     section_id: equipe10
@@ -361,4 +361,3 @@ menu:
     weight: 2
 layout: landing
 ---
-
