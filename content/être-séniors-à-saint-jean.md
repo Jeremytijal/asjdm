@@ -5,7 +5,7 @@ sections:
     bg: white
     content: >-
       ![Titre- ÊTRE SÉNIORS À
-      STJEAN](/images/titre-être-séniors-à-stjean.png "Titre - ÊTRE SÉNIORS
+      STJEAN](/images/titre-être-seniors-à-st-jean.png "Titre - ÊTRE SÉNIORS
       À STJEAN")
   - type: section_content
     bg: white
