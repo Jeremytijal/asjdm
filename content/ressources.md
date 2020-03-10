@@ -28,7 +28,7 @@ sections:
         actions:
           - label: Ouvrir le document
             url: >-
-              https://drive.google.com/file/d/1_m_1qfX_0-C0uGfUcNPG3sSO9O2fSeX2/view?usp=sharing
+              https://drive.google.com/file/d/1O0GEBWVa4SCS90qUrP09VSbffgcCKpzf/view?usp=sharing
     title: Nos Ressources
 menu:
   main:
