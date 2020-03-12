@@ -62,6 +62,33 @@ sections:
     title: Réunions Publiques
     type: section_posts
     actions: []
+  - type: section_pricing
+    bg: white
+    pricingplans:
+      - highlight: false
+        title: 'A situation exceptionnelle, Mesures exceptionnelles.'
+        details: >-
+          Pour faire suite **aux mesures annoncées par le Président de la
+          REPUBLIQUE,** nous sommes au regret de vous annoncer que nous avons
+          décidé d'adopter un **COMPORTEMENT RESPONSABLE** et d'**annuler notre
+          dernière rencontre**.
+
+
+          Nous sommes attristés de ne pas pouvoir partager avec vous cette
+          dernière soirée de campagne électorale.
+
+
+          Nous profitons de ce message pour vous rappeler que le Dimanche 15
+          mars sera le seul tour des ELECTIONS MUNICIPALES à SAINT JEAN de
+          MONTS. Qu'il n'y aura pas de second tour.
+
+
+          C'est un scrutin de liste, vous ne devez pas rayer ni modifier les
+          bulletins de vote.
+
+
+          Nous comptons sur votre soutien et vous donnons rendez vous dimanche
+          soir.
 menu:
   main:
     name: Accueil
