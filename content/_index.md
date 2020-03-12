@@ -9,7 +9,7 @@ sections:
     title: Autrement Saint Jean de Monts
     type: section_hero
   - type: section_content
-    bg: gray
+    bg: white
     content: >-
       Pour faire suite **aux mesures annoncées par le Président de la
       REPUBLIQUE,** nous sommes au regret de vous annoncer que nous avons décidé
