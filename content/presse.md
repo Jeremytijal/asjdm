@@ -38,10 +38,14 @@ sections:
     bg: white
     pricingplans:
       - highlight: false
-        title: Courrier Vendéen
+        title: 'Maintien des taxes, commerces et sport'
         details: >-
-          ![Courrier Vendéen Papier](/images/articlecourriervendéenpresse.jpg
+          ![Courrier Vendéen Papier](/images/le-courrier-vendeen_w1024.png
           "Courrier Vendéen Papier")
+        actions:
+          - label: Lire L'article
+            url: >-
+              https://drive.google.com/file/d/1-1NzxCocIx5gZM6vQ4b2WJ-zxxgRMc_a/view?usp=sharing
   - type: section_cta
     title: Envoyez-nous vos idées.
     actions:
