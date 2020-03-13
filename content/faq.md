@@ -77,11 +77,6 @@ sections:
     section_id: faq
     title: ''
     type: section_faq
-  - type: section_cta
-    title: Envoyez-nous vos questions
-    actions:
-      - label: Envoyer ma question
-        url: /contact
 menu:
   main:
     name: FAQ
