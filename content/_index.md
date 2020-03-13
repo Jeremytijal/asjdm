@@ -11,10 +11,10 @@ sections:
   - type: section_content
     bg: white
     content: >-
-      Pour faire suite **aux mesures annoncées par le Président de la
-      REPUBLIQUE,** nous sommes au regret de vous annoncer que nous avons décidé
-      d'adopter un **COMPORTEMENT RESPONSABLE** et d'**annuler notre dernière
-      rencontre**.
+      Pour faire suite aux mesures annoncées par le Président de la REPUBLIQUE,
+      nous décidons d'adopter un COMPORTEMENT RESPONSABLE et **d'annuler notre
+      dernière rencontre prévue le vendredi 13 mars à 19H30 à l'entresol de la
+      mairie.**
 
 
       Nous sommes attristés de ne pas pouvoir partager avec vous cette dernière
