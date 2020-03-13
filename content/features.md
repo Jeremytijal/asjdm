@@ -52,13 +52,6 @@ sections:
         details: '![Nos propositions](/images/Nos-propositions.png "Nos propositions")'
         highlight: true
     type: section_pricing2
-  - actions:
-      - label: Envoyer mon idée
-        url: /contact
-    section_id: call-to-action
-    subtitle: ''
-    title: 'Envoyez-nous vos idées '
-    type: section_cta
 menu:
   main:
     name: Nos Propositions
