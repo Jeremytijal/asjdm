@@ -46,11 +46,6 @@ sections:
           - label: Lire L'article
             url: >-
               https://drive.google.com/file/d/1-1NzxCocIx5gZM6vQ4b2WJ-zxxgRMc_a/view?usp=sharing
-  - type: section_cta
-    title: Envoyez-nous vos idées.
-    actions:
-      - label: Envoyer mon idée
-        url: /contact
 menu:
   main:
     name: Presse
