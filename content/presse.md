@@ -56,5 +56,8 @@ menu:
     name: Presse
     weight: 7
     identifier: Presse
+  secondary:
+    name: Presse
+    weight: 6
 layout: landing
 ---
