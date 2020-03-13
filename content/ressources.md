@@ -35,5 +35,8 @@ menu:
     name: Ressources
     weight: 8
     identifier: Ressources
+  secondary:
+    name: Ressources
+    weight: 7
 layout: landing
 ---
