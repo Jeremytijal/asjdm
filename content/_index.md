@@ -50,13 +50,6 @@ sections:
     subtitle: ''
     title: 'Notre vision pour votre avenir '
     type: section_features
-  - actions:
-      - label: J'ai des idées
-        url: /contact
-    section_id: call-to-action
-    subtitle: N'hésitez pas à nous envoyer vos idées pour Saint Jean de Monts
-    title: Nous sommes à votre écoute !
-    type: section_cta
   - bg: gray
     section_id: recent-posts
     title: Réunions Publiques
