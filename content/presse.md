@@ -34,6 +34,14 @@ sections:
             url: >-
               /présentation-du-projet-autrement-saint-jean-de-monts-dans-le-courrier-vendéen/
     title: ''
+  - type: section_pricing
+    bg: white
+    pricingplans:
+      - highlight: false
+        title: Courrier Vendéen
+        details: >-
+          ![Courrier Vendéen Papier](/images/articlecourriervendéenpresse.jpg
+          "Courrier Vendéen Papier")
   - type: section_cta
     title: Envoyez-nous vos idées.
     actions:
