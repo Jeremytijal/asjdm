@@ -86,5 +86,8 @@ menu:
   main:
     name: FAQ
     weight: 5
+  secondary:
+    name: FAQ
+    weight: 7
 layout: landing
 ---
