@@ -498,7 +498,7 @@ collections:
                 hint: >-
                   Name of the Stackbit object model, used by fields of type
                   reference
-                default: section_cta3      
+                default: section_cta3
           - name: section_faq
             widget: object
             label: FAQ Section
@@ -856,7 +856,7 @@ collections:
                   - widget: string
                     name: url
                     label: Button URL
-                    required: false    
+                    required: false
               - widget: hidden
                 name: type
                 label: Reference Type Name
@@ -1386,12 +1386,12 @@ collections:
     fields:
       - widget: string
         name: title
-        label: Title
+        label: Titre
         required: true
-        hint: The title of the post.
+        hint: Le titre du post.
       - widget: string
         name: subtitle
-        label: Subtitle
+        label: Sous-titre
         required: false
         hint: The text shown just below the Title or the Featured Image.
       - widget: date
@@ -1402,17 +1402,17 @@ collections:
         name: thumb_img_path
         label: Blog Feed Image
         required: false
-        hint: The image shown in the blog feed.
+        hint: L'image qui apparait sur la page Accueil et Actualités
       - widget: image
         name: img_path
         label: Featured Image
         required: false
-        hint: The image shown below the title.
+        hint: L'image dans le post sous le titre.
       - widget: string
         name: excerpt
-        label: Excerpt
+        label: Extrait
         required: false
-        hint: The excerpt of the post displayed in the blog feed.
+        hint: L'extrait du message affiché dans le fil du blog.
       - widget: object
         name: menu
         label: Post Menus
@@ -1490,7 +1490,7 @@ collections:
         name: body
         label: Content
         required: false
-        hint: Page content
+        hint: Texte de l'actualité
     filter:
       field: layout
       value: post
