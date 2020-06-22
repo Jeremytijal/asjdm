@@ -1,12 +1,11 @@
 ---
-title: Réunions Publiques
+title: Actualités
 menu:
   main:
-    name: Réunions Publiques
+    name: Actualités
     weight: 4
   secondary:
-    name: Réunions Publiques
+    name: Actualités
     weight: 4
 layout: blog
 ---
-
