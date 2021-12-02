@@ -7,11 +7,11 @@ sections:
     title: Nos Tribunes
 menu:
   main:
-    name: Ressources
-    weight: 8
-    identifier: Ressources
+    name: Nos Tribunes
+    weight: 3
+    identifier: Tribunes
   secondary:
-    name: Ressources
-    weight: 7
+    name: Nos Tribunes
+    weight: 2
 layout: landing
 ---
