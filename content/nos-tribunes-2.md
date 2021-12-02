@@ -4,7 +4,7 @@ sections:
   - type: section_pricing
     bg: white
     pricingplans: []
-    title: Nos Ressources
+    title: Nos Tribunes
 menu:
   main:
     name: Ressources
