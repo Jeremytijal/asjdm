@@ -1,14 +1,13 @@
 ---
 title: Notre Équipe
 sections:
-  - title: 'Découvrez nos colistiers '
+  - title: "Découvrez nos colistiers "
     type: section_hero4
   - actions:
       - label: En savoir plus
         url: /signup
     bg: white
-    content: >-
-      La valeur humaine, la transparence, le respect de mes engagements, le
+    content: La valeur humaine, la transparence, le respect de mes engagements, le
       dévouement sont pour moi des valeurs essentielles qui m’ont toujours
       accompagné et guidé dans mes actes et décisions tant à titre personnel que
       professionnel.
@@ -26,7 +25,7 @@ sections:
 
           68 ans. Commerciale en retraite.
         highlight: false
-        price: ''
+        price: ""
         title: Mireille Glorion
       - actions:
           - label: En savoir plus
@@ -37,7 +36,7 @@ sections:
 
 
           55 ans. Enseignant.
-        price: ''
+        price: ""
         title: Pierre-Jean Eveille
       - actions:
           - label: En savoir plus
@@ -47,11 +46,11 @@ sections:
 
           37 ans. Gestionnaire de co-propriété.
         highlight: false
-        price: ''
+        price: ""
         title: Amélie Rivière
     section_id: equipe1
-    subtitle: ''
-    title: ''
+    subtitle: ""
+    title: ""
     type: section_pricing
   - bg: white
     pricingplans:
@@ -215,7 +214,7 @@ sections:
 
           50 ans. Gérant de société.
         highlight: false
-        price: ''
+        price: ""
         title: Patrice Leroy
     section_id: equipe6
     type: section_pricing
@@ -262,7 +261,7 @@ sections:
 
           63 ans. Commercial en Immobilier.
         highlight: false
-        price: ''
+        price: ""
         title: Didier Turpin
       - actions:
           - label: En savoir plus
@@ -331,7 +330,7 @@ sections:
         highlight: false
         title: Dominique Dauphin
       - actions:
-          - label: 'En savoir plus '
+          - label: "En savoir plus "
             url: /suzanne-lemoussu
         details: |-
           ![Suzanne Lemoussu](/images/Suzanne LEMOUSSU.jpg "Suzanne Lemoussu")
@@ -355,7 +354,7 @@ sections:
 menu:
   main:
     name: Notre Équipe
-    weight: 3
+    weight: 6
   secondary:
     name: Notre Équipe
     weight: 2
