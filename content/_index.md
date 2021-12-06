@@ -34,6 +34,6 @@ sections:
 menu:
   main:
     name: Accueil
-    weight: 1
+    weight: 2
 layout: landing
 ---
