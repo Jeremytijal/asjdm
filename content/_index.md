@@ -11,8 +11,8 @@ sections:
   - type: section_features2
     bg: gray
     featureslist:
-      - {}
-    title: Page Facebook
+      - title: Notre Page Facebook
+    title: ""
   - bg: gray
     featureslist:
       - actions:
