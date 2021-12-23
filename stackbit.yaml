@@ -447,7 +447,49 @@ models:
             - type: markdown
               name: answer
               label: Answer
-  section_features:
+ section_features:
+   type: object
+   label: Features Section
+   extends:
+     - section
+   fields:
+     - type: string
+       name: subtitle
+       label: Subtitle
+       description: The subtitle of the section.
+     - type: enum
+       name: bg
+       label: Background
+       description: The background of the section.
+       options:
+         - gray
+         - white
+       default: gray
+     - type: list
+       name: featureslist
+       label: Features List
+       items:
+         type: object
+         label: Feature
+         labelField: title
+         fields:
+           - type: string
+             name: title
+             label: Title
+           - type: markdown
+             name: content
+             label: Content
+             description: The text content of the feature.
+           - type: image
+             name: image
+             label: Image
+             description: The image of the feature.
+           - type: list
+             name: actions
+             label: Action Buttons
+             items:
+               type: action
+  section_features2:
     type: object
     label: Features Section
     extends:
