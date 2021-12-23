@@ -1,7 +1,8 @@
 [build]
-command = "hugo"
 publish = "public"
-context = "production"
+command = "hugo"
+
+
 
 
   [build.environment]
