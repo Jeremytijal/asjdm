@@ -3,6 +3,7 @@ command = "hugo"
 commandOrigin = "config"
 publish = "/opt/build/repo/public"
 publishOrigin = "config"
+context = "production"
 
 
   [build.environment]
