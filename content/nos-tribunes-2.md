@@ -12,6 +12,6 @@ menu:
     identifier: Tribunes
   secondary:
     name: Nos Tribunes
-    weight: 2
+    weight: 9
 layout: landing
 ---
