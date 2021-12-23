@@ -2,10 +2,10 @@
 title: Actualités
 menu:
   main:
-    name: Actualités
-    weight: 4
+    name: ""
+    weight: ""
   secondary:
-    name: Actualités
-    weight: 4
+    name: ""
+    weight: ""
 layout: blog
 ---
