@@ -1,7 +1,6 @@
 stackbitVersion: ~0.2.0
 ssgName: hugo
 ssgVersion: 0.1.12
-buildCommand: ./ssg-build.sh
 publishDir: public
 staticDir: static
 uploadDir: images
@@ -587,7 +586,7 @@ models:
         name: actions
         label: Action Buttons
         items:
-          type: action  
+          type: action
   section_pricing:
     type: object
     label: Pricing Section
