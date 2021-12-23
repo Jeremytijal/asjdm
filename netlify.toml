@@ -1,6 +1,8 @@
 [build]
 command = "hugo"
-publish = "public"
+commandOrigin = "config"
+publish = "/opt/build/repo/public"
+publishOrigin = "config"
 
 
   [build.environment]
