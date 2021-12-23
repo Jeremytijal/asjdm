@@ -239,6 +239,7 @@ models:
             - section_cta3
             - section_faq
             - section_features
+            - section_features2
             - section_hero
             - section_hero2
             - section_hero3
