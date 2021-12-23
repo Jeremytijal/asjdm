@@ -8,6 +8,11 @@ sections:
     section_id: hero
     title: Autrement Saint Jean de Monts
     type: section_hero
+  - type: section_features2
+    bg: gray
+    featureslist:
+      - {}
+    title: Page Facebook
   - bg: gray
     featureslist:
       - actions:
@@ -26,11 +31,6 @@ sections:
     subtitle: ""
     title: "Notre vision pour votre avenir "
     type: section_features
-  - bg: gray
-    section_id: recent-posts
-    title: Actualités
-    type: section_posts
-    actions: []
 menu:
   main:
     name: Accueil
