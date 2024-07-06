@@ -12,8 +12,8 @@ params:
     content: '&copy; Netary. Tous droits réservés.'
     links:
       - new_window: true
-        text: Netary
-        url: 'https://netary.fr'
+        text: IA Déco
+        url: 'https://www.ia-deco.com/'
     nav_title: Menu
     has_nav: true
   header:
